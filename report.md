@@ -327,26 +327,26 @@ El impacto se refleja en la calidad de la dieta de los consumidores y las oportu
 #### 1.2.2.1. Lean UX Problem Statements
 
 **Problema 1:**
-Los usuarios a menudo encuentran complicado hallar propiedades que se ajusten a sus necesidades y preferencias específicas, lo que hace que la búsqueda sea ineficaz y frustrante. La carencia de herramientas avanzadas para descartar y comparar opciones, junto con la falta de asesoramiento, dificulta la toma de decisiones informadas y puede causar inseguridad durante el proceso de búsqueda y compra de viviendas.
+Los universitarios y profesionales ocupados a menudo no tienen acceso a opciones de comida casera y saludable debido a sus horarios limitados. Esto los lleva a depender de comidas rápidas y menos nutritivas, lo que afecta negativamente su salud y bienestar.
 
 **Impacto:**
-La ineficiencia y falta de claridad en la búsqueda de propiedades inmobiliarias pueden ocasionar que los usuarios pierdan tiempo y recursos, además de reducir su confianza en las plataformas actuales. Asimismo, una experiencia de búsqueda insatisfactoria puede disminuir la retención de usuarios y generar una percepción negativa de la marca.
+La falta de opciones de comida casera y saludable puede resultar en una dieta menos nutritiva y una calidad de vida deteriorada para estos consumidores. Esto no solo afecta su salud general, sino que también puede reducir su satisfacción y lealtad hacia las opciones alimenticias disponibles actualmente, creando una oportunidad significativa para soluciones que mejoren su acceso a comidas saludables y personalizadas.
 
 ---   
     
 **Problema 2:**
-Los usuarios enfrentan inseguridades al interactuar con la plataforma debido a la falta de un acuerdo legal claro y formal que respalde y atestigüe las condiciones de las propiedades. Esta ausencia de garantías legales dificulta que los usuarios confíen en la veracidad de la información proporcionada sobre las propiedades, lo que puede generar desconfianza y falta de compromiso con la plataforma.
+Los cocineros caseros enfrentan dificultades para monetizar sus habilidades culinarias de manera efectiva sin realizar una inversión significativa en un restaurante o negocio de catering. La falta de una plataforma adecuada les impide llegar a potenciales clientes y gestionar sus ofertas de manera eficiente.
 
 **Impacto:**
-La falta de un acuerdo legal sólido puede llevar a que los usuarios eviten utilizar la plataforma, ya que podrían preferir opciones donde las condiciones de las propiedades estén legalmente respaldadas. Esto podría resultar en una disminución en el número de usuarios y en la participación, afectando negativamente la reputación de la marca y comprometiendo la sostenibilidad del negocio a largo plazo.
+La ausencia de una solución que facilite la monetización de sus habilidades culinarias puede llevar a que los cocineros caseros pierdan oportunidades de ingresos adicionales. Esto puede desalentar a aquellos que buscan ganar dinero desde casa y limitar la disponibilidad de opciones de comida casera para los consumidores. Sin una plataforma adecuada, los cocineros pueden no alcanzar su potencial de ingresos y los consumidores pueden perder la oportunidad de disfrutar de comida casera de calidad.
 
 ---   
     
 **Problema 3:**
-Los usuarios tienen dificultades para encontrar información detallada y relevante sobre las propiedades disponibles. La falta de detalles cruciales, como el estado del inmueble, las comodidades disponibles y la ubicación exacta, puede complicar su evaluación y generar desconfianza debido a la poca precisión de la información proporcionada.
+Los consumidores necesitan una forma confiable y fácil de encontrar y personalizar opciones de comida casera que se adapten a sus preferencias y necesidades dietéticas. La falta de herramientas efectivas para buscar, filtrar y adaptar pedidos puede complicar el proceso de adquisición de comidas personalizadas.
 
 **Impacto:**
-La ausencia de información detallada y relevante puede llevar a los usuarios a tomar decisiones menos acertadas, eligiendo propiedades que no satisfacen sus expectativas o necesidades. Esto puede generar una experiencia negativa para el usuario y una pérdida de confianza en la plataforma, lo que podría afectar negativamente la reputación de la marca y la retención de usuarios a largo plazo.
+La dificultad para encontrar y personalizar opciones de comida puede llevar a una experiencia de usuario frustrante, donde los consumidores no logran obtener comidas que satisfagan sus expectativas y necesidades. Esto puede disminuir la satisfacción del cliente y la retención en la plataforma, afectando la reputación y efectividad general del servicio ofrecido.
     
 #### 1.2.2.2. Lean UX Assumptions
     
