@@ -232,53 +232,59 @@ Ciclo 2024-02 | Sección
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 
+El término "Startup" describe a pequeñas y medianas empresas que irrumpen en el mercado con ideas innovadoras, usualmente vinculadas al ámbito tecnológico, y que tienen un gran potencial para crecer y expandirse rápidamente. Estas empresas se destacan por ser escalables, lo que significa que pueden aumentar su tamaño y alcance sin que los costos se incrementen de manera proporcional. Además, las Startups suelen nacer con el propósito de resolver de manera efectiva un problema social significativo, utilizando soluciones novedosas y accesibles.
+
 ### 1.1.1. Descripción del Startup
 <div class="text-justify">
 
-Nuestra startup "Nido Urbano" se forma con el propósito de revolucionar el proceso de búsqueda de propiedades inmobiliarias para todo tipo de necesidades, desde aspectos financieros hasta la importancia de estar ubicado cerca a un determinado centro de trabajo u estudio. 
-    
-Ante ello, el proyecto UrbanNest es iniciado y presentado como una plataforma destinada a ofrecer una experiencia integral en la búsqueda de la viviendia ideal para cada usuario, evitando que este se exija en exceso durante el proceso de indagación de su mejor opción. Por ello, nos comprometemos a despejar la carga que conlleva dicho proceso y encargarnos de las tareas que pueden resultar más tediosas para el usuario. 
+"Sabores Cercanos" es una plataforma web que conecta a cocineros caseros con estudiantes universitarios y profesionales ocupados que buscan alternativas alimenticias rápidas y saludables. A través de esta plataforma, los cocineros pueden ofrecer sus servicios, presentando menús personalizados, opciones de precios, ubicaciones y promociones especiales. Los consumidores, por su parte, tienen la posibilidad de explorar, seleccionar y pedir comida casera directamente de cocineros locales, adaptándose a sus preferencias y necesidades alimenticias.
+
+Una de las características distintivas de "Sabores Cercanos" es que fomenta una comunidad activa, donde tanto cocineros como consumidores pueden interactuar y compartir recetas, enriqueciendo así la experiencia gastronómica. Esto no solo permite a los consumidores disfrutar de comidas nutritivas y personalizadas, sino que también brinda a los cocineros una plataforma flexible para generar ingresos adicionales a su propio ritmo.
+
+#### Propuesta de Valor:
+
+La propuesta de valor de "Sabores Cercanos" radica en ofrecer comida casera de alta calidad, adaptada a las necesidades del consumidor, y a precios competitivos. Gracias a una interfaz fácil de usar y procesos de compra optimizados, "Sabores Cercanos" crea un entorno en el que la pasión por la cocina se convierte en una oportunidad económica para los cocineros, y en una solución práctica y saludable para los consumidores.
 
 <div class="text-center"><b>Logotipo de la Startup:</b> </div>
     
 <div style="text-align:center;">
-    <img src="https://i.postimg.cc/nhrtq7St/Logo-Final.png" alt="UrbanNest" >
+    <img src="" alt="UrbanNest" >
 </div><br>
 
-**Visión:** Crear un entorno en el que todos puedan hallar su hogar ideal de manera sencilla y segura, aprovechando la tecnología para facilitar el proceso de búsqueda y estadía por el tiempo que el huésped desee.
+**Visión:** Nuestra visión es convertirnos en la plataforma líder en América Latina para conectar cocineros caseros con consumidores, y ser reconocidos por nuestro compromiso con la calidad, la confianza y una experiencia culinaria excepcional. Aspiramos a crear un movimiento que valore y celebre la comida casera y las tradiciones culinarias locales, al mismo tiempo que promovemos estilos de vida sostenibles y saludables. Nuestro objetivo es establecer un nuevo estándar en la economía colaborativa dentro del sector alimenticio, haciendo que la comida casera sea una opción accesible y preferida para todos, y brindando a cada cocinero la oportunidad de compartir su talento y mejorar su calidad de vida.
 
-**Misión:** Mediante la aplicación de conceptos de ingeniería y desarrollo de software, nuestra misión es ofrecer un producto centrado en conectar los requerimientos de nuestros usuarios para simplificar la búsqueda de viviendas y permitir que puedan utilizar las herramientas necesarias para tomar decisiones informadas de acuerdo a sus necesidades de vivienda.
+**Misión:** La misión de "Sabores Cercanos" es cambiar la forma en que las personas acceden a la comida casera, conectando a cocineros apasionados con consumidores que valoran opciones de alimentación saludables y convenientes. Buscamos empoderar a los cocineros caseros, proporcionándoles las herramientas necesarias para monetizar sus habilidades culinarias, mientras ayudamos a nuestros consumidores a disfrutar de comidas nutritivas y sabrosas. Además, nos comprometemos a fomentar una comunidad inclusiva y participativa, donde la cocina y la tradición culinaria se compartan y se celebren.
 
 ### 1.1.2. Perfiles De Integrantes Del Equipo
 
-#### Nombre: Aranda Vallejos, Oscar Gabriel | U202218167
-
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
-
----
-#### Nombre: Cantoral Sedamano, Alexander ALberto | U20181b152
-
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
-
----
-#### Nombre: Chirinos Zúñiga, Rodrigo Manuel | U202217804
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
-
-
----
 #### Nombre: Gomez Hurtado, Miguel Angel | U202220294
+
 > Descripción, carrera, habilidades técnicas, habilidades blandas.
 >
 > [Imagen]
 
 ---
-#### Nombre: Quispe Tipo, Godofredo | U202120772
+####  | 
+
+> Descripción, carrera, habilidades técnicas, habilidades blandas.
+>
+> [Imagen]
+
+---
+#### Nombre:  | 
+> Descripción, carrera, habilidades técnicas, habilidades blandas.
+>
+> [Imagen]
+
+
+---
+#### Nombre:  | 
+> Descripción, carrera, habilidades técnicas, habilidades blandas.
+>
+> [Imagen]
+
+---
+#### Nombre:  | 
 
 > Descripción, carrera, habilidades técnicas, habilidades blandas.
 >
@@ -287,29 +293,35 @@ Ante ello, el proyecto UrbanNest es iniciado y presentado como una plataforma de
 ---
 
 ## 1.2. Solution Profile
-Mediante "UrbanNest" nos comprometemos con la misión de revolucionar la búsqueda y adquisición de propiedades inmobiliarias, utilizando una innovadora propuesta de desarrollo de software. Para ello, nos encargaremos de ofrecer una experiencia gratificante y rápida para la búsqueda de viviendas, con el objetivo de implementar un proceso eficiente, fácil y seguro. Además, se prioriza que las necesidades individuales de cada usuario sean tomadas en cuenta para brindar opciones personalizadas con filtros de búsqueda y una navegación tanto cómoda como intuitiva. Por consiguiente, información detallada sobre cada propiedad será revelada para garantizar que el procedimiento sea transparente y satisfactorio para todos.
+"Sabores Cercanos" tiene como objetivo facilitar el acceso a comida casera saludable mediante una plataforma que conecta a quienes necesitan soluciones alimenticias con cocineros que buscan monetizar sus habilidades culinarias desde casa. La plataforma permitirá una búsqueda y personalización eficiente de comidas, asegurando una experiencia satisfactoria y segura tanto para consumidores como para proveedores.
     
 ### 1.1.2. Antecedentes y Problemática
-Hoy en día, la búsqueda de propiedades inmobiliarias a menudo se convierte en un proceso complicado y agotador. Los usuarios se ven obligados a recorrer varias plataformas, enfrentándose a información que con frecuencia es inexacta o incompleta, y a procesos de verificación que resultan confusos. Esta situación puede causar frustración y, en algunos casos, llevar a decisiones de inversión que no cumplen con las expectativas de los usuarios.
+Actualmente, muchas personas, especialmente universitarios y profesionales, luchan por mantener una dieta saludable debido a horarios agitados, lo que les lleva a optar por comida rápida de baja calidad. Al mismo tiempo, muchos entusiastas de la cocina buscan formas de ganar dinero desde casa sin tener que abrir un restaurante o negocio de catering.
 
-Nido Urbano enfrenta un reto doble. Por un lado, debe simplificar y personalizar la búsqueda de propiedades para hacerla más accesible y menos intimidante para los usuarios. Por otro, debe garantizar que el proceso sea seguro y eficiente, protegiendo a los usuarios de fraudes y ayudándolos a tomar decisiones informadas.
+"Sabores Cercanos" enfrenta dos desafíos principales. Primero, debe ofrecer una solución accesible para aquellos que necesitan comidas caseras y saludables pero no tienen tiempo para cocinarlas. Segundo, debe proporcionar a los cocineros caseros una forma sencilla y eficiente de monetizar sus habilidades culinarias.
 
-Para enfrentar estos desafíos, es esencial comprender a fondo los problemas que los usuarios experimentan al buscar propiedades inmobiliarias. Es necesario identificar las barreras y frustraciones que surgen en este proceso, así como reconocer las posibles consecuencias a largo plazo si estos problemas no se abordan de manera efectiva.
+Para abordar estos problemas, es esencial entender las dificultades que enfrentan tanto los consumidores como los cocineros caseros. Identificar las barreras que limitan el acceso a comidas de calidad y las dificultades para los cocineros es crucial para ofrecer una solución efectiva.
 
 * **What (¿Qué?):**
-La búsqueda de propiedades inmobiliarias es compleja y carece de transparencia, lo cual obstaculiza que los usuarios puedan encontrar la vivienda que se ajuste a sus necesidades y preferencias.
+El problema radica en la falta de tiempo de los consumidores para cocinar y la ausencia de un canal adecuado para que los cocineros caseros monetizen sus habilidades.
+
 * **When (¿Cuándo?):**
-Este problema en la búsqueda de propiedades inmobiliarias ha estado presente durante años, y se ha intensificado con el incremento de la oferta en el mercado y la ausencia de herramientas eficientes para distinguir opciones viables.
+El problema es constante, afectando a los consumidores en sus horarios de comida, particularmente durante el almuerzo y la cena. Los cocineros también enfrentan este problema continuamente, debido a la falta de plataformas adecuadas.
+
 * **Why (¿Por qué?):** 
-La causa principal de esta problemática es la falta de un entorno transparente donde el propietario y el cliente interesado puedan unificar sus deseos y necesidades de manera rápida y sencilla. La notoria ausencia de esta moralidad se puede vislumbrar a través de las constantes estafas inmobiliarias y los cambios repentinos durante la vigencia de un contrato de vivienda ya establecido.
+La falta de tiempo para cocinar y las limitaciones para los cocineros caseros de invertir en un negocio tradicional son las principales causas. Esto resulta en opciones limitadas y de baja calidad para los consumidores y oportunidades reducidas para los cocineros.
+
 * **Who (¿Quién?):** 
-Esta problemática afecta e involucra tanto a la persona que desea hospedarse en un inmueble como al propietario del inmueble, ya que ambos buscan priorizar sus necesidades y esperan llegar a un pacto que esté acorde a sus exigencias y presupuestos.  
+Abarca a universitarios y profesionales que desean opciones de comida saludable y a cocineros caseros que buscan generar ingresos adicionales sin un negocio formal.
+
 * **Where (¿Dónde?):**
-La dificultad para encontrar propiedades inmobiliarias se presenta en la gran mayoría de regiones con un mercado en constante movimiento, abarcando tanto las zonas urbanas como rurales del país.
+Principalmente en áreas urbanas con alta concentración de personas ocupadas y donde los cocineros pueden operar desde sus hogares.
+
 * **How (¿Cómo?):** 
-Los usuarios encuentran dificultades al comparar opciones de manera eficiente, así como al obtener información precisa sobre el estado actual de las propiedades disponibles.
+Los consumidores tienen dificultades para encontrar comidas saludables y personalizadas debido a la falta de tiempo, mientras que los cocineros enfrentan problemas para monetizar sus habilidades sin una plataforma adecuada.
+
 * **How Much (¿Cuánto?):**
-El impacto de esta problemática se traduce en el tiempo y esfuerzo que los usuarios deben dedicar a la búsqueda de propiedades, así como en las decisiones financieras cruciales que podrían tomar basándose en información incompleta o incorrecta. 
+El impacto se refleja en la calidad de la dieta de los consumidores y las oportunidades de ingresos para los cocineros, quienes no tienen un canal efectivo para ofrecer sus servicios.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
