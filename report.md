@@ -38,7 +38,13 @@ Ciclo 2024-02 | Sección
 
 #### 2. Actividades de Elaboración del Informe
 
-
+| Actividad                           | Descripción                                                                                          |
+|-------------------------------------|------------------------------------------------------------------------------------------------------|
+| Comunicación de avances            | Se realizaron reuniones virtuales donde se comentaban los avances de cada integrante del equipo para garantizar un trabajo sincronizado y tener conocimiento de cada modificación.                                |
+| Delegación de responsabilidades    | Se organizaron pequeñas reuniones para la delegación de tareas y se enfatizó la importancia de revisar cuidadosamente el enunciado del proyecto para evitar irregularidades futuras.                              |
+| Revisión de ortografía             | Se mantuvo un control exhaustivo de la redacción del informe y se enfatizó la importancia de revisar en todo momento las nomenclaturas utilizadas, respetando las convenciones y el uso de buenas prácticas.                                                        |
+| Recopilación de datos              | Se obtuvieron datos mediante entrevistas y referencias bibliográficas, los cuales se utilizaron para sustentar los argumentos expuestos en el informe.                                                          |
+| Desarrollo del informe              | Se completaron las diferentes secciones del informe, empleando las herramientas y metodologías apropiadas de acuerdo a las indicaciones del proyecto.                                                         |
 
 #### 3. Capturas de Imagen de los Analíticos de Colaboración y Commits en GitHub
 
