@@ -349,8 +349,6 @@ Los consumidores necesitan una forma confiable y fácil de encontrar y personali
 La dificultad para encontrar y personalizar opciones de comida puede llevar a una experiencia de usuario frustrante, donde los consumidores no logran obtener comidas que satisfagan sus expectativas y necesidades. Esto puede disminuir la satisfacción del cliente y la retención en la plataforma, afectando la reputación y efectividad general del servicio ofrecido.
     
 #### 1.2.2.2. Lean UX Assumptions
-    
-**Para la parte de la empresa:**
 
 1. **Assumption 1:**
 >    - Tendremos éxito cuando logremos que un número significativo de cocineros caseros se registre en nuestra plataforma y ofrezca una variedad de menús personalizados y de calidad.
@@ -372,61 +370,39 @@ La dificultad para encontrar y personalizar opciones de comida puede llevar a un
 >    - Tendremos éxito cuando logremos establecer alianzas estratégicas con proveedores locales de ingredientes y servicios de entrega, mejorando la eficiencia y calidad del servicio ofrecido.
 >    - Es importante resaltar que estas alianzas deben contribuir a reducir costos y mejorar la cadena de suministro, beneficiando tanto a los cocineros como a los consumidores.
 
-**Para la parte del usuario:**
-
-1. **Assumption 1:**
->    - Tendremos éxito cuando los usuarios perciban nuestra plataforma como una solución confiable y útil para encontrar su próximo lugar de residencia.
->    - Es importante resaltar la confiabilidad y la precisión de la información proporcionada sobre cada propiedad, así como la transparencia en el proceso de búsqueda.
-
-2. **Assumption 2:**
->    - Tendremos éxito cuando los usuarios puedan aliviar su tiempo y esfuerzo en la búsqueda de propiedades, utilizando las herramientas de la plataforma basadas en filtros eficientes para comparar y encontrar lo que el usuario busca.
->    - Es importante resaltar la facilidad de uso y la eficiencia de nuestra plataforma, permitiendo a los usuarios encontrar rápidamente opciones que se ajusten a sus criterios específicos.
-
-3. **Assumption 3:**
->    - Tendremos éxito cuando los usuarios disfruten de una interfaz cómoda y personalizada, adaptándose a sus necesidades y preferencias individuales.
->    - Es importante resaltar la capacidad de nuestra plataforma para ofrecer opciones de búsqueda relevantes y personalizadas, así como la atención a las necesidades específicas de cada usuario.
-
-4. **Assumption 4:**
->    - Tendremos éxito cuando los usuarios experimenten un alto nivel de satisfacción al encontrar una propiedad que cumpla con sus expectativas y necesidades.
->    - Es importante resaltar la calidad y la diversidad de las opciones de vivienda disponibles en nuestra plataforma, así como la facilidad para evaluar y comparar diferentes propiedades.
-
-5. **Assumption 5:**
->    - Tendremos éxito cuando los usuarios recomienden nuestra plataforma a amigos y familiares como una herramienta confiable y efectiva para encontrar propiedades inmobiliarias.
->    - Es importante resaltar la satisfacción y la confianza de los usuarios en nuestra plataforma, así como su disposición a compartir su experiencia positiva con otros.
-
 #### 1.2.2.3. Lean UX Hypothesis Statements
     
 1. **Hipótesis 1:**
-   - **Creemos que:** Si simplificamos el proceso de búsqueda de propiedades inmobiliarias mediante una interfaz intuitiva y herramientas de filtrado eficientes, los usuarios encontrarán más fácilmente opciones que se ajusten a sus necesidades.
-   - **Sabremos que:** Esta hipótesis será cierta cuando observemos un aumento del 5% en la tasa de interacción para la sección de las herramientas de filtrado y una disminución del 8% en el número de clientes pérdidos.
+   - **Creemos que:** Si ofrecemos una plataforma intuitiva y fácil de usar para que los cocineros caseros gestionen sus menús y pedidos, aumentará la cantidad de cocineros registrados y activos en la plataforma.
+   - **Sabremos que:** Esta hipótesis será cierta cuando observemos un incremento del 10% en el número de cocineros activos y un aumento del 15% en la cantidad de menús disponibles en la plataforma.
 
 1. **Hipótesis 2:**
-   - **Creemos que:** Al personalizar la experiencia del usuario y ofrecer opciones de búsqueda relevantes, aumentaremos la retención de usuarios y la satisfacción general.
-   - **Sabremos que:** Esta hipótesis será cierta si observamos un incremento del 5% en el número de visitas a la plataforma y un aumento del 10% en la duración de la visita.
+   - **Creemos que:** Al proporcionar herramientas de personalización para que los consumidores puedan adaptar sus pedidos a sus necesidades dietéticas y preferencias, aumentará la satisfacción y la retención de usuarios.
+   - **Sabremos que:** Esta hipótesis será cierta si observamos un incremento del 7% en la tasa de repetición de pedidos y un aumento del 10% en las valoraciones positivas de los usuarios sobre la personalización de las comidas.
 
 1. **Hipótesis 3:**
-   - **Creemos que:** Al proporcionar información detallada y precisa sobre cada propiedad, aumentaremos la confianza de los usuarios en nuestra plataforma.
-   - **Sabremos que:** Esta hipótesis será cierta cuando observemos un aumento del 8% en la tasa de clics en las fichas de propiedades y una disminución del 13% en las consultas de soporte relacionadas con la falta de información.
+   - **Creemos que:** Al garantizar la calidad y frescura de los ingredientes utilizados por los cocineros caseros, aumentaremos la confianza y la lealtad de los consumidores hacia la plataforma.
+   - **Sabremos que:** Esta hipótesis será cierta cuando veamos una reducción del 12% en las quejas relacionadas con la calidad de las comidas y un incremento del 8% en las reseñas positivas de los usuarios.
 
 1. **Hipótesis 4:**
-   - **Creemos que:** Al mejorar la comunicación y la transparencia durante el proceso de adquisición de viviendas, aumentaremos la confianza de los usuarios en nuestra plataforma y en los agentes inmobiliarios asociados.
-   - **Sabremos que:** Esta hipótesis será cierta a través de encuestas de satisfacción del usuario que muestren un aumento del 8% en la percepción de transparencia y confiabilidad.
+   - **Creemos que:** Si establecemos un sistema de entrega eficiente y confiable, mejoraremos la experiencia del usuario y aumentaremos la frecuencia de pedidos.
+   - **Sabremos que:** Esta hipótesis será cierta cuando observemos un aumento del 10% en la frecuencia de pedidos por parte de usuarios recurrentes y una disminución del 5% en las quejas relacionadas con tiempos de entrega.
 
 1. **Hipótesis 5:**
-   - **Creemos que:** Al proporcionar una variedad de opciones de vivienda que se adapten a diferentes presupuestos y preferencias, aumentaremos la satisfacción general de los usuarios.
-   - **Sabremos que:** Esta hipótesis será cierta si observamos un incremento significativo del 10% en la tasa retención de clientes que eligen su vivienda ideal a través de nuestra plataforma.
+   - **Creemos que:** Al facilitar la monetización flexible para los cocineros caseros, sin la necesidad de grandes inversiones iniciales, aumentaremos el número de cocineros que usan la plataforma de manera regular.
+   - **Sabremos que:** Esta hipótesis será cierta si observamos un incremento del 15% en la cantidad de cocineros que utilizan la plataforma para generar ingresos de manera constante durante tres meses consecutivos.
 
 1. **Hipótesis 6:**
-   - **Creemos que:** Al simplificar el proceso de contacto con agentes inmobiliarios y propietarios, aumentaremos la probabilidad de que los usuarios conviertan su interés en una acción concreta para estar un paso más cerca de adquirir una vivienda o pendiente de la oferta.
-   - **Sabremos que:** Esta hipótesis será cierta si observamos un aumento del 10% en la tasa de cierre de acuerdos o reservas de propiedades.
+   - **Creemos que:** Al ofrecer promociones y descuentos personalizados a los consumidores, aumentaremos la tasa de conversión y la satisfacción general.
+   - **Sabremos que:** Esta hipótesis será cierta si observamos un incremento del 10% en la tasa de conversión de usuarios registrados a compradores activos y un aumento del 5% en la satisfacción general medida a través de encuestas.
 
 1. **Hipótesis 7:**
-   - **Creemos que:** Al optimizar la velocidad de carga y la capacidad de respuesta de nuestra plataforma, mejoraremos la satisfacción del usuario y la retención.
-   - **Sabremos que:** Esta hipótesis será cierta si observamos una disminución del 3% en el tiempo de carga de las páginas y una mejora en las métricas de retención y compromiso del usuario.
+   - **Creemos que:** Al crear una comunidad activa en la plataforma donde cocineros y consumidores puedan interactuar y compartir recetas, incrementaremos el compromiso y la lealtad de los usuarios.
+   - **Sabremos que:** Esta hipótesis será cierta cuando veamos un aumento del 12% en las interacciones dentro de la comunidad y un incremento del 7% en la retención de usuarios activos.
 
 1. **Hipótesis 8:**
-   - **Creemos que:** Al ofrecer una guía de navegación sobre el proceso de adquisición de viviendas en nuestra plataforma, aumentaremos la confianza y la satisfacción de los usuarios.
-   - **Sabremos que:** Esta hipótesis es cierta si, mediante encuestas de usuario, observamos una mejora del 8% en las métricas de satisfacción del cliente y una reducción del 10% en consultas relacionadas con el proceso de adquisición, lo que indicaría que la guía está siendo efectiva y clara para los usuarios. 
+   - **Creemos que:** Si proporcionamos un soporte al cliente rápido y efectivo, mejoraremos la confianza de los usuarios y reduciremos las tasas de abandono de la plataforma.
+   - **Sabremos que:** Esta hipótesis será cierta cuando observemos una reducción del 15% en las solicitudes de cancelación de cuentas y un aumento del 8% en las calificaciones positivas sobre el servicio al cliente.
     
     
 #### 1.2.2.4. Lean UX Problem Canvas
