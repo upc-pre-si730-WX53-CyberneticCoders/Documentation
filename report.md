@@ -353,24 +353,24 @@ La dificultad para encontrar y personalizar opciones de comida puede llevar a un
 **Para la parte de la empresa:**
 
 1. **Assumption 1:**
->    - Tendremos éxito cuando logremos incorporar un medio que lleve a cabo el proceso de buscar y adquirir propiedades inmobiliarias de forma más sencilla mediante una plataforma virtual para agilizar las funciones.
->    - Es importante resaltar que precisamos enfocarnos en ofrecer una interfaz con una navegación intuitiva que cuente con herramientas avanzadas de filtrado de manera fluida.
+>    - Tendremos éxito cuando logremos que un número significativo de cocineros caseros se registre en nuestra plataforma y ofrezca una variedad de menús personalizados y de calidad.
+>    - Es importante resaltar que nuestra plataforma debe ser fácil de usar para los cocineros, permitiéndoles gestionar sus menús y pedidos de manera eficiente, sin complicaciones técnicas.
 
 2. **Assumption 2:**
->    - Tendremos éxito cuando observemos que nuestra plataforma sea el medio más utilizado por los usuarios que buscan propiedades, debido a su énfasis en la personalización y la pertinencia de las opciones disponibles.
->    - Es importante resaltar que nuestra plataforma se adapta a las necesidades específicas de cada usuario, proporcionando opciones de búsqueda personalizadas y pertinentes.
+>    - Tendremos éxito cuando nuestra plataforma se convierta en la opción preferida por universitarios y profesionales ocupados para acceder a comida casera, debido a la calidad, personalización y accesibilidad de las opciones disponibles.
+>    - Es importante resaltar que debemos proporcionar una experiencia de usuario intuitiva y satisfactoria, garantizando que los consumidores encuentren fácilmente comidas que se adapten a sus preferencias y necesidades.
 
 3. **Assumption 3:**
->    - Tendremos éxito cuando establezcamos una sólida base de usuarios leales y satisfechos que confíen en nuestra plataforma para encontrar su próximo hogar.
->    - Es importante resaltar la transparencia y la confiabilidad de nuestra plataforma, proporcionando información detallada y precisa sobre cada propiedad listada.
+>    - Tendremos éxito cuando logremos establecer una base sólida de usuarios recurrentes, tanto cocineros como consumidores, que confíen en nuestra plataforma para sus necesidades culinarias diarias.
+>    - Es importante resaltar la necesidad de mantener altos estándares de calidad y fiabilidad en los servicios ofrecidos, asegurando la satisfacción continua de los usuarios.
 
 4. **Assumption 4:**
->    - Tendremos éxito cuando podamos demostrar que nuestra plataforma aumenta la eficiencia y reduce el tiempo necesario para encontrar una propiedad adecuada.
->    - Es importante resaltar la eficiencia y la rapidez con la que los usuarios pueden encontrar y comparar diferentes opciones de vivienda utilizando nuestra plataforma.
+>    - Tendremos éxito cuando podamos demostrar que nuestra plataforma facilita a los cocineros la monetización de sus habilidades culinarias de manera flexible y sin necesidad de grandes inversiones.
+>    - Es importante resaltar que la plataforma debe permitir a los cocineros alcanzar un equilibrio entre su vida personal y la oportunidad de generar ingresos adicionales, sin sobrecargarlos con procesos complicados.
 
 5. **Assumption 5:**
->    - Tendremos éxito cuando podamos establecer asociaciones sólidas con agentes inmobiliarios y propietarios, lo que nos permitirá ampliar nuestra base de datos de propiedades y mejorar la diversidad de opciones disponibles para los usuarios.
->    - Es importante resaltar la amplia variedad de opciones de vivienda disponibles en nuestra plataforma, incluyendo propiedades exclusivas y difíciles de encontrar.
+>    - Tendremos éxito cuando logremos establecer alianzas estratégicas con proveedores locales de ingredientes y servicios de entrega, mejorando la eficiencia y calidad del servicio ofrecido.
+>    - Es importante resaltar que estas alianzas deben contribuir a reducir costos y mejorar la cadena de suministro, beneficiando tanto a los cocineros como a los consumidores.
 
 **Para la parte del usuario:**
 
