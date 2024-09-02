@@ -55,16 +55,11 @@
 
 
 
+
 # CONTENIDO
 
-## REGISTRO DE VERSIONES DEL INFORME
 
-## PROJECT REPORT COLLABORATION INSIGHTS
-
-
-*****
-*****
-# **TABLA DE CONTENIDOS**
+## **TABLA DE CONTENIDOS**
 
 **Carátula**
 
@@ -248,8 +243,6 @@
 **Bibliografía**  
 **Anexos**
 
-*****
-*****
 
 
 
