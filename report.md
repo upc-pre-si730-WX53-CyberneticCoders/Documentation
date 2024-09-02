@@ -1,28 +1,29 @@
-# Universidad Peruana de Ciencias Aplicadas
+**Universidad Peruana de Ciencias Aplicadas**
 
-## Ingeniería de Sistemas y Computación | Ingeniería de Software
+**Ingeniería de Software \- Grupo 5 (WX53)**
 
-### APLICACIONES WEB
+**Aplicaciones Web** 
 
-#### TF REPORT
+# INFORME DEL TRABAJO FINAL
 
-**Nombre del Startup**
+**Profesor:** Alberto Wilmer Sanchez Seña
 
-**Nombre del Producto**
+**Startup:** Cybernetic Coders
 
-**Docente:** 
+**Grupo:** 5
 
-**Grupo 5**
+**Producto:** Sabores Cercanos
 
-**Team Members:**
+**Integrantes:**
 
-- 
-- 
-- Miguel Angel Gomez Hurtado | U202220294
-- 
-- 
+* **Dalila Victoria Torres Sanchez\- U20221F734**  
+* **2 Rafael Alberto Cuya Villegas \- u201913495**
+* **3 \- 3**  
+* **4  \- 4**  
+* **5  \- 5**  
 
-Ciclo 2024-02 | Sección 
+
+
 
 # REGISTRO DE VERSIONES DEL INFORME
 
