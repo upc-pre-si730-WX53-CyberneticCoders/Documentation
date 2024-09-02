@@ -17,7 +17,7 @@
 **Integrantes:**
 
 * **Dalila Victoria Torres Sanchez\- U20221F734**  
-* **2 Rafael Alberto Cuya Villegas \- u201913495**
+* **Rafael Alberto Cuya Villegas \- u201913495**
 * **3 \- 3**  
 * **4  \- 4**  
 * **5  \- 5**  
