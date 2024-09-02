@@ -568,13 +568,13 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
-|                        | Oportunidades                  | Amenazas                       |
+|                        | **Oportunidades**                  | **Amenazas**                       |
 |------------------------|--------------------------------|--------------------------------|
 | **O1:** Expansión en un mercado establecido. | **A1:** Competencia de grandes plataformas como UberEats y Rappi, que tienen mayores recursos para publicidad y desarrollo de infraestructura. |
 | **O2:** Sobresale gracias a la limitada cantidad de negocios iguales en el rubro. | **A2:** Nuevas plataformas que ofrecen comida casera de calidad similar. |
 |                        |                                | **A3:** Competencia de plataformas que ofrecen calidad similar a precios más accesibles. |
 
-### FO (Ofensivas)
+## FO (Ofensivas)
 
 **FO1:** Expansión Geográfica y Diversificación de la Oferta  
 Aprovechar la facilidad de uso de la aplicación (F1) y la variedad de opciones de platos (F2) para expandirse a nuevos mercados locales que valoran la autenticidad y calidad de la comida casera (O1). Se podría empezar por ciudades cercanas y luego expandirse regionalmente, destacando siempre la experiencia amigable del usuario (F3) como un diferenciador clave.
@@ -582,7 +582,7 @@ Aprovechar la facilidad de uso de la aplicación (F1) y la variedad de opciones 
 **FO2:** Potenciación de la Comunidad de Recetas  
 Utilizar la experiencia de usuario amigable (F3) y la autenticidad de la comida casera para fortalecer la comunidad de recetas, incentivando a los usuarios a compartir más recetas y conectar con otros consumidores (O2). Esto no solo mejora la retención de usuarios, sino que también incrementa el valor percibido de la plataforma.
 
-### FA (Defensivas)
+## FA (Defensivas)
 
 **FA1:** Programa de Fidelización y Beneficios Exclusivos  
 Frente a la competencia de grandes plataformas como UberEats y Rappi (A1), implementar un programa de fidelización que recompense a los usuarios frecuentes con descuentos o acceso anticipado a nuevos platos. Esto puede ayudar a retener a los usuarios y disminuir el riesgo de que migren a la competencia.
@@ -590,12 +590,12 @@ Frente a la competencia de grandes plataformas como UberEats y Rappi (A1), imple
 **FA2:** Alianzas con Chefs y Cocineros Reconocidos  
 Para contrarrestar la amenaza de nuevas plataformas que ofrecen comida casera de calidad (A2), establecer alianzas con chefs reconocidos o influencers gastronómicos para crear platos exclusivos en la plataforma. Esto no solo mejora la percepción de calidad sino que también atrae a nuevos usuarios.
 
-### DO (Reorientación)
+## DO (Reorientación)
 
 **DO1:** Fortalecer la Red de Cocineros Locales  
 Utilizar la expansión en un mercado establecido (O1) como oportunidad para reclutar y formar más cocineros locales (D1), reduciendo así la debilidad de tener una red limitada de cocineros. Esto también permitirá aumentar la variedad de opciones de platos por día (O2).
 
-### DA (Supervivencia)
+## DA (Supervivencia)
 
 **DA1:** Optimización de Costos Operativos  
 Implementar medidas de eficiencia en la operación diaria para reducir costos y así poder ofrecer precios más competitivos (D3). Esto es crucial frente a la competencia que puede ofrecer precios más accesibles (A3).
