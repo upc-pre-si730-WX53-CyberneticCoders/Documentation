@@ -25,11 +25,11 @@
 
 
 
-# REGISTRO DE VERSIONES DEL INFORME
+## REGISTRO DE VERSIONES DEL INFORME
 
 
 
-# PROJECT REPORT COLLABORATION INSIGHTS
+## PROJECT REPORT COLLABORATION INSIGHTS
 
 #### 1. URL del Repositorio en GitHub
 
@@ -250,32 +250,29 @@
 # STUDENT OUTCOME
 
 
+# Capítulo 1: Introducción
 
-# Capítulo I: Introducción
-## 1.1. Startup Profile
+## **1.1. Startup Profile**
 
-El término "Startup" describe a pequeñas y medianas empresas que irrumpen en el mercado con ideas innovadoras, usualmente vinculadas al ámbito tecnológico, y que tienen un gran potencial para crecer y expandirse rápidamente. Estas empresas se destacan por ser escalables, lo que significa que pueden aumentar su tamaño y alcance sin que los costos se incrementen de manera proporcional. Además, las Startups suelen nacer con el propósito de resolver de manera efectiva un problema social significativo, utilizando soluciones novedosas y accesibles.
+El término Startup se utiliza para describir pequeñas y medianas empresas que ingresan al mercado con ideas vinculadas al mundo tecnológico, con notables perspectivas de desarrollo. Una Startup se distingue por ser un negocio escalable, con gran potencial de crecimiento y con una veloz y efectiva expansión. Por otro lado, las Startups surgen con la finalidad de resolver con claridad un problema social de gran relevancia, de una forma simple e innovadora.
 
-### 1.1.1. Descripción del Startup
-<div class="text-justify">
+### **1.1.1. Descripción de la Startup**
 
-"Sabores Cercanos" es una plataforma web que conecta a cocineros caseros con estudiantes universitarios y profesionales ocupados que buscan alternativas alimenticias rápidas y saludables. A través de esta plataforma, los cocineros pueden ofrecer sus servicios, presentando menús personalizados, opciones de precios, ubicaciones y promociones especiales. Los consumidores, por su parte, tienen la posibilidad de explorar, seleccionar y pedir comida casera directamente de cocineros locales, adaptándose a sus preferencias y necesidades alimenticias.
+#### **Descripción de la empresa:**
 
-Una de las características distintivas de "Sabores Cercanos" es que fomenta una comunidad activa, donde tanto cocineros como consumidores pueden interactuar y compartir recetas, enriqueciendo así la experiencia gastronómica. Esto no solo permite a los consumidores disfrutar de comidas nutritivas y personalizadas, sino que también brinda a los cocineros una plataforma flexible para generar ingresos adicionales a su propio ritmo.
+"Sabores Cercanos" es una plataforma web diseñada para conectar a cocineros caseros con universitarios y profesionales que carecen de tiempo para cocinar. La plataforma permite a los cocineros ofrecer sus servicios de comida, incluyendo menús personalizados, precios, ubicaciones, y ofertas especiales. Los consumidores pueden buscar, seleccionar y pedir comida casera de cocineros locales, basándose en sus preferencias alimenticias y restricciones dietéticas. Además, "Sabores Cercanos" promueve una comunidad culinaria activa donde se pueden compartir y descubrir recetas, fomentando la interacción entre cocineros y consumidores.
 
-#### Propuesta de Valor:
+La propuesta de valor de "Sabores Cercanos" se centra en proporcionar comida casera de calidad, personalizada y a precios asequibles, mientras que ofrece a los cocineros una vía para generar ingresos adicionales de forma flexible. A través de una interfaz intuitiva y procesos eficientes, "Sabores Cercanos" crea un ecosistema donde la pasión por la cocina y la necesidad de comidas prácticas y saludables se encuentran.
 
-La propuesta de valor de "Sabores Cercanos" radica en ofrecer comida casera de alta calidad, adaptada a las necesidades del consumidor, y a precios competitivos. Gracias a una interfaz fácil de usar y procesos de compra optimizados, "Sabores Cercanos" crea un entorno en el que la pasión por la cocina se convierte en una oportunidad económica para los cocineros, y en una solución práctica y saludable para los consumidores.
+##### **Misión:**
 
-<div class="text-center"><b>Logotipo de la Startup:</b> </div>
-    
-<div style="text-align:center;">
-    <img src="" alt="UrbanNest" >
-</div><br>
+La misión de "Sabores Cercanos" es transformar la forma en que las personas acceden a la comida casera, conectando a cocineros apasionados con consumidores que buscan opciones de alimentación saludable y conveniente. Aspiramos a empoderar a los cocineros caseros, brindándoles la oportunidad de monetizar sus habilidades culinarias, mientras mejoramos la calidad de vida de nuestros consumidores a través de alimentos nutritivos y sabrosos. Fomentamos una comunidad en la que compartir la pasión por la cocina se convierte en una experiencia enriquecedora para todos.
 
-**Visión:** Nuestra visión es convertirnos en la plataforma líder en América Latina para conectar cocineros caseros con consumidores, y ser reconocidos por nuestro compromiso con la calidad, la confianza y una experiencia culinaria excepcional. Aspiramos a crear un movimiento que valore y celebre la comida casera y las tradiciones culinarias locales, al mismo tiempo que promovemos estilos de vida sostenibles y saludables. Nuestro objetivo es establecer un nuevo estándar en la economía colaborativa dentro del sector alimenticio, haciendo que la comida casera sea una opción accesible y preferida para todos, y brindando a cada cocinero la oportunidad de compartir su talento y mejorar su calidad de vida.
+##### **Visión:**
 
-**Misión:** La misión de "Sabores Cercanos" es cambiar la forma en que las personas acceden a la comida casera, conectando a cocineros apasionados con consumidores que valoran opciones de alimentación saludables y convenientes. Buscamos empoderar a los cocineros caseros, proporcionándoles las herramientas necesarias para monetizar sus habilidades culinarias, mientras ayudamos a nuestros consumidores a disfrutar de comidas nutritivas y sabrosas. Además, nos comprometemos a fomentar una comunidad inclusiva y participativa, donde la cocina y la tradición culinaria se compartan y se celebren.
+Nuestra visión es ser la plataforma líder en conectar cocineros caseros y consumidores en América Latina, reconocida por ofrecer calidad, confianza y una experiencia gastronómica única. Queremos crear un movimiento que celebre la comida casera y las tradiciones culinarias locales, mientras promovemos estilos de vida saludables y sostenibles. Buscamos establecer un estándar en la economía colaborativa del sector alimentario, donde la comida casera se convierta en una opción accesible y preferida para todos, y donde cada cocinero tenga la oportunidad de compartir su talento y mejorar su vida.
+
+
 
 ### 1.1.2. Perfiles De Integrantes Del Equipo
 
@@ -314,201 +311,216 @@ La propuesta de valor de "Sabores Cercanos" radica en ofrecer comida casera de a
 
 ---
 
-## 1.2. Solution Profile
-"Sabores Cercanos" tiene como objetivo facilitar el acceso a comida casera saludable mediante una plataforma que conecta a quienes necesitan soluciones alimenticias con cocineros que buscan monetizar sus habilidades culinarias desde casa. La plataforma permitirá una búsqueda y personalización eficiente de comidas, asegurando una experiencia satisfactoria y segura tanto para consumidores como para proveedores.
-    
-### 1.1.2. Antecedentes y Problemática
-Actualmente, muchas personas, especialmente universitarios y profesionales, luchan por mantener una dieta saludable debido a horarios agitados, lo que les lleva a optar por comida rápida de baja calidad. Al mismo tiempo, muchos entusiastas de la cocina buscan formas de ganar dinero desde casa sin tener que abrir un restaurante o negocio de catering.
+## **1.2. Solution Profile**
 
-"Sabores Cercanos" enfrenta dos desafíos principales. Primero, debe ofrecer una solución accesible para aquellos que necesitan comidas caseras y saludables pero no tienen tiempo para cocinarlas. Segundo, debe proporcionar a los cocineros caseros una forma sencilla y eficiente de monetizar sus habilidades culinarias.
+### **1.2.1 Antecedentes y problemática**
 
-Para abordar estos problemas, es esencial entender las dificultades que enfrentan tanto los consumidores como los cocineros caseros. Identificar las barreras que limitan el acceso a comidas de calidad y las dificultades para los cocineros es crucial para ofrecer una solución efectiva.
+En el siguiente apartado, nos encargamos de investigar en detalle el problema en sí mismo. El objetivo es determinar las causas del problema que se deben abordar.
 
-* **What (¿Qué?):**
-El problema radica en la falta de tiempo de los consumidores para cocinar y la ausencia de un canal adecuado para que los cocineros caseros monetizen sus habilidades.
+**What?**
 
-* **When (¿Cuándo?):**
-El problema es constante, afectando a los consumidores en sus horarios de comida, particularmente durante el almuerzo y la cena. Los cocineros también enfrentan este problema continuamente, debido a la falta de plataformas adecuadas.
+* ¿Qué problema hay?  
+  Muchas personas, especialmente universitarios y profesionales, no tienen tiempo para cocinar debido a sus horarios ocupados. Esto los lleva a depender de comida rápida o de baja calidad, afectando su salud y bienestar. Por otro lado, hay muchas personas que disfrutan cocinar y buscan una manera de generar ingresos adicionales desde casa, monetizando su habilidad culinaria sin tener que invertir en un restaurante completo o un negocio de catering.
 
-* **Why (¿Por qué?):** 
-La falta de tiempo para cocinar y las limitaciones para los cocineros caseros de invertir en un negocio tradicional son las principales causas. Esto resulta en opciones limitadas y de baja calidad para los consumidores y oportunidades reducidas para los cocineros.
+**When?**
 
-* **Who (¿Quién?):** 
-Abarca a universitarios y profesionales que desean opciones de comida saludable y a cocineros caseros que buscan generar ingresos adicionales sin un negocio formal.
+* ¿Cuándo sucede el problema?  
+  El problema es continuo. Ocurre diariamente cuando los consumidores enfrentan la necesidad de comer mientras equilibran otras responsabilidades, como el trabajo o los estudios. El problema se intensifica durante las horas pico de almuerzo y cena, cuando el tiempo es limitado.  
+* ¿Cuándo el cliente necesita el programa?  
+  Los consumidores necesitan la plataforma durante sus horarios de comida, especialmente durante el almuerzo y la cena. Los cocineros necesitan la plataforma para poder planificar y gestionar sus servicios de manera eficiente, incluyendo la publicación de menús y la preparación de pedidos.
 
-* **Where (¿Dónde?):**
-Principalmente en áreas urbanas con alta concentración de personas ocupadas y donde los cocineros pueden operar desde sus hogares.
+**Where?**
 
-* **How (¿Cómo?):** 
-Los consumidores tienen dificultades para encontrar comidas saludables y personalizadas debido a la falta de tiempo, mientras que los cocineros enfrentan problemas para monetizar sus habilidades sin una plataforma adecuada.
+* ¿Dónde el cliente usara el producto?  
+  La aplicación se usará principalmente en entornos urbanos, donde hay una alta concentración de profesionales y estudiantes. Los consumidores usarán la aplicación desde sus teléfonos móviles o computadoras para hacer pedidos mientras están en casa, en la oficina o en el campus.
 
-* **How Much (¿Cuánto?):**
-El impacto se refleja en la calidad de la dieta de los consumidores y las oportunidades de ingresos para los cocineros, quienes no tienen un canal efectivo para ofrecer sus servicios.
 
-### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
+**Why?**
 
-**Problema 1:**
-Los universitarios y profesionales ocupados a menudo no tienen acceso a opciones de comida casera y saludable debido a sus horarios limitados. Esto los lleva a depender de comidas rápidas y menos nutritivas, lo que afecta negativamente su salud y bienestar.
+* Debido a la necesidad de ofrecer una solución que conecte a personas que valoran la comida casera con cocineros que desean generar ingresos adicionales. Los consumidores buscan opciones de comida que se adapten a sus preferencias y restricciones alimenticias, mientras que los cocineros buscan una plataforma que les permita monetizar su pasión de manera flexible y accesible. Este problema afecta tanto a la salud de los consumidores como a la economía de los cocineros caseros, quienes podrían beneficiarse de una fuente adicional de ingresos.
 
-**Impacto:**
-La falta de opciones de comida casera y saludable puede resultar en una dieta menos nutritiva y una calidad de vida deteriorada para estos consumidores. Esto no solo afecta su salud general, sino que también puede reducir su satisfacción y lealtad hacia las opciones alimenticias disponibles actualmente, creando una oportunidad significativa para soluciones que mejoren su acceso a comidas saludables y personalizadas.
+**Who?**
 
----   
-    
-**Problema 2:**
-Los cocineros caseros enfrentan dificultades para monetizar sus habilidades culinarias de manera efectiva sin realizar una inversión significativa en un restaurante o negocio de catering. La falta de una plataforma adecuada les impide llegar a potenciales clientes y gestionar sus ofertas de manera eficiente.
+* *Consumidores:* Universitarios y profesionales que no tienen tiempo para cocinar pero desean opciones saludables y personalizadas.  
+* *Proveedores:* Cocineros caseros que buscan una manera de monetizar su habilidad culinaria y generar ingresos adicionales desde sus hogares.
 
-**Impacto:**
-La ausencia de una solución que facilite la monetización de sus habilidades culinarias puede llevar a que los cocineros caseros pierdan oportunidades de ingresos adicionales. Esto puede desalentar a aquellos que buscan ganar dinero desde casa y limitar la disponibilidad de opciones de comida casera para los consumidores. Sin una plataforma adecuada, los cocineros pueden no alcanzar su potencial de ingresos y los consumidores pueden perder la oportunidad de disfrutar de comida casera de calidad.
+**How?**
 
----   
-    
-**Problema 3:**
-Los consumidores necesitan una forma confiable y fácil de encontrar y personalizar opciones de comida casera que se adapten a sus preferencias y necesidades dietéticas. La falta de herramientas efectivas para buscar, filtrar y adaptar pedidos puede complicar el proceso de adquisición de comidas personalizadas.
+* "Sabores Cercanos" propone una plataforma web que conecta a cocineros caseros con consumidores que buscan opciones de comida casera y personalizada. Esto permite a los cocineros caseros ofrecer sus servicios de comida directamente a los consumidores, quienes pueden buscar, seleccionar y personalizar sus pedidos de manera fácil y eficiente. La plataforma también fomenta una comunidad activa donde se comparten recetas y se promueve la interacción culinaria.
 
-**Impacto:**
-La dificultad para encontrar y personalizar opciones de comida puede llevar a una experiencia de usuario frustrante, donde los consumidores no logran obtener comidas que satisfagan sus expectativas y necesidades. Esto puede disminuir la satisfacción del cliente y la retención en la plataforma, afectando la reputación y efectividad general del servicio ofrecido.
-    
-#### 1.2.2.2. Lean UX Assumptions
+Los principales puntos del funcionamiento son:
 
-1. **Assumption 1:**
->    - Tendremos éxito cuando logremos que un número significativo de cocineros caseros se registre en nuestra plataforma y ofrezca una variedad de menús personalizados y de calidad.
->    - Es importante resaltar que nuestra plataforma debe ser fácil de usar para los cocineros, permitiéndoles gestionar sus menús y pedidos de manera eficiente, sin complicaciones técnicas.
+* Registro y Perfil del Usuario: Cocineros y consumidores se registran y crean perfiles detallados que facilitan la oferta y búsqueda de servicios.  
+* Publicación y Gestión de Servicios de Comida: Los cocineros publican menús, precios y promociones, con opciones para personalizar según las necesidades dietéticas de los usuarios.  
+* Búsqueda y Selección de Servicios: Los consumidores utilizan filtros avanzados para encontrar opciones que se ajusten a sus preferencias y ubicación.  
+* Pedidos y Personalización: Los consumidores realizan pedidos personalizados con especificación de fecha y hora de entrega o recogida.  
+* Pagos y Gestión de Pedidos: La plataforma procesa pagos y gestiona el estado de los pedidos, asegurando un servicio eficiente.  
+* Entrega o Recogida: Dependiendo del acuerdo, los cocineros entregan la comida o los consumidores la recogen, con opciones de rastreo en tiempo real.  
+* Sistema de Revisión y Feedback: Consumidores y cocineros pueden dejar reseñas y calificaciones para mejorar la calidad del servicio.  
+* Recetas de Cocina y Comunidad: Los cocineros pueden compartir recetas, creando una comunidad culinaria activa que enriquece la experiencia del usuario.
 
-2. **Assumption 2:**
->    - Tendremos éxito cuando nuestra plataforma se convierta en la opción preferida por universitarios y profesionales ocupados para acceder a comida casera, debido a la calidad, personalización y accesibilidad de las opciones disponibles.
->    - Es importante resaltar que debemos proporcionar una experiencia de usuario intuitiva y satisfactoria, garantizando que los consumidores encuentren fácilmente comidas que se adapten a sus preferencias y necesidades.
+**How much?**
 
-3. **Assumption 3:**
->    - Tendremos éxito cuando logremos establecer una base sólida de usuarios recurrentes, tanto cocineros como consumidores, que confíen en nuestra plataforma para sus necesidades culinarias diarias.
->    - Es importante resaltar la necesidad de mantener altos estándares de calidad y fiabilidad en los servicios ofrecidos, asegurando la satisfacción continua de los usuarios.
+* Los costos para los cocineros caseros incluyen los insumos para preparar las comidas y una comisión por transacción que cobra la plataforma. Para los consumidores, los costos están relacionados con el precio de los menús seleccionados, que se establecen de manera competitiva para asegurar que sean accesibles en comparación con otras opciones de comida rápida o a domicilio.
 
-4. **Assumption 4:**
->    - Tendremos éxito cuando podamos demostrar que nuestra plataforma facilita a los cocineros la monetización de sus habilidades culinarias de manera flexible y sin necesidad de grandes inversiones.
->    - Es importante resaltar que la plataforma debe permitir a los cocineros alcanzar un equilibrio entre su vida personal y la oportunidad de generar ingresos adicionales, sin sobrecargarlos con procesos complicados.
+### **1.2.2 Lean UX Process.**  
+	  
+#### **1.2.2.1. Lean UX Problem Statements.**  
+	  
+Sabores Cercanos es una plataforma web diseñada para conectar a cocineros caseros con universitarios y profesionales que carecen de tiempo para cocinar. La propuesta de valor se centra en proporcionar comida casera de calidad, personalizada y a precios accesibles, al mismo tiempo que ofrece a los cocineros una oportunidad de generar ingresos adicionales de forma flexible.
 
-5. **Assumption 5:**
->    - Tendremos éxito cuando logremos establecer alianzas estratégicas con proveedores locales de ingredientes y servicios de entrega, mejorando la eficiencia y calidad del servicio ofrecido.
->    - Es importante resaltar que estas alianzas deben contribuir a reducir costos y mejorar la cadena de suministro, beneficiando tanto a los cocineros como a los consumidores.
+Hemos observado un factor crítico que afecta a los universitarios y profesionales ocupados y cocineros caseros.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
-    
-1. **Hipótesis 1:**
-   - **Creemos que:** Si ofrecemos una plataforma intuitiva y fácil de usar para que los cocineros caseros gestionen sus menús y pedidos, aumentará la cantidad de cocineros registrados y activos en la plataforma.
-   - **Sabremos que:** Esta hipótesis será cierta cuando observemos un incremento del 10% en el número de cocineros activos y un aumento del 15% en la cantidad de menús disponibles en la plataforma.
+**Problema:**  
+La falta de acceso a opciones de comida casera y saludable afecta la calidad de vida de universitarios y profesionales ocupados, quienes a menudo dependen de opciones rápidas y menos nutritivas debido a sus limitados horarios. Al mismo tiempo, muchos cocineros caseros no tienen una manera efectiva de monetizar sus habilidades culinarias sin tener que invertir en un restaurante o negocio de catering.
 
-1. **Hipótesis 2:**
-   - **Creemos que:** Al proporcionar herramientas de personalización para que los consumidores puedan adaptar sus pedidos a sus necesidades dietéticas y preferencias, aumentará la satisfacción y la retención de usuarios.
-   - **Sabremos que:** Esta hipótesis será cierta si observamos un incremento del 7% en la tasa de repetición de pedidos y un aumento del 10% en las valoraciones positivas de los usuarios sobre la personalización de las comidas.
+**Pregunta central:**  
+¿Cómo podemos mejorar la accesibilidad a comida casera y personalizada para los consumidores, al mismo tiempo que facilitamos a los cocineros caseros la monetización de sus habilidades culinarias de manera eficiente y flexible?
 
-1. **Hipótesis 3:**
-   - **Creemos que:** Al garantizar la calidad y frescura de los ingredientes utilizados por los cocineros caseros, aumentaremos la confianza y la lealtad de los consumidores hacia la plataforma.
-   - **Sabremos que:** Esta hipótesis será cierta cuando veamos una reducción del 12% en las quejas relacionadas con la calidad de las comidas y un incremento del 8% en las reseñas positivas de los usuarios.
+#### **1.2.2.2. Lean UX Assumptions.**
 
-1. **Hipótesis 4:**
-   - **Creemos que:** Si establecemos un sistema de entrega eficiente y confiable, mejoraremos la experiencia del usuario y aumentaremos la frecuencia de pedidos.
-   - **Sabremos que:** Esta hipótesis será cierta cuando observemos un aumento del 10% en la frecuencia de pedidos por parte de usuarios recurrentes y una disminución del 5% en las quejas relacionadas con tiempos de entrega.
+**Business Outcomes**
 
-1. **Hipótesis 5:**
-   - **Creemos que:** Al facilitar la monetización flexible para los cocineros caseros, sin la necesidad de grandes inversiones iniciales, aumentaremos el número de cocineros que usan la plataforma de manera regular.
-   - **Sabremos que:** Esta hipótesis será cierta si observamos un incremento del 15% en la cantidad de cocineros que utilizan la plataforma para generar ingresos de manera constante durante tres meses consecutivos.
+* Incremento en la cantidad de cocineros caseros registrados en la plataforma.  
+* Aumento en el número de pedidos diarios realizados a través de la plataforma.  
+* Mejora en la retención y satisfacción tanto de cocineros como de consumidores, reflejada en altas calificaciones y feedback positivo.  
+* Generación de ingresos estables a través de comisiones por transacción y el establecimiento de suscripciones premium.
 
-1. **Hipótesis 6:**
-   - **Creemos que:** Al ofrecer promociones y descuentos personalizados a los consumidores, aumentaremos la tasa de conversión y la satisfacción general.
-   - **Sabremos que:** Esta hipótesis será cierta si observamos un incremento del 10% en la tasa de conversión de usuarios registrados a compradores activos y un aumento del 5% en la satisfacción general medida a través de encuestas.
+**User Benefits**
 
-1. **Hipótesis 7:**
-   - **Creemos que:** Al crear una comunidad activa en la plataforma donde cocineros y consumidores puedan interactuar y compartir recetas, incrementaremos el compromiso y la lealtad de los usuarios.
-   - **Sabremos que:** Esta hipótesis será cierta cuando veamos un aumento del 12% en las interacciones dentro de la comunidad y un incremento del 7% en la retención de usuarios activos.
+* Para los consumidores: Acceso a comida casera de calidad, adaptada a sus preferencias dietéticas, y la conveniencia de recibirla en su hogar o recogerla.  
+* Para los cocineros: Una manera accesible y flexible de monetizar sus habilidades culinarias sin necesidad de grandes inversiones.  
+* Creación de una comunidad culinaria donde se comparten y descubren recetas, enriqueciendo la experiencia de los usuarios.
 
-1. **Hipótesis 8:**
-   - **Creemos que:** Si proporcionamos un soporte al cliente rápido y efectivo, mejoraremos la confianza de los usuarios y reduciremos las tasas de abandono de la plataforma.
-   - **Sabremos que:** Esta hipótesis será cierta cuando observemos una reducción del 15% en las solicitudes de cancelación de cuentas y un aumento del 8% en las calificaciones positivas sobre el servicio al cliente.
-    
-    
-#### 1.2.2.4. Lean UX Problem Canvas
+**User & Customers**
 
-| Lean UX Canvas             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Problema del negocio**                                                                                           |Los usuarios enfrentan dificultades para encontrar propiedades inmobiliarias que se ajusten a sus necesidades y preferencias, lo que resulta en una experiencia de búsqueda poco eficiente y frustrante.                                                                                                                                                                                |
-| **Resultados del negocio**                                                                                            |<ul><li>Aumentar la eficiencia y la satisfacción del usuario en la búsqueda y adquisición de propiedades.</li><li>Mejorar la retención de usuarios y la lealtad a la plataforma.</li><li>Establecer asociaciones sólidas con agentes inmobiliarios y propietarios para ampliar la base de datos de propiedades.</li></ul>                                                                                                                                                                                    |
-| **Usuarios y Clientes**                                                                                                |<ul><li>Usuarios: Personas en búsqueda de propiedades inmobiliarias para alquilar o comprar.</li><li>Clientes: NidoUrbano, agentes inmobiliarios, propietarios de propiedades.</li></ul>                                                                                                                                                                                                |
-| **Resultados del usuario**                                                                                            |<ul><li>Mayor facilidad para encontrar propiedades que se ajusten a sus necesidades y preferencias.</li><li>Aumento de la confianza en la plataforma debido a la transparencia y la precisión de la información proporcionada.</li><li>Mayor satisfacción al encontrar una propiedad adecuada en menos tiempo.</li></ul>                                                                                                                                                                                              |
-| **Soluciones**                                                                                                        |<ul><li>Mejorar la interfaz de usuario y las herramientas de filtrado para simplificar el proceso de búsqueda.</li><li>Personalizar la experiencia del usuario y ofrecer opciones de búsqueda relevantes.</li><li>Proporcionar información detallada y precisa sobre cada propiedad.</li><li>Mejorar la comunicación y la transparencia durante el proceso de adquisición de viviendas.</li><li>Ampliar la base de datos de propiedades mediante asociaciones con agentes inmobiliarios y propietarios.</li></ul>                                                                                                                                                                                                                                  |
-| **Hipótesis**                                                                                                          |<ul><li>Creemos que mejorar la satisfacción y eficiencia del usuario en la búsqueda y adquisión de propiedades puede ser logrado si el usuario alcanza mayor facilidad para encontrar propiedades que cumplan con sus necesidades al proporcionarle opciones de búsqueda relevantes y herramientas de filtrado con un funcionamiento intuitivo para simplificar el proceso.</li><li>Creemos que aumentar la fidelidad de los clientes y mejorar la retención de usuarios puede ser logrado si el usuario alcanza mayor confianza con la plataforma mediante la mejora de la comunicación y la transparencia durante el proceso de adquisición de viviendas y el proporcionamiento de información precisa sobre cada propiedad.</li></ul>                                                                                                                                                                                                                                                    |    
-| **¿Qué es lo más importante que necesitamos aprender primero?**                                                        |<ul><li>Conocer la arquitectura del software de la solución, considerando las capas y componentes que la conforman (Base de Datos, Backend, Frontend, Landing Page).</li><li>Conocer las herramientas necesarias para aprovechar el uso de entrevistas y estudios de usuario.</li><li>Conocer las nociones y herramientas necesarias para el desarrollo de los diferentes servicios de la aplicación.</li></ul>                                                                                                                                                                                                                        |
-| **¿Cuál es la menor cantidad de trabajo que necesitamos hacer para aprender lo siguiente más importante?**           |<ul><li>Realizar el diseño de una Landing Page sencilla, eficiente y cómoda para que el usuario pueda conocer nuestra propuesta.</li><li>Recopilar información sobre el estudio del mercado objetivo a través de las entrevistas de usuario.</li><li>Realizar el diseño de prototipos y diagramas para expresar de manera gráfica los procesos y funcionalidades que tendrá nuestra aplicación.</li></ul>                                                                                                                                                                                                                                |    
-    
+1. *¿Quién(es) es el usuario?*  
+* Cocineros caseros (amateur) que desean generar ingresos adicionales ofreciendo sus servicios de comida.  
+* Universitarios y profesionales ocupados que buscan opciones de comida casera y saludable.  
+2. *¿Dónde encaja nuestro producto en su trabajo o vida?*  
+* Para los consumidores, encaja en sus rutinas diarias, especialmente durante horarios de comida como almuerzos y cenas, cuando necesitan opciones rápidas, saludables y convenientes.  
+* Para los cocineros, encaja como una oportunidad para generar ingresos desde casa en horarios flexibles, permitiéndoles seguir su pasión por la cocina.  
+3. *¿Qué problemas tiene nuestro producto que resolver?*  
+* La falta de tiempo y acceso a comida saludable para consumidores ocupados.  
+* La falta de oportunidades accesibles para que los cocineros caseros moneticen sus habilidades sin grandes inversiones.  
+4. *¿Cuándo y cómo es nuestro producto usado?*  
+* El producto es usado diariamente por los consumidores para pedir comida, especialmente durante horas de almuerzo y cena.  
+* Los cocineros usan la plataforma para gestionar sus menús, pedidos y entregas en cualquier momento del día, según su disponibilidad.  
+5. *¿Qué características son importantes?*  
+* Registro y creación de perfiles detallados para cocineros y consumidores.  
+* Publicación y gestión de menús, incluyendo personalización según necesidades dietéticas.  
+* Búsqueda avanzada y filtros para los consumidores.  
+* Sistema de pagos seguro y eficiente.  
+* Sistema de calificaciones y feedback para mejorar la experiencia de usuario.  
+6. *¿Cómo debe verse nuestro producto y cómo debe comportarse?*  
+* El producto debe tener una interfaz intuitiva y atractiva, fácil de navegar tanto para cocineros como para consumidores.  
+* Debe comportarse de manera rápida y responsiva, permitiendo a los usuarios completar sus tareas sin fricciones.  
+* Debe ser confiable y seguro, especialmente en el manejo de pagos y datos personales.
 
-    
-## 1.3. Segmento Objetivo 
-    
-<div class="segmento">
-    <h3>Descripción de cada segmento objetivo</h3>
-        <p><strong>Propietarios de Inmuebles Independientes</strong></p>
-    <p>Este segmento objetivo de nuestra plataforma está dirigido a propietarios individuales de bienes raíces en Perú que se dedican a la gestión ética y sostenible de sus propiedades. Su principal enfoque radica en preservar la calidad y el buen estado de sus inmuebles, con el objetivo de ofrecer un experiencia agradable y asegurar la satisfacción de quienes adquieren sus espacios. </p>
-    <p><strong>Compradores Juveniles</strong></p>
-    <p>El segmento objetivo de nuestra plataforma está dirigido a personas jóvenes y estudiantes universitarios que buscan encontrar un hogar que se adapte a sus necesidades y estilo de vida. Estos buscadores de hogares se caracterizan por su deseo de encontrar propiedades accesibles, seguras y cómodas en Perú. Están interesados en opciones de alquiler o compra que se ajusten a su presupuesto y preferencias, priorizando ubicaciones cercanas a instituciones educativas, servicios públicos y áreas de entretenimiento. Además, valoran la transparencia y confianza en el proceso de búsqueda de hogares, así como el acceso a información relevante para realizar buenas decisiones.</p>
-    
-</div>
+**¿Qué es lo que brinda mi producto?**  
+1.	Creemos que nuestros clientes necesitan:
 
-<div class="segmento">
-    <h3>Datos cuantitativos del problema para cada segmento</h3>
-    <p><strong>Propietarios de Inmuebles Independientes</strong></p>
-    <p>Se han registrado numerosos incidentes en los que los propietarios de bienes raíces en Perú enfrentan desafíos significativos en la gestión y mantenimiento de sus propiedades debido a la falta de recursos económicos y conocimientos especializados en la materia. Esta situación ha llevado a una preocupación creciente por la seguridad y el bienestar de los inquilinos, así como por la rentabilidad a largo plazo de las inversiones inmobiliarias. Se estima que al menos el 20% de los propietarios enfrentan dificultades para mantener el estado óptimo de sus propiedades, lo que resulta en una disminución de la satisfacción del inquilino y una posible pérdida de ingresos. Asimismo, cabe resaltar que esta insatisfacción del cliente y los errores presentados por los agentes inmobiliarios son sancionados y, en casos extremos, son reportados a Indecopi. Sobre ello, se estimaron cifras ascendentes a las 1500 en el número de sanciones impuestas entre el año 2019 y el 2022, lo cual es un factor preocupante y a tener en cuenta por la mayoría de propietarios de inmuebles particulares (Plataforma Digital Única del Estado Peruano, 2022). </p>
-    <p><strong>Compradores Juveniles</strong></p>
-    <p>En el mercado inmobiliario peruano, las familias jóvenes y los estudiantes universitarios enfrentan desafíos relacionados con la falta de opciones de vivienda adecuadas y accesibles. Se ha identificado que el 40% de los jóvenes en el Perú tienen dificultades para encontrar propiedades que cumplan con sus necesidades y presupuesto, lo que resulta en una búsqueda prolongada y frustrante de un hogar adecuado. Además, la falta de transparencia y confiabilidad en el proceso de búsqueda de hogares puede generar incertidumbre y estrés en estos buscadores de hogares, afectando su bienestar emocional y financiero (ABBA del Perú, 2024).</p>
-</div>
-    
-<div class="segmento">
-    <h3>Variables geográficas, demográficas y psicológicas para cada segmento</h3>
-    <p><strong>Propietarios de Inmuebles Independientes</strong></p>
-    <p>Variable geográfica:</p>
-    <ul>
-        <li>País: Perú</li>
-        <li>Ciudad: Zonas urbanas</li>
-    </ul>
-    <p>Variable demográfica:</p>
-    <ul>
-        <li>Género: Femenino / Masculino.</li>
-        <li>Ocupación: Todas las ocupaciones</li>
-        <li>Estado civil: Todos los estados</li>
-        <li>Edad y etapa de ciclo de vida: Ciudadanos mayores a 25 años.</li>
-    </ul>
-    <p>Variable psicográfica:</p>
-    <ul>
-        <li>Nivel Socioeconómico (NSE): Nivel A y B</li>
-        <li>Características de personalidad:
-            <ul>
-                <li>Asertivo</li>
-                <li>Transparente</li>
-                <li>Honesto</li>
-            </ul>
-        </li>
-    </ul>
-    <p><strong>Compradores Juveniles</strong></p>
-    <p>Variable geográfica:</p>
-    <ul>
-        <li>País: Perú</li>
-        <li>Ciudad: Zonas urbanas</li>
-    </ul>
-    <p>Variable demográfica:</p>
-    <ul>
-        <li>Género: Femenino / Masculino.</li>
-        <li>Ocupación: Todas las ocupaciones</li>
-        <li>Estado civil: Todos los estados</li>
-        <li>Edad y etapa de ciclo de vida: Ciudadanos mayores a 18 años.</li>
-    </ul>
-    <p>Variable psicográfica:</p>
-    <ul>
-        <li>Nivel Socioeconómico (NSE): Nivel B y C</li>
-        <li>Características de personalidad:
-            <ul>
-                <li>Responsable</li>
-                <li>Perseverante</li>
-                <li>Sincero</li>
-            </ul>
-        </li>
-    </ul>
-</div>
+* Los consumidores necesitan acceso a opciones de comida saludable y personalizada de manera conveniente.  
+* Los cocineros necesitan una plataforma que les permita monetizar su pasión por la cocina de forma accesible y flexible.
+
+2.	Estas necesidades se pueden resolver con:
+
+* Una plataforma web que conecte a cocineros caseros con los consumidores, facilitando la búsqueda, pedido y entrega de comida casera.
+
+3.	Nuestros clientes son o serán:
+
+* Universitarios y profesionales ocupados que valoran la comida saludable pero no tienen tiempo para cocinar.  
+* Cocineros caseros que desean generar ingresos adicionales ofreciendo sus servicios de comida.
+
+4.	El valor \#1 que un cliente quiere de nuestro servicio es:
+
+* Para los consumidores: Comida casera de calidad y personalizada, disponible de manera rápida y conveniente.  
+* Para los cocineros: Una oportunidad para monetizar sus habilidades culinarias sin complicaciones.
+
+5.	El cliente también puede obtener estos beneficios adicionales:
+
+* Participación en una comunidad culinaria activa donde pueden descubrir y compartir recetas.  
+* Para los cocineros, la posibilidad de construir una reputación y expandir su base de clientes a través de buenas calificaciones y feedback.
+
+6.	Vamos a adquirir la mayoría de mis clientes a través de:
+
+* Marketing digital dirigido a universitarios y profesionales, utilizando redes sociales, anuncios en línea y colaboraciones con influencers culinarios.  
+* Para los cocineros, mediante campañas que resalten la oportunidad de generar ingresos adicionales desde casa.
+
+7.	Haremos dinero a través de:
+
+* Comisiones por transacción en cada pedido realizado a través de la plataforma.  
+* Posibles suscripciones premium para acceso a características avanzadas o exclusivas.  
+* Posibilidad de mostrar publicidad relacionada con el giro comercial de negocio
+
+8.	Nuestra competencia principal en el mercado será:
+
+* Servicios de entrega de comida como UberEats o Rappi, que ofrecen opciones rápidas aunque menos personalizadas y caseras.  
+* Empresas de comida como Manzana Verde o LifeCafé.  
+* Otros marketplaces de comida casera que puedan surgir.
+
+9.	Los venceremos debido a:
+
+* Un enfoque en comida casera de alta calidad y personalizada, además de una fuerte comunidad culinaria que fomente la interacción y el intercambio de recetas.
+
+10.	Nuestro mayor riesgo de producto es...
+
+* La falta de adopción de la plataforma por parte de cocineros caseros debido a posibles barreras tecnológicas o falta de confianza en la monetización.
+
+11.	Resolveremos esto a través de:
+
+* Proporcionando tutoriales y soporte técnico fácil de entender para cocineros.  
+* Ofreciendo incentivos y testimonios de éxito que demuestren la viabilidad de generar ingresos a través de la plataforma.
+
+12.	¿Qué otras suposiciones tenemos? Eso, si se prueba que es falso, causará que nuestro negocio/proyecto no funcione?
+
+* Suponemos que hay una demanda significativa de comida casera personalizada entre universitarios y profesionales ocupados. Si esta demanda es menor de lo esperado, el modelo de negocio podría no ser viable.  
+* Suponemos que los cocineros caseros estarán dispuestos a adoptar la tecnología necesaria para operar en la plataforma. Si esto no es cierto, la oferta de servicios podría ser insuficiente para atraer a los consumidores.
+
+#### **1.2.2.3. Lean UX Hypothesis Statements.**
+
+**Hypothesis 1:**
+
+Creemos que mejorar la visibilidad de las promociones especiales dentro de la plataforma atraerá a más usuarios a realizar pedidos con mayor frecuencia.  
+Sabremos que estamos bien cuando veamos un aumento del 15% en la cantidad de pedidos realizados durante las 4 primeras semanas en las que se publican promociones especiales.
+
+**Hypothesis 2:**
+
+Creemos que agregar un sistema de reseñas y calificaciones mejorará la confianza de los consumidores en la calidad de la comida y aumentará la tasa de retención de usuarios.  
+Sabremos que estamos bien cuando veamos los siguientes comentarios del mercado: Feedback positivo sobre la utilidad de las reseñas y un aumento en la tasa de retención de usuarios del 20%.
+
+**Hypothesis 3:**
+
+Creemos que ofrecer recetas exclusivas y contenido premium para suscriptores motivará a los cocineros y usuarios a suscribirse al servicio premium.  
+Sabremos que estamos bien cuando veamos un incremento del 10% en las suscripciones al contenido premium durante el primer mes de lanzamiento.
+
+**Hypothesis 4:**
+
+Creemos que simplificar el proceso de registro y publicación de menús para los cocineros caseros aumentará la cantidad de cocineros activos en la plataforma.  
+Sabremos que estamos bien cuando veamos un incremento del 25% en el número de cocineros que publican sus menús dentro del primer mes después de la implementación de estas mejoras.
+
+**Hypothesis 5:**
+
+Creemos que implementar un sistema de notificaciones personalizadas que informe a los usuarios sobre nuevas ofertas o menús cercanos aumentará la frecuencia de uso de la plataforma.  
+Sabremos que estamos bien cuando veamos un aumento del 20% en la cantidad de usuarios activos diarios en la plataforma después de la implementación del sistema de notificaciones.
+
+#### **1.2.2.4. Lean UX Canvas.**
+
+| LEAN UX CANVAS |  |  |
+| :---- | :---- | :---- |
+| **Business problem** | **Solution Ideas** | **Business Outcomes** |
+| Universitarios y profesionales ocupados no tienen tiempo para cocinar, lo que los lleva a depender de comida rápida o de baja calidad, afectando su salud. Por otro lado, cocineros caseros buscan monetizar sus habilidades culinarias sin necesidad de grandes inversiones. ¿Cómo podemos mejorar la accesibilidad a comida casera y personalizada para los consumidores, al mismo tiempo que facilitamos a los cocineros caseros la monetización de sus habilidades culinarias de manera eficiente y flexible? | - Desarrollo de una plataforma web que conecte cocineros caseros con consumidores que buscan comida casera. <br> - Funcionalidades como registro y perfil de usuarios, publicación de menús, búsqueda avanzada, personalización de pedidos, sistema de pagos seguro, y sistema de calificaciones y reseñas. <br> - Implementación de una sección para compartir y descubrir recetas de cocina dentro de la plataforma. Los cocineros pueden publicar sus recetas favoritas, permitiendo a los usuarios replicarlas en casa. Los usuarios pueden guardar sus recetas preferidas, recibir notificaciones de nuevas publicaciones, y participar en una comunidad culinaria activa | <br> - Incremento en la cantidad de cocineros caseros registrados en la plataforma. <br> - Aumento en el número de pedidos diarios realizados a través de la plataforma. <br> - Mejora en la retención y satisfacción tanto de cocineros como de consumidores, reflejada en altas calificaciones y feedback positivo. <br> - Generación de ingresos estables a través de comisiones por transacción y posibles suscripciones premium. |
+| **Users & Customers** |  | **User Benefits** |
+| **- Cocineros Caseros:** Personas que desean generar ingresos adicionales ofreciendo sus servicios de comida casera desde sus hogares. <br> **- Universitarios y Profesionales Ocupados:** Personas que buscan opciones de comida casera y saludable debido a su falta de tiempo para cocinar. |  | **- Para los Consumidores:** Acceso a comida casera de calidad, personalizada según sus preferencias dietéticas, y la conveniencia de recibirla en su hogar o recogerla. <br> **- Para los Cocineros:** Una manera accesible y flexible de monetizar sus habilidades culinarias sin necesidad de grandes inversiones. <br> - Creación de una comunidad culinaria donde se comparten y descubren recetas, enriqueciendo la experiencia de los usuarios. |
+| **Hypothesis** | **What’s the most important thing we need to learn first** | **What’s the least amount of work we need to do learn the next most important thing** |
+| **Hypothesis 1:**  Creemos que mejorar la visibilidad de las promociones especiales dentro de la plataforma atraerá a más usuarios a realizar pedidos con mayor frecuencia. Un aumento del 15% en la cantidad de pedidos realizados durante las primeras 4 semanas en las que se publican promociones especiales. <br> **Hypothesis 2:**  Creemos que agregar un sistema de reseñas y calificaciones mejorará la confianza de los consumidores en la calidad de la comida y aumentará la tasa de retención de usuarios. Un aumento en la tasa de retención de usuarios del 20% y feedback positivo sobre la utilidad de las reseñas. <br> **Hypothesis 3:**  Creemos que simplificar el proceso de registro y publicación de menús para los cocineros caseros aumentará la cantidad de cocineros activos en la plataforma. Un incremento del 25% en el número de cocineros que publican sus menús dentro del primer mes. | Conocer los patrones de comportamiento de los consumidores en relación a la demanda de comida casera. Identificar barreras potenciales que impidan que los cocineros caseros adopten la tecnología de la plataforma. | Realizar entrevistas con cocineros caseros y consumidores potenciales. Crear y probar prototipos de la plataforma con usuarios reales para validar hipótesis clave. |
+
+## **1.3. Segmentos objetivo.**
+
+### **Segmento Objetivo \#1: Universitarios y Profesionales Ocupados** 
+
+Este segmento está compuesto por jóvenes de entre 20 y 40 años que residen en grandes ciudades y centros universitarios de América Latina. Representan alrededor del 60% de los usuarios de la plataforma. Son estudiantes universitarios o profesionales que, debido a sus ocupadas agendas, tienen poco tiempo para cocinar, lo que los lleva a buscar opciones de comida saludable y casera. Valoran la conveniencia y la posibilidad de personalizar sus pedidos según sus preferencias dietéticas. Este grupo prefiere opciones rápidas y asequibles, utilizando la plataforma para recibir comida en sus hogares o lugares de trabajo.
+
+### **Segmento Objetivo \#2: Cocineros Caseros**
+
+Este segmento incluye personas, generalmente entre 30 y 50 años, que viven en áreas urbanas y suburbanas de América Latina. Son apasionados de la cocina y buscan monetizar sus habilidades culinarias sin las complejidades de un restaurante formal. Representan aproximadamente el 40% de los usuarios de la plataforma "Sabores Cercanos". Estos cocineros, que en su mayoría son mujeres, están interesados en ofrecer comida casera de calidad y disfrutan compartiendo sus recetas con una comunidad más amplia. Buscan una fuente de ingresos adicional y flexible, que les permita trabajar desde casa y administrar su propio tiempo.
