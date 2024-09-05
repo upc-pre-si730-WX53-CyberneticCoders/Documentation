@@ -567,7 +567,14 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 | **Amenazas:**           | Competencia de grandes plataformas como UberEats y Rappi, que tienen mayores recursos para publicidad y desarrollo de infraestructura. | Nuevas plataformas que ofrecen comida casera de calidad. | Competencia de plataformas más especializadas en comida casera y saludable. | Competencia de plataformas que ofrecen calidad similar a precios más accesibles. |
 
 
+### 2.1.2. Estrategias y tácticas frente a competidores.
+## Entrevistas
 
+### 2.2.1. Diseño de entrevistas
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas.
 
 ## User Stories
 
