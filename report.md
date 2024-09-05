@@ -19,7 +19,7 @@
 * **Dalila Victoria Torres Sanchez \- U20221F734**  
 * **Rafael Alberto Cuya Villegas \- U201913495**
 * **Miguel Angel Gomez Hurtado \- U202220294**  
-* **4  \- 4**  
+* **Yair Christofer Aru Acevedo  \- U202125984**  
 * **5  \- 5**  
 
 
@@ -283,7 +283,7 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 > [Imagen]
 
 ---
-####  | 
+####  Nombre: Yair Christofer Aru Acevedo | U202125984 
 
 > Descripción, carrera, habilidades técnicas, habilidades blandas.
 >
