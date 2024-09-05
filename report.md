@@ -613,6 +613,25 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 #### Cocineros Caseros
 
+| Task/Historia de Usuario                     | Alvaro Arata (Frecuencia/Importancia)     | Cristina Villegas (Frecuencia/Importancia) | Jean Pierre Alonso Medina Alfaro (Frecuencia/Importancia) |
+|----------------------------------------------|------------------------------------------|--------------------------------------------|----------------------------------------------------------|
+| **US014 - Registro de cocineros**            | Media / Alta                             | Alta / Alta                               | Media / Alta                                              |
+| **US015 - Creación de perfil de cocinero**   | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US016 - Publicación de menús**             | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US017 - Configuración de áreas de entrega**| Media / Media                            | Media / Media                             | Media / Media                                             |
+| **US018 - Recepción de pedidos**             | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US019 - Confirmación de entregas**         | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US020 - Integración de recetas**           | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US021 - Gestión de pagos**                 | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US022 - Reporte de ventas**                | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US023 - Sistema de calificaciones**        | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US024 - Función de reordenar**             | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US025 - Estadísticas de recetas compartidas** | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US026 - Revisión de clientes**             | Media / Media                            | Media / Media                             | Media / Media                                             |
+| **US027 - Gestión de días de descanso**      | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US028 - Opciones de personalización**      | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US029 - Función de encuestas a clientes**  | Media / Media                            | Media / Media                             | Media / Media                                             |
+
 
 ### 2.3.3. User Journey Mapping.
 #### Universitarios y Profesionales Ocupados
