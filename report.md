@@ -616,3 +616,44 @@ Segmento 2: Cocineros caseros
   ¿Cómo crees que una aplicación como la nuestra podría ayudarte en el ámbito económico? ¿Crees que lograría darte mayor visibilidad?
 
 
+## 2.2.2. Registro de entrevistas.
+
+### Segmento 1: Universitarios y Profesionales Ocupados
+
+**Entrevistado 1**:  
+- **Nombre y Apellido**: Pia Barandiaran  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Pia Barandiaran.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ETavGC5q4nxIhwrjuExv0NYBNt1Zw0AWpBjLssBDm5Gvsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s4zokS)  
+- **Informe de Resumen sobre la entrevista**: Pia Barandiaran, de 22 años, se desempeña como administradora. Durante la entrevista, nos comentó que, debido a su trabajo y la falta de tiempo, suele comer fuera de casa de lunes a viernes. Esto le representa un desafío, ya que le resulta difícil encontrar opciones de comida casera y saludable, además por cuestiones de tiempo, se le es complicado cocinar. Pia expresó que una aplicación como Sabores Cercanos sería un gran beneficio para su día a día.
+
+**Entrevistado 2**:  
+- **Nombre y Apellido**: Anapaula Díaz  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Anapaula Díaz.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/Ef5-UeuqvTJOiZtfVPplw6kB3fpNbUnpq3mF9dDiN6nwTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sYnFgV)  
+- **Informe de Resumen sobre la entrevista**: Anapaula Díaz, de 22 años, es estudiante de publicidad. Nos comentó que suele tener que comer fuera de casa entre 3 y 5 días a la semana, lo cual no le agrada, ya que las opciones disponibles no son de su preferencia. Además, señaló que una aplicación como la nuestra le sería de gran ayuda para cubrir esta necesidad.
+
+**Entrevistado 3**:  
+- **Nombre y Apellido**: Piero Gamio  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Piero Gamio.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EdzAqflBWOhHj5OhAOppM0sBybnce6iLqQhfUvxYEN2d2g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Du8wd7)  
+- **Informe de Resumen sobre la entrevista**: Piero Gamio, de 22 años, trabaja en la empresa de telecomunicaciones Movistar. Nos comentó que, debido a su trabajo, no tiene mucho tiempo para cocinar, por lo que suele pedir comida a través de diversas aplicaciones. Además, expresó su interés en nuestra aplicación, ya que la considera una excelente iniciativa que le permitiría disfrutar de comida casera y saludable de manera conveniente.
+
+### Segmento 2: Cocineros Caseros
+
+**Entrevistado 1**:  
+- **Nombre y Apellido**: Álvaro Arata  
+- **Edad**: 29  
+- **URL del video**: [Entrevista-Alvaro Arata.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EfHHz_BwWnlJuakQCAB4dKoBKLHNCnm84xxbosHjHcfo8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E8QUpv)  
+- **Informe de Resumen sobre la entrevista**: Álvaro Arata, de 29 años, trabaja en el área de distribución de licores y realiza la mayor parte de su trabajo desde casa. Nos comentó que le gusta cocinar y que lo hace la mayor parte de los días, por este motivo estuvo considerando abrir un negocio en este ámbito, pero decidió no hacerlo debido a posibles dificultades como la falta de visibilidad y los retos de marketing. Álvaro cree que nuestra aplicación podría ayudarle a superar estos obstáculos y, a su vez, representar un apoyo económico.
+
+**Entrevistado 2**:  
+- **Nombre y Apellido**: Cristina Villegas  
+- **Edad**: 27  
+- **URL del video**: [Entrevista-Cristina Villegas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ER5LQ_sMMMpAlmgxIi90ZagBE4AUIHSYawtTROD3h4HItg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UzJcyo)  
+- **Informe de Resumen sobre la entrevista**: Cristina Villegas, de 27 años, es psicóloga y trabaja desde casa, lo que le permite cocinar regularmente. Nos contó que a menudo le elogian su sazón y que le gustaría aprovechar este talento a través de nuestra plataforma. Recientemente, inició un emprendimiento de postres caseros, pero no ha tenido mucho éxito debido a la falta de visibilidad. Cristina considera que nuestra aplicación es una excelente iniciativa que podría ayudarle a hacer crecer su negocio.
+
+**Entrevistado 3**:  
+- **Nombre y Apellido**: Jean Pierre Alonso Medina Alfaro  
+- **Edad**: 23  
+- **URL del video**: [entrevista_jp.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EdnlxogZ-_JDslWzS6WN5wkBAIDVsEal6qddyApb2oJLuw?e=Vkxhzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+- **Informe de Resumen sobre la entrevista**: Jean Pierre Alonso Medina Alfaro, de 23 años, comentó que le gusta cocinar y que ve la aplicación como una buena oportunidad para ganar dinero extra mientras sigue disfrutando de su pasión por la cocina. También expresó que le atrae la idea de tener visibilidad para llegar a más personas.
