@@ -259,7 +259,9 @@
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Dalila Victoria Torres Sanchez</b><br>
-<br>        <br><br> 
+<br>        <br>
+                El trabajo realizado en el proceso Lean UX me ayudó a participar en equipos multidisciplinarios de manera eficaz y objetiva, específicamente al colaborar en la creación de User Personas, User Stories y la User Journey Mapping. Estas herramientas permitieron una comprensión más profunda de las necesidades del usuario y facilitaron la comunicación efectiva dentro del equipo, contribuyendo a tomar decisiones basadas en datos y perspectivas diversas. Este enfoque colaborativo aumentó la eficiencia del equipo al implementar soluciones que realmente respondían a los problemas y desafíos detectados.
+            <br> 
          <b>Rafael Alberto Cuya Villegas </b><br>
 <br>         <br><br> 
          <b>Miguel Angel Gomez Hurtado</b><br>
@@ -288,7 +290,9 @@
 <td> 
 TB1<br><br>
 Dalila Victoria Torres Sanchez
-        <br><br>
+        <br>
+        El análisis competitivo y la identificación de segmentos objetivo durante el proyecto me ayudaron a profundizar en el conocimiento del sector empresarial al cual estaba dirigido nuestro producto. Utilizando herramientas como el User Task Matrix y el Empathy Mapping, pude identificar los puntos de dolor y oportunidades en el dominio de la experiencia de usuario, lo cual mejoró mi comprensión de cómo aplicar soluciones de software en el contexto específico de este sector. Esto resultó en la elaboración de Lean UX Problem Statements y la creación de hipótesis más acertadas para el desarrollo de un producto que satisfaga las necesidades del mercado.
+        <br>
 
 <br> 
          <b>Rafael Alberto Cuya Villegas </b><br>
@@ -357,9 +361,8 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 
 
 ---
-#### Nombre:  | 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
+#### Nombre:  | Dalila Victoria Torres Sanchez
+> Soy estudiante de quinto ciclo de ingeniería de software, me agrada programar, el trabajo en equipo e innovar.
 > [Imagen]
 
 ---
