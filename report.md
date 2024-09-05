@@ -41,9 +41,72 @@ Para la elaboracion de la landing page, se utilizó los lenguajes de programacio
 
 ### 5.2.1. Sprint 1
 
-
-
 #### 5.2.1.1. Sprint Planning 1
+
+<table>
+	<tbody>
+		<tr>
+			<td>  Sprint #  </td>
+			<td>Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2 de septiembre</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>1 hora</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>En la plataforma de meet google</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Rafael Alberto Cuya Villegas</td>
+		</tr>
+		<tr>
+        <td>Attendees (to planning meeting)</td>
+            <td>
+                <ul>
+                    <li>Rafael Alberto Cuya Villegas</li>
+                    <li>Dalila Victoria Torres Sanchez</li>
+                    <li>Joaquin Enrique Carranza Tesen</li>
+                    <li>Yair Christofer Aru Acevedo</li>
+                    <li>Miguel Angel Gomez Hurtado</li>
+                </ul>
+            </td>
+        </tr>
+		<tr>
+			<td>Sprint n-1 Review Summary</td>
+			<td>Organization about Landing Page</td>
+		</tr>
+		<tr>
+			<td>Sprint n-1 Retrospective Summary</td>
+			<td>Organizacion de informacion y diseño del Landing Page</td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Goal</td>
+			<td>
+                Construir una landing page con la informacion necesario para que el usuario pueda entender de que va nuestra startup y como acceder a ellas.
+            </td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Velocity</td>
+			<td>1 semana</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.1.2. Sprint Backlog 1
 
