@@ -588,7 +588,7 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 ## 4.3. Landing Page UI Design
 
-
+En esta sección, se mostrará el wireframe y mock-up del landing page.
 
 ### 4.3.1. Landing Page Wireframe
 
@@ -600,7 +600,7 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 ## 4.4. Web Applications UX/UI Design
 
-
+En esta sección, se mostrará los wireframes, mock-ups, wireflows y user flow diagrams de la aplicación web. Además, el prototipo de su funcionamiento.
 
 ### 4.4.1. Web Applications Wireframes
 
@@ -620,7 +620,8 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 ## 4.5. Web Applications Prototyping
 
-
+Link del video:
+Link del prototipo:
 
 ## 4.6. Domain-Driven Software Architecture
 
