@@ -569,7 +569,10 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 # Capitulo IV: Product Design
 
 ## 4.1. Style Guidelines
+**Branding:**
 
+En la creación del logotipo, se emplearon los colores de la paleta principal, junto con la imagen de una olla que evoca la comida casera. Además, se seleccionó una tipografía que complementa perfectamente la temática.
+<img src="/assets/LogoSC.png" width="300"/>
 ### 4.1.1. General Style Guidelines
 
 ### 4.1.2. Web Style Guidelines
