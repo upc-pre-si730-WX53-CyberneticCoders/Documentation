@@ -605,6 +605,18 @@ Para el contenido, se utilizará la fuente Arvo que, al contrario de Secular One
 ### 4.2.1. Organization Systems
 
 ### 4.2.2. Labeling Systems
+Navegación y menús:
+
+Se consideraron las siguientes etiquetas y categorías para la barra de navegación:
+<img src="/assets/navegacionmenus.png" width="300"/>
+
+Contenido y Datos:
+
+Se pueden observar etiquetas e iconos para los campos de entrada de datos:
+<img src="/assets/etiquetas.png" width="300"/>
+También, se incluyen etiquetas sobre las acciones que realizan los botones:
+<img src="/assets/botones.png" width="300"/>
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
