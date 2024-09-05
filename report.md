@@ -751,6 +751,14 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 
 #### Cocineros Caseros
 
+| Fases                        | Doing                                                                 | Thinking                                                                                       | Feeling                          |
+|------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------|
+| Descubrimiento de la Plataforma | Descubriendo la plataforma a través de redes sociales o recomendaciones de otros cocineros. | "¿Será esta la plataforma adecuada para mí? ¿Puedo atraer más clientes aquí?"                  | Curiosidad, expectativa.         |
+| Registro y Creación de Perfil | Configurando el perfil, subiendo una foto, detallando especialidades y áreas de entrega. | "Quiero que mi perfil se vea atractivo para ganar más pedidos."                                | Motivación, un poco de ansiedad. |
+| Publicación de Menús          | Publicando menús diarios o semanales, actualizando precios y añadiendo promociones. | "Espero que los clientes encuentren mis ofertas interesantes."                                | Optimismo, ligera preocupación.  |
+| Gestión de Pedidos            | Recibiendo notificaciones de pedidos, confirmando tiempo de entrega y gestionando los pagos. | "Tengo que gestionar bien mi tiempo para cumplir con todos los pedidos."                       | Estrés si hay muchos pedidos, satisfacción si todo está en orden. |
+| Reseñas y Reputación          | Revisando las reseñas de los clientes y respondiendo a comentarios.   | "Espero que las reseñas sean positivas y me ayuden a atraer más clientes."                     | Alivio si las reseñas son buenas, preocupación si no lo son. |
+
 
 ## 2.4. Ubiquitous Language
 
