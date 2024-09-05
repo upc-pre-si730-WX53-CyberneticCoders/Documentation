@@ -635,9 +635,8 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 ### 2.3.3. User Journey Mapping.
 #### Universitarios y Profesionales Ocupados
-
+![User Journey Mapping del Segmento 1](images/UserJourneyMappingSegmento1.png)
 #### Cocineros Caseros
-
 
 
 
