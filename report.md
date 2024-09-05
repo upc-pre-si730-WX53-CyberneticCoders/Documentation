@@ -27,9 +27,14 @@
 
 ## REGISTRO DE VERSIONES DEL INFORME
 
-
+| Version | Fecha                        | Autor                                                                                                  | Descripción de Modificación                                                                                                                                                                                    |
+|---------|-------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1   | 05/09/2024         |  Todos los integrantes del equipo    | Todo el equipo trabajó en conjunto para definir la solución propuesta, realizando un análisis Lean UX y determinando el público objetivo. También se recopilaron todos los requisitos necesarios para desarrollar las herramientas clave, como las User Personas, User Stories, el Product Backlog y el Impact Mapping, entre otros. Luego, se diseñaron los mockups y prototipos de la página de inicio a partir de la información obtenida. Finalmente, la creación de la página de inicio se completó utilizando el sprint backlog, lo que permitió un seguimiento eficaz de los avances. |
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
+
+**TB1** 24/04/2024
+
 
 #### 1. URL del Repositorio en GitHub
 
@@ -248,6 +253,7 @@
 
 
 # STUDENT OUTCOME
+
 
 
 # Capítulo 1: Introducción
