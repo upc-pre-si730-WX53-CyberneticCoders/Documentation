@@ -268,7 +268,7 @@
 <br> 
          <br><br>
         <b>Joaquin Enrique Carranza Tesen</b><br>
-<br>            <br><br> 
+<br>       El proyecto ha resuelto la estructura del documento con el Impact Mapping, que clarifica los objetivos y acciones estratégicas para los segmentos de estudiantes y trabajadores, y cocineros. Las entrevistas han permitido ajustar y entender mejor las necesidades de los usuarios y proveedores. Se ha elaborado un perfil de la startup para definir claramente su propuesta de valor y metas, y se ha realizado un análisis de competidores para identificar el panorama actual del mercado y sus oportunidades.     <br><br> 
         <b>Yair Christofer Aru Acevedo: Se reunio con los demas integrantes del equipo para la organizacion y realizacion del proyecto asignando puntos a realizar y completándolo.</b>
 <br> 
            <br><br>
@@ -344,7 +344,7 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 
 > Tengo 21 años y estoy estudiando la carrera de Ingeniería Informática. Me encuentro en mi segundo ciclo en la UPC Sede San Miguel. Soy una persona académica y siempre estoy abierto al diálogo. Me apasiona mi carrera y siempre estoy dispuesto a aprender sobre este curso para brindar a mis futuros usuarios un buen producto acorde a sus necesidades.
 >
-> [Imagen]
+> ![Joaquin](https://i.postimg.cc/pdJ6DBxS/MiFoto.jpg)
 
 ---
 #### Nombre: Yair Christofer Aru Acevedo | U202125984
@@ -939,6 +939,10 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 | US030   | Landing Page Responsive        | Como visitante de la plataforma, quiero que el landing page sea responsive para acceder cómodamente desde cualquier dispositivo. | **Escenario 1:** Dado que el usuario accede al landing page desde un móvil, cuando lo haga, entonces el sistema debe ajustar el contenido automáticamente.<br>**Escenario 2:** Dado que el usuario utiliza una tablet, cuando lo haga, entonces el sistema debe mostrar el contenido de forma clara y accesible.<br>**Escenario 3:** Dado que el usuario cambia el tamaño de la ventana en un navegador de escritorio, cuando lo haga, entonces el sistema debe reorganizar el contenido sin perder funcionalidad. | EP008                     |
 | US031   | Descripción de servicios en el landing page | Como visitante del segmento profesional ocupado, quiero ver una descripción clara de los servicios de comida.     | **Escenario 1:** Dado que el visitante ingresa al landing page, cuando esté en la sección de servicios, entonces el sistema debe mostrar descripciones claras de las opciones de comida.<br>**Escenario 2:** Dado que el visitante selecciona una opción de comida, cuando lo haga, entonces el sistema debe mostrar información adicional como precios y ubicación.<br>**Escenario 3:** Dado que el visitante hace clic en "ver más detalles", cuando lo haga, entonces debe ser redirigido a una página con más información sobre el servicio. | EP008                     |
 | US032   | Botones de llamada a la acción en el landing page | Como visitante del landing page, quiero ver botones claros de llamada a la acción para registrarme o buscar comida. | **Escenario 1:** Dado que el visitante ve el landing page, cuando llegue al área de botones de llamada a la acción, entonces debe poder registrarse o iniciar sesión con un solo clic.<br>**Escenario 2:** Dado que el visitante hace clic en "Buscar comida", cuando lo haga, entonces el sistema debe dirigirlo directamente a la búsqueda de comida.<br>**Escenario 3:** Dado que el visitante hace clic en "Regístrate", cuando lo haga, entonces el sistema debe llevarlo al formulario de registro sin perder su navegación actual. | EP008                     |
+
+### 3.2 Impact Mapping
+
+![Impact Map](https://i.postimg.cc/pX6TY93w/Impact-map.png)
 
 # Capitulo IV: Product Design
 
