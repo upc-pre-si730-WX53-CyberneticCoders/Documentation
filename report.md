@@ -624,7 +624,7 @@ User Goal: Crear una nueva cuenta e iniciar sesión.
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-User Goal: Crear una nueva cuenta e iniciar sesión.
+User Goal: Crear una nueva cuenta e iniciar sesión correctamente.
 
 <img src="/assets/User%20flow%20Register.png" width="800"/>
 
