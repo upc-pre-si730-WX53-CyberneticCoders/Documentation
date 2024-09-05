@@ -604,7 +604,10 @@ En esta sección, se mostrará los wireframes, mock-ups, wireflows y user flow d
 
 ### 4.4.1. Web Applications Wireframes
 
-
+<img src="/assets/Wireframe%20Account.png" width="800"/>
+<img src="/assets/Wireframe%20Sign%20In.png" width="800"/>
+<img src="/assets/Wireframe%20Sign%20In%20Correct.png" width="800"/>
+<img src="/assets/Wireframe%20Log%20In.png" width="800"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
