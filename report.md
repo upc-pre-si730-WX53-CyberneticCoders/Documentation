@@ -19,7 +19,7 @@
 * **Dalila Victoria Torres Sanchez \- U20221F734**  
 * **Rafael Alberto Cuya Villegas \- U201913495**
 * **Miguel Angel Gomez Hurtado \- U202220294**  
-* **4  \- 4**  
+* **Yair Christofer Aru Acevedo  \- u202125984**  
 * **5  \- 5**  
 
 
@@ -283,9 +283,9 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 > [Imagen]
 
 ---
-####  | 
+#### Nombre: Yair Christofer Aru Acevedo | U202125984
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
+> Estudiante de 6to ciclo de la carrera de Ingenieria de Software. Conocimientos en los lenguajes de programacon: java, javascript, c++, c#, python.
 >
 > [Imagen]
 
@@ -705,23 +705,23 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 #### Cocineros Caseros
 
 | Task/Historia de Usuario                     | Alvaro Arata (Frecuencia/Importancia)     | Cristina Villegas (Frecuencia/Importancia) | Jean Pierre Alonso Medina Alfaro (Frecuencia/Importancia) |
-|----------------------------------------------|------------------------------------------|--------------------------------------------|----------------------------------------------------------|
-| **US014 - Registro de cocineros**            | Media / Alta                             | Alta / Alta                               | Media / Alta                                              |
-| **US015 - Creación de perfil de cocinero**   | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
-| **US016 - Publicación de menús**             | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
-| **US017 - Configuración de áreas de entrega**| Media / Media                            | Media / Media                             | Media / Media                                             |
-| **US018 - Recepción de pedidos**             | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
-| **US019 - Confirmación de entregas**         | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
-| **US020 - Integración de recetas**           | Media / Media                            | Alta / Alta                               | Media / Media                                             |
-| **US021 - Gestión de pagos**                 | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
-| **US022 - Reporte de ventas**                | Media / Media                            | Alta / Alta                               | Media / Media                                             |
-| **US023 - Sistema de calificaciones**        | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
-| **US024 - Función de reordenar**             | Media / Media                            | Alta / Alta                               | Media / Media                                             |
-| **US025 - Estadísticas de recetas compartidas** | Media / Media                            | Alta / Alta                               | Media / Media                                             |
-| **US026 - Revisión de clientes**             | Media / Media                            | Media / Media                             | Media / Media                                             |
-| **US027 - Gestión de días de descanso**      | Media / Media                            | Alta / Alta                               | Media / Media                                             |
-| **US028 - Opciones de personalización**      | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
-| **US029 - Función de encuestas a clientes**  | Media / Media                            | Media / Media                             | Media / Media                                             |
+|----------------------------------------------|------------------------------------------|--------------------------------------------|--------------------------------------------------------|
+| **US014 - Registro de cocineros**            | Media / Alta                             | Alta / Alta                               | Media / Alta                                            |
+| **US015 - Creación de perfil de cocinero**   | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                             |
+| **US016 - Publicación de menús**             | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                             |
+| **US017 - Configuración de áreas de entrega**| Media / Media                            | Media / Media                             | Media / Media                                           |
+| **US018 - Recepción de pedidos**             | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                             |
+| **US019 - Confirmación de entregas**         | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                             |
+| **US020 - Integración de recetas**           | Media / Media                            | Alta / Alta                               | Media / Media                                           |
+| **US021 - Gestión de pagos**                 | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                             |
+| **US022 - Reporte de ventas**                | Media / Media                            | Alta / Alta                               | Media / Media                                           |
+| **US023 - Sistema de calificaciones**        | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                             |
+| **US024 - Función de reordenar**             | Media / Media                            | Alta / Alta                               | Media / Media                                           |
+| **US025 - Estadísticas de recetas compartidas** | Media / Media                            | Alta / Alta                               | Media / Media                                          |
+| **US026 - Revisión de clientes**             | Media / Media                            | Media / Media                             | Media / Media                                           |
+| **US027 - Gestión de días de descanso**      | Media / Media                            | Alta / Alta                               | Media / Media                                           |
+| **US028 - Opciones de personalización**      | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                             |
+| **US029 - Función de encuestas a clientes**  | Media / Media                            | Media / Media                             | Media / Media                                           |
 
 
 ### 2.3.3. User Journey Mapping.
@@ -975,6 +975,7 @@ User Goal: Crear una nueva cuenta e iniciar sesión.
 
 User Goal: Crear una nueva cuenta e iniciar sesión correctamente.
 
+![User Journey Mapping del Segmento 1](images/Evidence%20Landing%20Page%201.PNG)
 <img src="/assets/User%20flow%20Register.png" width="800"/>
 
 ## 4.5. Web Applications Prototyping
@@ -1105,7 +1106,7 @@ Para la elaboracion de la landing page, se utilizó los lenguajes de programacio
 		</tr>
 		<tr>
 			<td>Sum of Story Points</td>
-			<td></td>
+			<td>11</td>
 		</tr>
 	</tbody>
 </table>
