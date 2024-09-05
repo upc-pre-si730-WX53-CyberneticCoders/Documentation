@@ -1114,6 +1114,6 @@ Para la elaboracion de la landing page, se utilizó los lenguajes de programacio
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-<img src="/assets/Evidence%20Landing%20Page%201.PNG" width="800"/>
-<img src="/assets/Evidence%20Landing%20Page%202.PNG" width="800"/>
-<img src="/assets/Evidence%20Landing%20Page%203.PNG" width="800"/>
+![images](images/Evidence%20Landing%20Page%201.PNG)
+![images](images/Evidence%20Landing%20Page%202.PNG)
+![images](images/Evidence%20Landing%20Page%203.PNG)
