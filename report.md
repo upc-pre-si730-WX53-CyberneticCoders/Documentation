@@ -566,3 +566,291 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 | **Oportunidades:**      | Crecimiento en mercados locales que valoran la autenticidad y la calidad de la comida casera, expansión a nuevas ciudades y regiones. | Expansión de cantidad de opciones de platos por día. | Expansión de su base de usuarios a través de la diversificación de servicios. | Crecimiento en el mercado de consumidores interesados en salud y gastronomía de alta calidad. |
 | **Amenazas:**           | Competencia de grandes plataformas como UberEats y Rappi, que tienen mayores recursos para publicidad y desarrollo de infraestructura. | Nuevas plataformas que ofrecen comida casera de calidad. | Competencia de plataformas más especializadas en comida casera y saludable. | Competencia de plataformas que ofrecen calidad similar a precios más accesibles. |
 
+
+### 2.1.2. Estrategias y tácticas frente a competidores.
+| Oportunidades                                                                                      | Amenazas                                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| O1: Expansión en un mercado establecido.                                                            | A1: Competencia de grandes plataformas como UberEats y Rappi, que tienen mayores recursos para publicidad y desarrollo de infraestructura.                            |
+| O2: Sostenible gracias a la limitada cantidad de negocios iguales en tu rubro.                      | A2: Nuevas plataformas que ofrecen comida casera de calidad.                                                                                                         |
+|                                                                                                     | A3: Competencia de plataformas que ofrecen calidad similar a precios más bajos.                                                                                      |
+
+| Fortalezas                                                                                          | Estrategias FO (Ofensivas)                                                                                                      | Estrategias FA (Defensivas)                                                                                                  |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| F1: Facilidad de uso de la aplicación.                                                              | FO1: Expansión Geográfica y Diversificación de la Oferta                                                                        | FA1: Programa de Fidelización y Beneficios Exclusivos                                                                        |
+| F2: Variedad de opciones de platos.                                                                 | Aprovechar la facilidad de uso de la aplicación (F1) y la variedad de opciones de platos (F2) para posicionarse en nuevos mercados locales que valoran la autenticidad y calidad de la comida casera (O1). Se podrá empezar por ciudades cercanas y luego expandirse regionalmente, destacando siempre la experiencia amigable del usuario (F3) como un diferenciador clave. | Frente a la competencia de grandes plataformas como UberEats y Rappi (A1), implementar un programa de fidelización que ofrezca descuentos y acceso anticipado a nuevos platos. Esto puede ayudar a retener a los usuarios y disminuir el riesgo de que migren a la competencia.                                                   |
+| F3: Experiencia de usuario amigable.                                                                | FO2: Potenciación de la Comunidad de Recetas                                                                                   | FA2: Alianzas con Chefs y Cocineros Reconocidos                                                                              |
+|                                                                                                     | Utilizar la experiencia de usuario amigable (F3) y la autenticidad de las recetas para fortalecer la comunidad de recetas, incentivando a los usuarios a compartir más y valorar este conocimiento entre los consumidores (O2). Esto sin duda le dará un valor percibido de autenticidad y calidad.  | Para contrarrestar la amenaza de nuevas plataformas que ofrecen comida casera (A2), establecer alianzas con chefs reconocidos o influencers gastronómicos para cerrar posibles brechas en la percepción. Esto no solo mejorará la percepción de calidad sino que atraerá también a nuevos usuarios. |
+
+| Debilidades                                                                                         | Estrategias DO (Reorientación)                                                                                                  | Estrategias DA (Supervivencia)                                                                                               |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| D1: Red limitada de cocineros en comparación con la red de restaurantes de competidores como UberEats y Rappi.                       | DO1: Fortalecer la Red de Cocineros Locales                                                                                   | DA1: Optimización de Costos Operativos                                                                                       |
+| D2: Falta de servicios adicionales que puedan mejorar la conveniencia y diversificación de la oferta, como entregas rápidas o kits de ingredientes.                      | Utilizar la expansión en un mercado establecido (O1) como oportunidad para reclutar y formar más cocineros locales (D1), reduciendo así la debilidad de tener una red limitada de cocineros. Esto también permitirá aumentar la variedad de opciones de platos por día (O2).               | Implementar medidas de eficiencia en la operación diaria para reducir costos y así poder ofrecer precios más competitivos (D3). Esto es crucial frente a la competencia que puede ofrecer precios más accesibles (A3).                         |
+| D3: Posibles costos operativos altos que podrían afectar la capacidad de competir en precios con plataformas más financieramente poderosas.                            | DO2: Diversificación de Servicios Adicionales                                                                                 | DA2: Innovación en el Modelo de Negocios                                                                                     |
+|                                                                                                     | Considerar la implementación de servicios adicionales, como entrega en menos de 30 minutos o kits de ingredientes para cocinar en casa, aprovechando la experiencia de usuario amigable (F3) para mejorar la conveniencia y diversificar la oferta (O2).                                     | Frente a la amenaza de plataformas grandes o nuevas (A1, A2), invertir en la innovación del modelo de negocios, como suscripciones premium con beneficios adicionales, para diferenciarse y atraer a un público específico que valora la autenticidad y personalización.                       |
+## 2.2. Entrevistas.
+
+### 2.2.1. Diseño de entrevistas.
+
+Preguntas generales:
+¿Cuál es tu nombre completo?
+ ¿Cuál es tu edad?
+ ¿En qué distrito vives? 
+ ¿A qué te dedicas?
+ ¿Usas algún dispositivo electrónico?
+ ¿Cómo te apoyas en aplicaciones en tu día a día? ¿Utilizas alguna app específica, como de comida, delivery, o alguna otra que te sea útil?
+
+Segmento 1: Estudiantes universitarios y/o profesionales 
+  ¿Con qué frecuencia comes fuera de casa? ¿Qué tipo de comidas suelen ser tus elegidas?
+  ¿Cuál es el principal desafío que enfrentas al momento de seleccionar tus comidas?
+  ¿Te suele ser difícil encontrar comida casera y saludable? 
+  En caso sea difícil, ¿ Qué solución tomas frente a este problema? ¿Cocinar es una opción factible para ti?
+  ¿Estarías dispuesto/a a pagar por comida casera?
+  ¿Crees que una aplicación como esta podría ayudarte a tener acceso a comidas caseras y saludables a un precio que se adapte a tu bolsillo?
+
+
+Segmento 2: Cocineros caseros
+  ¿Con qué frecuencia cocinas en casa?
+  ¿Has pensado en realizar la venta de menús o platos caseros?
+  ¿Qué opinas sobre la idea de ganar dinero vendiendo comida casera a estudiantes, profesionales o personas en general que por distintas razones no pueden acceder a ese tipo de comida?
+  ¿Estarías interesado en vender tus platos a través de una aplicación de venta de comida casera?¿Por qué?
+  ¿Qué recursos te gustaría encontrar en la aplicación que pueda facilitarte el uso de esta y el manejo de tu ventas?
+  ¿Cómo crees que una aplicación como la nuestra podría ayudarte en el ámbito económico? ¿Crees que lograría darte mayor visibilidad?
+
+
+### 2.2.2. Registro de entrevistas.
+
+### Segmento 1: Universitarios y Profesionales Ocupados
+
+**Entrevistado 1**:  
+- **Nombre y Apellido**: Pia Barandiaran  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Pia Barandiaran.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ETavGC5q4nxIhwrjuExv0NYBNt1Zw0AWpBjLssBDm5Gvsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s4zokS)  
+- **Informe de Resumen sobre la entrevista**: Pia Barandiaran, de 22 años, se desempeña como administradora. Durante la entrevista, nos comentó que, debido a su trabajo y la falta de tiempo, suele comer fuera de casa de lunes a viernes. Esto le representa un desafío, ya que le resulta difícil encontrar opciones de comida casera y saludable, además por cuestiones de tiempo, se le es complicado cocinar. Pia expresó que una aplicación como Sabores Cercanos sería un gran beneficio para su día a día.
+
+**Entrevistado 2**:  
+- **Nombre y Apellido**: Anapaula Díaz  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Anapaula Díaz.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/Ef5-UeuqvTJOiZtfVPplw6kB3fpNbUnpq3mF9dDiN6nwTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sYnFgV)  
+- **Informe de Resumen sobre la entrevista**: Anapaula Díaz, de 22 años, es estudiante de publicidad. Nos comentó que suele tener que comer fuera de casa entre 3 y 5 días a la semana, lo cual no le agrada, ya que las opciones disponibles no son de su preferencia. Además, señaló que una aplicación como la nuestra le sería de gran ayuda para cubrir esta necesidad.
+
+**Entrevistado 3**:  
+- **Nombre y Apellido**: Piero Gamio  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Piero Gamio.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EdzAqflBWOhHj5OhAOppM0sBybnce6iLqQhfUvxYEN2d2g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Du8wd7)  
+- **Informe de Resumen sobre la entrevista**: Piero Gamio, de 22 años, trabaja en la empresa de telecomunicaciones Movistar. Nos comentó que, debido a su trabajo, no tiene mucho tiempo para cocinar, por lo que suele pedir comida a través de diversas aplicaciones. Además, expresó su interés en nuestra aplicación, ya que la considera una excelente iniciativa que le permitiría disfrutar de comida casera y saludable de manera conveniente.
+
+### Segmento 2: Cocineros Caseros
+
+**Entrevistado 1**:  
+- **Nombre y Apellido**: Álvaro Arata  
+- **Edad**: 29  
+- **URL del video**: [Entrevista-Alvaro Arata.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EfHHz_BwWnlJuakQCAB4dKoBKLHNCnm84xxbosHjHcfo8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E8QUpv)  
+- **Informe de Resumen sobre la entrevista**: Álvaro Arata, de 29 años, trabaja en el área de distribución de licores y realiza la mayor parte de su trabajo desde casa. Nos comentó que le gusta cocinar y que lo hace la mayor parte de los días, por este motivo estuvo considerando abrir un negocio en este ámbito, pero decidió no hacerlo debido a posibles dificultades como la falta de visibilidad y los retos de marketing. Álvaro cree que nuestra aplicación podría ayudarle a superar estos obstáculos y, a su vez, representar un apoyo económico.
+
+**Entrevistado 2**:  
+- **Nombre y Apellido**: Cristina Villegas  
+- **Edad**: 27  
+- **URL del video**: [Entrevista-Cristina Villegas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ER5LQ_sMMMpAlmgxIi90ZagBE4AUIHSYawtTROD3h4HItg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UzJcyo)  
+- **Informe de Resumen sobre la entrevista**: Cristina Villegas, de 27 años, es psicóloga y trabaja desde casa, lo que le permite cocinar regularmente. Nos contó que a menudo le elogian su sazón y que le gustaría aprovechar este talento a través de nuestra plataforma. Recientemente, inició un emprendimiento de postres caseros, pero no ha tenido mucho éxito debido a la falta de visibilidad. Cristina considera que nuestra aplicación es una excelente iniciativa que podría ayudarle a hacer crecer su negocio.
+
+**Entrevistado 3**:  
+- **Nombre y Apellido**: Jean Pierre Alonso Medina Alfaro  
+- **Edad**: 23  
+- **URL del video**: [entrevista_jp.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EdnlxogZ-_JDslWzS6WN5wkBAIDVsEal6qddyApb2oJLuw?e=Vkxhzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+- **Informe de Resumen sobre la entrevista**: Jean Pierre Alonso Medina Alfaro, de 23 años, comentó que le gusta cocinar y que ve la aplicación como una buena oportunidad para ganar dinero extra mientras sigue disfrutando de su pasión por la cocina. También expresó que le atrae la idea de tener visibilidad para llegar a más personas.
+
+## 2.2.3. Análisis de entrevistas
+
+### Segmento 1: Universitarios y Profesionales Ocupados
+
+Para nuestro primer segmento, **universitarios y profesionales ocupados**, realizamos 3 entrevistas que revelaron que el principal interés en *Sabores Cercanos* radica en que ellos comen fuera de casa y no encuentran opciones de comida casera ni saludable. Además, mencionaron que, debido a esta falta de opciones, a menudo recurren a comida rápida, que les resulta repetitiva y poco satisfactoria. Les gustaría poder elegir comida casera y están dispuestos a pagar por ello. Finalmente, consideraron que la iniciativa es muy positiva y beneficiosa tanto para ellos como para los cocineros caseros.
+
+### Segmento 2: Cocineros Caseros
+
+En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas que revelaron que el principal interés en *Sabores Cercanos* proviene del deseo de obtener mayor visibilidad en el sector culinario, con el objetivo de generar ingresos adicionales a través de esta plataforma. Además, los entrevistados mencionaron varias características que les gustaría que nuestra aplicación incluyera para mejorar la administración y gestión de sus pequeños negocios. Por último, expresaron que consideran nuestra aplicación una excelente iniciativa que podría beneficiarles significativamente en el aspecto económico.
+
+
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+#### Universitarios y Profesionales Ocupados
+![User Persona del Segmento 1](images/UserPersona_Segmento1.png)
+
+#### Cocineros Caseros
+![User Persona del Segmento 2](images/UserPersona_Segmento2.png)
+
+### 2.3.2. User Task Matrix
+#### Universitarios y Profesionales Ocupados
+
+| Task/Historia de Usuario                     | Pia Barandiarán (Frecuencia/Importancia) | Anapaula Díaz (Frecuencia/Importancia) | Piero Gamio (Frecuencia/Importancia) |
+|----------------------------------------------|------------------------------------------|----------------------------------------|-------------------------------------|
+| **US001 - Registro de consumidor**           | Media / Alta                             | Media / Alta                           | Alta / Alta                         |
+| **US002 - Búsqueda de comidas**              | Alta / Alta                              | Alta / Alta                            | Alta / Alta                         |
+| **US003 - Filtros avanzados de búsqueda**    | Media / Media                            | Alta / Alta                            | Alta / Alta                         |
+| **US004 - Selección de menú personalizado**  | Media / Alta                             | Alta / Alta                            | Alta / Alta                         |
+| **US005 - Notificaciones de nuevos menús**   | Baja / Media                             | Baja / Media                           | Media / Media                       |
+| **US006 - Repetición de pedidos**            | Media / Media                            | Alta / Alta                            | Alta / Alta                         |
+| **US007 - Programación de pedidos**          | Alta / Alta                              | Media / Media                          | Media / Media                       |
+| **US008 - Métodos de pago**                  | Alta / Alta                              | Alta / Alta                            | Alta / Alta                         |
+| **US009 - Confirmación de entrega**          | Alta / Alta                              | Media / Media                          | Alta / Alta                         |
+| **US010 - Calificación de servicios**        | Media / Media                            | Baja / Media                           | Alta / Alta                         |
+| **US011 - Gestión de favoritos**             | Baja / Baja                              | Media / Media                          | Alta / Alta                         |
+| **US012 - Historial de pedidos**             | Media / Media                            | Alta / Alta                            | Alta / Alta                         |
+| **US013 - Búsqueda de recetas de cocina**    | Baja / Media                             | Media / Media                          | Baja / Media                        |
+| **US030 - Landing Page Responsive**          | Alta / Alta                              | Alta / Alta                            | Alta / Alta                         |
+| **US031 - Descripción de servicios en el landing page** | Media / Alta                             | Alta / Alta                            | Alta / Alta                         |
+| **US032 - Botones de llamada a la acción en el landing page** | Alta / Alta                              | Alta / Alta                            | Alta / Alta                         |
+
+
+#### Cocineros Caseros
+
+| Task/Historia de Usuario                     | Alvaro Arata (Frecuencia/Importancia)     | Cristina Villegas (Frecuencia/Importancia) | Jean Pierre Alonso Medina Alfaro (Frecuencia/Importancia) |
+|----------------------------------------------|------------------------------------------|--------------------------------------------|----------------------------------------------------------|
+| **US014 - Registro de cocineros**            | Media / Alta                             | Alta / Alta                               | Media / Alta                                              |
+| **US015 - Creación de perfil de cocinero**   | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US016 - Publicación de menús**             | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US017 - Configuración de áreas de entrega**| Media / Media                            | Media / Media                             | Media / Media                                             |
+| **US018 - Recepción de pedidos**             | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US019 - Confirmación de entregas**         | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US020 - Integración de recetas**           | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US021 - Gestión de pagos**                 | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US022 - Reporte de ventas**                | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US023 - Sistema de calificaciones**        | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US024 - Función de reordenar**             | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US025 - Estadísticas de recetas compartidas** | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US026 - Revisión de clientes**             | Media / Media                            | Media / Media                             | Media / Media                                             |
+| **US027 - Gestión de días de descanso**      | Media / Media                            | Alta / Alta                               | Media / Media                                             |
+| **US028 - Opciones de personalización**      | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                               |
+| **US029 - Función de encuestas a clientes**  | Media / Media                            | Media / Media                             | Media / Media                                             |
+
+
+### 2.3.3. User Journey Mapping.
+#### Universitarios y Profesionales Ocupados
+![User Journey Mapping del Segmento 1](images/UserJourneyMappingSegmento1.png)
+#### Cocineros Caseros
+![User Journey Mapping del Segmento 2](images/UserJourneyMappingSegmento2.png)
+
+
+
+### 2.3.4. Empathy Mapping
+#### Universitarios y Profesionales Ocupados
+![Empathy Mapping del Segmento 1](images/UserJourneyMappingSegmento2.png)
+#### Cocineros Caseros
+![Empathy Mapping del Segmento 2](images/UserJourneyMappingSegmento2.png)
+
+### 2.3.5. As-is Scenario Mapping.
+#### Universitarios y Profesionales Ocupados
+
+#### Cocineros Caseros
+
+
+## 2.4. Ubiquitous Language
+
+1. **User (Usuario)**
+   - **Definición**: Persona que utiliza la plataforma para buscar y comprar comida casera o para vender sus servicios de cocina.
+
+2. **Home Cook (Cocinero Casero)**
+   - **Definición**: Usuario que prepara comidas en casa y ofrece sus platos para la venta a través de la plataforma.
+
+3. **Consumer (Consumidor)**
+   - **Definición**: Usuario que busca y compra comidas caseras ofrecidas por cocineros caseros en la plataforma.
+
+4. **Menu (Menú)**
+   - **Definición**: Conjunto de platos disponibles para la venta por parte de un cocinero casero, que incluye descripciones, precios y opciones de personalización.
+
+5. **Recipe (Receta)**
+   - **Definición**: Instrucciones detalladas para preparar un plato específico, que puede ser compartida por los cocineros caseros en la plataforma.
+
+6. **Order (Pedido)**
+   - **Definición**: Solicitud realizada por un consumidor para comprar un menú específico de un cocinero casero.
+
+7. **Delivery Area (Área de Entrega)**
+   - **Definición**: Zona geográfica en la que un cocinero casero está dispuesto a entregar sus comidas.
+
+8. **Payment Method (Método de Pago)**
+   - **Definición**: Forma de pago utilizada por los consumidores para completar las transacciones en la plataforma, como tarjetas de crédito, débito o pagos en línea.
+
+9. **Order Confirmation (Confirmación de Pedido)**
+   - **Definición**: Notificación enviada al consumidor y al cocinero casero para confirmar que el pedido ha sido recibido y está en proceso.
+
+10. **Rating (Calificación)**
+    - **Definición**: Evaluación que los consumidores pueden dejar sobre la calidad de la comida y el servicio del cocinero casero, lo que ayuda a otros usuarios a tomar decisiones.
+
+11. **Favorites (Favoritos)**
+    - **Definición**: Lista de menús o cocineros caseros que un consumidor ha marcado para facilitar su acceso en futuras visitas a la plataforma.
+
+12. **Personalized Menu (Menú Personalizado)**
+    - **Definición**: Menú adaptado a las preferencias y necesidades dietéticas específicas del consumidor.
+
+13. **Recipe Sharing (Compartición de Recetas)**
+    - **Definición**: Funcionalidad que permite a los cocineros caseros compartir sus recetas con la comunidad en la plataforma.
+
+14. **Subscription (Suscripción)**
+    - **Definición**: Servicio ofrecido en la plataforma que permite a los consumidores recibir comidas regularmente según un plan elegido.
+
+15. **Order History (Historial de Pedidos)**
+    - **Definición**: Registro de todos los pedidos realizados por un consumidor, incluyendo detalles de los menús y fechas.
+
+16. **User Profile (Perfil de Usuario)**
+    - **Definición**: Página que contiene la información personal y preferencias de un usuario, ya sea consumidor o cocinero casero.
+
+17. **Notification (Notificación)**
+    - **Definición**: Mensaje enviado a los usuarios para informarles sobre nuevos menús, actualizaciones de pedidos u otros eventos relevantes.
+
+18. **Payment Processing (Procesamiento de Pagos)**
+    - **Definición**: Proceso de gestión y verificación de pagos realizados por los consumidores a través de la plataforma.
+
+19. **Delivery Scheduling (Programación de Entregas)**
+    - **Definición**: Funcionalidad que permite a los consumidores y cocineros caseros coordinar los horarios para la entrega de pedidos.
+
+20. **Community Engagement (Compromiso Comunitario)**
+    - **Definición**: Actividades y funcionalidades diseñadas para fomentar la participación y la interacción entre los usuarios de la plataforma, como compartir recetas y reseñas.
+
+
+
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping.
+#### Universitarios y Profesionales Ocupados
+
+#### Cocineros Caseros
+
+
+
+## User Stories
+
+| Epic ID | Título                        | Descripción                                                                                                   | Criterios de Aceptación                                                                                                                                                                                    | Relacionado con (Epic ID) |
+|---------|-------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| US001   | Registro de consumidor         | Como profesional ocupado, quiero registrarme en la plataforma para acceder a las opciones de comida casera.     | **Escenario 1:** Dado que el usuario ingresa sus datos, cuando todos sean válidos, entonces el sistema debe permitir el registro exitoso.<br>**Escenario 2:** Dado que el usuario intenta registrarse con un correo ya usado, cuando lo haga, entonces el sistema debe mostrar un mensaje de error.<br>**Escenario 3:** Dado que el usuario no completa los datos, cuando lo intente, entonces el sistema debe solicitar los campos obligatorios. | EP001                     |
+| US002   | Búsqueda de comidas            | Como profesional ocupado, quiero buscar comidas cercanas a mi ubicación para encontrar opciones rápidas.        | **Escenario 1:** Dado que el usuario permite la geolocalización, cuando realice una búsqueda, entonces el sistema debe mostrar opciones cercanas.<br>**Escenario 2:** Dado que el usuario no permite la geolocalización, cuando realice una búsqueda, entonces el sistema debe solicitarle una ubicación manual.<br>**Escenario 3:** Dado que el usuario tiene restricciones dietéticas, cuando realice la búsqueda, entonces el sistema debe mostrar opciones que cumplan con sus preferencias. | EP002                     |
+| US003   | Filtros avanzados de búsqueda  | Como profesional ocupado, quiero aplicar filtros avanzados para encontrar opciones de comida que se ajusten a mis necesidades. | **Escenario 1:** Dado que el usuario aplica un filtro por precio, cuando lo haga, entonces el sistema debe mostrar opciones dentro de su presupuesto.<br>**Escenario 2:** Dado que el usuario aplica un filtro por distancia, cuando lo haga, entonces el sistema debe mostrar solo las opciones cercanas.<br>**Escenario 3:** Dado que el usuario combina múltiples filtros, cuando lo haga, entonces el sistema debe mostrar solo las opciones que cumplan con todos los criterios. | EP002                     |
+| US004   | Selección de menú personalizado | Como profesional ocupado, quiero personalizar mi pedido según mis preferencias para ajustar la comida a mis necesidades. | **Escenario 1:** Dado que el usuario selecciona un menú personalizado, cuando lo confirme, entonces el sistema debe reflejar las modificaciones en el resumen del pedido.<br>**Escenario 2:** Dado que el usuario intenta agregar opciones no disponibles, cuando lo haga, entonces el sistema debe mostrar un mensaje de error.<br>**Escenario 3:** Dado que el pedido es personalizado, cuando el cocinero lo acepte, entonces el sistema debe notificar al usuario con los detalles actualizados. | EP002                     |
+| US005   | Notificaciones de nuevos menús | Como profesional ocupado, quiero recibir notificaciones sobre nuevos menús cerca de mi ubicación.               | **Escenario 1:** Dado que el usuario está suscrito a notificaciones, cuando se publique un nuevo menú, entonces el sistema debe enviar una alerta en tiempo real.<br>**Escenario 2:** Dado que el usuario no desea recibir notificaciones, cuando cambie esta opción en su perfil, entonces el sistema debe desactivar las alertas.<br>**Escenario 3:** Dado que el usuario ha configurado alertas específicas, cuando se publiquen ofertas relevantes, entonces el sistema debe enviar una notificación solo para esas categorías. | EP004                     |
+| US006   | Repetición de pedidos          | Como profesional ocupado, quiero tener la opción de repetir mis pedidos anteriores para ahorrar tiempo.         | **Escenario 1:** Dado que el usuario selecciona "repetir pedido", cuando lo haga, entonces el sistema debe cargar automáticamente los detalles del pedido anterior.<br>**Escenario 2:** Dado que el menú ya no está disponible, cuando el usuario intente repetir el pedido, entonces el sistema debe sugerir una alternativa similar.<br>**Escenario 3:** Dado que el usuario repite el pedido, cuando lo confirme, entonces el sistema debe generar el nuevo pedido con los mismos detalles que el anterior. | EP003                     |
+| US007   | Programación de pedidos        | Como profesional ocupado, quiero programar la fecha y hora de entrega de mis pedidos.                           | **Escenario 1:** Dado que el usuario selecciona una fecha futura, cuando confirme el pedido, entonces el sistema debe agendar la entrega para esa fecha.<br>**Escenario 2:** Dado que el cocinero no está disponible para la fecha seleccionada, cuando el usuario intente programar, entonces el sistema debe sugerir una nueva fecha.<br>**Escenario 3:** Dado que el pedido está programado, cuando la fecha de entrega se acerque, entonces el sistema debe enviar una notificación de recordatorio al usuario. | EP003                     |
+| US008   | Métodos de pago                | Como profesional ocupado, quiero pagar mi pedido a través de múltiples métodos de pago.                         | **Escenario 1:** Dado que el usuario selecciona tarjeta de crédito, cuando confirme el pago, entonces el sistema debe procesarlo de manera segura.<br>**Escenario 2:** Dado que el usuario selecciona PayPal, cuando confirme el pago, entonces el sistema debe redirigirlo a PayPal para completar la transacción.<br>**Escenario 3:** Dado que el usuario selecciona una transferencia bancaria, cuando seleccione esta opción, entonces el sistema debe mostrar las instrucciones de pago correspondientes. | EP003                     |
+| US009   | Confirmación de entrega        | Como profesional ocupado, quiero confirmar la recepción de mi pedido.                                           | **Escenario 1:** Dado que el usuario recibe su pedido, cuando lo confirme, entonces el sistema debe marcar el pedido como completado.<br>**Escenario 2:** Dado que el usuario no confirma la entrega, cuando el cocinero notifique la entrega, entonces el sistema debe esperar confirmación del cliente.<br>**Escenario 3:** Dado que el usuario reporta un problema con la entrega, cuando lo haga, entonces el sistema debe abrir una disputa para revisar el caso. | EP003                     |
+| US010   | Calificaciones de servicios    | Como profesional ocupado, quiero calificar el servicio del cocinero para ayudar a otros usuarios.                | **Escenario 1:** Dado que el usuario completa un pedido, cuando lo haga, entonces el sistema debe permitirle dejar una calificación y comentario.<br>**Escenario 2:** Dado que el usuario no completa la calificación, cuando intente cerrarla, entonces el sistema debe recordarle completarla más tarde.<br>**Escenario 3:** Dado que el usuario deja una calificación negativa, cuando lo haga, entonces el sistema debe permitir al cocinero ver y responder al comentario. | EP005                     |
+| US011   | Gestión de favoritos           | Como profesional ocupado, quiero poder guardar mis cocineros y menús favoritos para acceder fácilmente a ellos en el futuro. | **Escenario 1:** Dado que el usuario selecciona un cocinero favorito, cuando lo haga, entonces el sistema debe guardarlo en su perfil de favoritos.<br>**Escenario 2:** Dado que el usuario guarda un menú, cuando quiera acceder a él nuevamente, entonces el sistema debe mostrarlo en su sección de favoritos.<br>**Escenario 3:** Dado que el usuario intenta ordenar de un menú guardado, cuando el menú ya no esté disponible, entonces el sistema debe sugerir una alternativa similar. | EP004                     |
+| US012   | Historial de pedidos           | Como profesional ocupado, quiero acceder a mi historial de pedidos para revisar lo que he ordenado en el pasado. | **Escenario 1:** Dado que el usuario accede a su historial, cuando lo haga, entonces el sistema debe mostrar todos los pedidos pasados con detalles.<br>**Escenario 2:** Dado que el usuario intenta volver a pedir algo de su historial, cuando lo haga, entonces el sistema debe permitirle repetir el pedido fácilmente.<br>**Escenario 3:** Dado que el usuario intenta ver los detalles de un pedido anterior, cuando lo seleccione, entonces el sistema debe mostrar el resumen completo del pedido. | EP004                     |
+| US013   | Búsqueda de recetas de cocina  | Como profesional ocupado, quiero buscar recetas de cocina casera en la plataforma para replicarlas en casa.     | **Escenario 1:** Dado que el usuario busca recetas, cuando ingrese una palabra clave, entonces el sistema debe mostrar recetas relacionadas con esa búsqueda.<br>**Escenario 2:** Dado que el usuario aplica filtros para encontrar recetas, cuando lo haga, entonces el sistema debe mostrar recetas que cumplan con los criterios seleccionados.<br>**Escenario 3:** Dado que el usuario encuentra una receta de su interés, cuando la seleccione, entonces el sistema debe mostrar los detalles completos de la receta, incluidos ingredientes y pasos. | EP002                     |
+| US014   | Registro de cocineros          | Como cocinero casero, quiero registrarme en la plataforma proporcionando mi nombre, ubicación y especialidades. | **Escenario 1:** Dado que el cocinero ingresa su información básica, cuando todos los datos estén correctos, entonces el sistema debe permitir el registro exitoso.<br>**Escenario 2:** Dado que el cocinero omite un campo obligatorio, cuando intente registrarse, entonces el sistema debe mostrar un mensaje de error.<br>**Escenario 3:** Dado que el cocinero completa el registro, cuando acceda nuevamente a la plataforma, entonces su perfil debe estar disponible. | EP001                     |
+| US015   | Creación de perfil de cocinero | Como cocinero casero, quiero crear un perfil que incluya mi historial culinario y certificaciones.               | **Escenario 1:** Dado que el cocinero sube una imagen de su perfil y una certificación, cuando se complete, entonces el sistema debe actualizar su perfil.<br>**Escenario 2:** Dado que el cocinero no sube la información completa, cuando intente publicar su perfil, entonces el sistema debe solicitarle los datos faltantes.<br>**Escenario 3:** Dado que el perfil está completo, cuando los usuarios busquen cocineros, entonces el sistema debe mostrar el perfil con todos los datos. | EP001                     |
+| US016   | Publicación de menús           | Como cocinero casero, quiero publicar menús diarios para que los clientes puedan elegir entre diferentes opciones. | **Escenario 1:** Dado que el cocinero carga un menú, cuando se completen todos los campos requeridos, entonces el sistema debe permitir la publicación del menú.<br>**Escenario 2:** Dado que el cocinero intenta publicar un menú incompleto, cuando lo haga, entonces el sistema debe mostrar un mensaje de error.<br>**Escenario 3:** Dado que el menú es publicado, cuando los usuarios busquen opciones, entonces el sistema debe mostrarlo según las preferencias del usuario. | EP006                     |
+| US017   | Configuración de áreas de entrega | Como cocinero casero, quiero configurar las áreas de entrega de mis pedidos para que solo los usuarios dentro de esas zonas puedan realizar pedidos. | **Escenario 1:** Dado que el cocinero selecciona una zona de entrega, cuando confirme, entonces el sistema debe habilitar las áreas seleccionadas.<br>**Escenario 2:** Dado que el cocinero selecciona una zona de entrega no válida, cuando lo intente, entonces el sistema debe mostrar un mensaje de error.<br>**Escenario 3:** Dado que el cocinero selecciona una zona de entrega, cuando un usuario fuera de la zona intente hacer un pedido, entonces el sistema debe bloquear la opción. | EP006                     |
+| US018   | Recepción de pedidos           | Como cocinero casero, quiero recibir notificaciones automáticas de nuevos pedidos para empezar a preparar la comida a tiempo. | **Escenario 1:** Dado que el usuario hace un pedido, cuando se confirme, entonces el sistema debe notificar al cocinero inmediatamente.<br>**Escenario 2:** Dado que el cocinero tiene un pedido pendiente, cuando el pedido sea procesado, entonces el sistema debe mostrar el estado actualizado.<br>**Escenario 3:** Dado que el pedido es cancelado por el usuario, cuando ocurra, entonces el cocinero debe recibir una notificación de cancelación. | EP003                     |
+| US019   | Confirmación de entregas       | Como cocinero casero, quiero confirmar la entrega de los pedidos para asegurarme de que los clientes los reciban a tiempo. | **Escenario 1:** Dado que el cocinero realiza una entrega, cuando el pedido sea recibido por el cliente, entonces el sistema debe actualizar el estado del pedido a "entregado".<br>**Escenario 2:** Dado que el cocinero no puede entregar el pedido, cuando lo indique, entonces el sistema debe notificar al cliente.<br>**Escenario 3:** Dado que el cliente reporta un problema con la entrega, cuando lo haga, entonces el sistema debe iniciar una disputa automáticamente. | EP003                     |
+| US020   | Integración de recetas         | Como cocinero casero, quiero compartir recetas de mis platos para que los usuarios puedan replicarlos en sus casas. | **Escenario 1:** Dado que el cocinero sube una receta, cuando sea publicada, entonces el sistema debe permitir a los usuarios guardarla en su perfil.<br>**Escenario 2:** Dado que el cocinero sube una receta incompleta, cuando lo haga, entonces el sistema debe solicitar que complete los campos faltantes.<br>**Escenario 3:** Dado que los usuarios guardan una receta, cuando el cocinero suba una nueva versión, entonces el sistema debe notificar a los usuarios. | EP005                     |
+| US021   | Gestión de pagos               | Como cocinero casero, quiero recibir los pagos a través de la plataforma para gestionar mis ingresos de forma segura. | **Escenario 1:** Dado que el cocinero completa un pedido, cuando se confirme la entrega, entonces el sistema debe procesar el pago correspondiente.<br>**Escenario 2:** Dado que el cocinero no ha configurado su método de pago, cuando intente retirar fondos, entonces el sistema debe mostrar un mensaje de advertencia.<br>**Escenario 3:** Dado que el pago ha sido completado, cuando el cocinero revise su saldo, entonces el sistema debe reflejar el ingreso correctamente. | EP006                     |
+| US022   | Reporte de ventas              | Como cocinero casero, quiero recibir un reporte semanal de ventas para analizar mi desempeño y ajustar mis precios. | **Escenario 1:** Dado que el cocinero ha realizado ventas, cuando llegue el fin de semana, entonces el sistema debe generar un reporte detallado de sus ingresos.<br>**Escenario 2:** Dado que el cocinero no ha realizado ventas en la semana, cuando revise su reporte, entonces el sistema debe indicar que no hubo ingresos.<br>**Escenario 3:** Dado que el cocinero quiere un análisis más profundo, cuando acceda al reporte, entonces el sistema debe permitirle ver gráficos de su desempeño. | EP006                     |
+| US023   | Sistema de calificaciones      | Como cocinero casero, quiero recibir calificaciones de mis clientes para mejorar la calidad de mis servicios.     | **Escenario 1:** Dado que el cliente deja una calificación, cuando la publique, entonces el sistema debe actualizar la puntuación del cocinero.<br>**Escenario 2:** Dado que el cliente deja una reseña negativa, cuando el cocinero la revise, entonces el sistema debe permitirle responder.<br>**Escenario 3:** Dado que el cocinero tiene múltiples reseñas, cuando un usuario visite su perfil, entonces el sistema debe mostrar un promedio de las calificaciones. | EP005                     |
+| US024   | Función de reordenar           | Como cocinero casero, quiero permitir a los usuarios volver a ordenar los mismos menús para simplificar sus futuras compras. | **Escenario 1:** Dado que el cliente selecciona la opción de "reordenar", cuando lo haga, entonces el sistema debe cargar el pedido previo automáticamente.<br>**Escenario 2:** Dado que el cocinero ha cambiado los precios, cuando el cliente reordene, entonces el sistema debe reflejar los nuevos precios.<br>**Escenario 3:** Dado que el menú ya no está disponible, cuando el cliente intente reordenar, entonces el sistema debe notificar la indisponibilidad del pedido. | EP005                     |
+| US025   | Estadísticas de recetas compartidas | Como cocinero casero, quiero ver cuántas veces se han guardado o compartido mis recetas.                          | **Escenario 1:** Dado que el cocinero sube una receta, cuando los usuarios la guarden, entonces el sistema debe reflejar cuántas veces ha sido guardada.<br>**Escenario 2:** Dado que el cocinero sube varias recetas, cuando revise su perfil, entonces el sistema debe mostrarle las estadísticas agrupadas.<br>**Escenario 3:** Dado que el cocinero quiere compartir estadísticas, cuando las seleccione, entonces el sistema debe generar un informe descargable. | EP007                     |
+| US026   | Revisión de clientes           | Como cocinero casero, quiero revisar a mis clientes para asegurarme de que sean confiables y evitar problemas futuros. | **Escenario 1:** Dado que el cocinero completa un pedido, cuando lo haga, entonces el sistema debe permitirle calificar al cliente.<br>**Escenario 2:** Dado que el cliente ha sido calificado previamente, cuando el cocinero lo vea, entonces el sistema debe mostrar el historial de interacciones.<br>**Escenario 3:** Dado que el cocinero reporta un problema con un cliente, cuando lo haga, entonces el sistema debe abrir un caso de revisión. | EP005                     |
+| US027   | Gestión de días de descanso    | Como cocinero casero, quiero poder configurar días de descanso para que los usuarios no hagan pedidos cuando no esté disponible. | **Escenario 1:** Dado que el cocinero selecciona un día de descanso, cuando lo guarde, entonces el sistema debe bloquear la posibilidad de hacer pedidos ese día.<br>**Escenario 2:** Dado que el cocinero intenta configurar días de descanso consecutivos, cuando lo haga, entonces el sistema debe permitir la configuración sin límites.<br>**Escenario 3:** Dado que el cliente intenta hacer un pedido en un día de descanso, cuando lo intente, entonces el sistema debe sugerir una nueva fecha disponible. | EP006                     |
+| US028   | Opciones de personalización    | Como cocinero casero, quiero permitir a los clientes personalizar sus pedidos para ajustarlos a sus restricciones dietéticas. | **Escenario 1:** Dado que el cliente personaliza su pedido, cuando lo haga, entonces el sistema debe reflejar las opciones personalizadas en el resumen del pedido.<br>**Escenario 2:** Dado que el cliente intenta seleccionar una opción no disponible, cuando lo haga, entonces el sistema debe mostrar un mensaje de error.<br>**Escenario 3:** Dado que el cocinero recibe el pedido, cuando esté personalizado, entonces el sistema debe notificar las modificaciones en la orden. | EP007                     |
+| US029   | Función de encuestas a clientes | Como cocinero casero, quiero enviar encuestas a los clientes después de cada pedido para recibir feedback.        | **Escenario 1:** Dado que el cocinero envía una encuesta, cuando el cliente la reciba, entonces el sistema debe permitirle calificar el servicio en una escala del 1 al 5.<br>**Escenario 2:** Dado que el cliente completa la encuesta, cuando lo haga, entonces el sistema debe notificar al cocinero con un resumen de los resultados.<br>**Escenario 3:** Dado que el cocinero tiene múltiples respuestas a encuestas, cuando lo revise, entonces el sistema debe generar un informe con análisis estadísticos. | EP007                     |
+| US030   | Landing Page Responsive        | Como visitante de la plataforma, quiero que el landing page sea responsive para acceder cómodamente desde cualquier dispositivo. | **Escenario 1:** Dado que el usuario accede al landing page desde un móvil, cuando lo haga, entonces el sistema debe ajustar el contenido automáticamente.<br>**Escenario 2:** Dado que el usuario utiliza una tablet, cuando lo haga, entonces el sistema debe mostrar el contenido de forma clara y accesible.<br>**Escenario 3:** Dado que el usuario cambia el tamaño de la ventana en un navegador de escritorio, cuando lo haga, entonces el sistema debe reorganizar el contenido sin perder funcionalidad. | EP008                     |
+| US031   | Descripción de servicios en el landing page | Como visitante del segmento profesional ocupado, quiero ver una descripción clara de los servicios de comida.     | **Escenario 1:** Dado que el visitante ingresa al landing page, cuando esté en la sección de servicios, entonces el sistema debe mostrar descripciones claras de las opciones de comida.<br>**Escenario 2:** Dado que el visitante selecciona una opción de comida, cuando lo haga, entonces el sistema debe mostrar información adicional como precios y ubicación.<br>**Escenario 3:** Dado que el visitante hace clic en "ver más detalles", cuando lo haga, entonces debe ser redirigido a una página con más información sobre el servicio. | EP008                     |
+| US032   | Botones de llamada a la acción en el landing page | Como visitante del landing page, quiero ver botones claros de llamada a la acción para registrarme o buscar comida. | **Escenario 1:** Dado que el visitante ve el landing page, cuando llegue al área de botones de llamada a la acción, entonces debe poder registrarse o iniciar sesión con un solo clic.<br>**Escenario 2:** Dado que el visitante hace clic en "Buscar comida", cuando lo haga, entonces el sistema debe dirigirlo directamente a la búsqueda de comida.<br>**Escenario 3:** Dado que el visitante hace clic en "Regístrate", cuando lo haga, entonces el sistema debe llevarlo al formulario de registro sin perder su navegación actual. | EP008                     |
+
+
