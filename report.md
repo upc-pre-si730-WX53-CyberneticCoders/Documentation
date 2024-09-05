@@ -568,15 +568,106 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+| Oportunidades                                                                                      | Amenazas                                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| O1: Expansión en un mercado establecido.                                                            | A1: Competencia de grandes plataformas como UberEats y Rappi, que tienen mayores recursos para publicidad y desarrollo de infraestructura.                            |
+| O2: Sostenible gracias a la limitada cantidad de negocios iguales en tu rubro.                      | A2: Nuevas plataformas que ofrecen comida casera de calidad.                                                                                                         |
+|                                                                                                     | A3: Competencia de plataformas que ofrecen calidad similar a precios más bajos.                                                                                      |
+
+| Fortalezas                                                                                          | Estrategias FO (Ofensivas)                                                                                                      | Estrategias FA (Defensivas)                                                                                                  |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| F1: Facilidad de uso de la aplicación.                                                              | FO1: Expansión Geográfica y Diversificación de la Oferta                                                                        | FA1: Programa de Fidelización y Beneficios Exclusivos                                                                        |
+| F2: Variedad de opciones de platos.                                                                 | Aprovechar la facilidad de uso de la aplicación (F1) y la variedad de opciones de platos (F2) para posicionarse en nuevos mercados locales que valoran la autenticidad y calidad de la comida casera (O1). Se podrá empezar por ciudades cercanas y luego expandirse regionalmente, destacando siempre la experiencia amigable del usuario (F3) como un diferenciador clave. | Frente a la competencia de grandes plataformas como UberEats y Rappi (A1), implementar un programa de fidelización que ofrezca descuentos y acceso anticipado a nuevos platos. Esto puede ayudar a retener a los usuarios y disminuir el riesgo de que migren a la competencia.                                                   |
+| F3: Experiencia de usuario amigable.                                                                | FO2: Potenciación de la Comunidad de Recetas                                                                                   | FA2: Alianzas con Chefs y Cocineros Reconocidos                                                                              |
+|                                                                                                     | Utilizar la experiencia de usuario amigable (F3) y la autenticidad de las recetas para fortalecer la comunidad de recetas, incentivando a los usuarios a compartir más y valorar este conocimiento entre los consumidores (O2). Esto sin duda le dará un valor percibido de autenticidad y calidad.  | Para contrarrestar la amenaza de nuevas plataformas que ofrecen comida casera (A2), establecer alianzas con chefs reconocidos o influencers gastronómicos para cerrar posibles brechas en la percepción. Esto no solo mejorará la percepción de calidad sino que atraerá también a nuevos usuarios. |
+
+| Debilidades                                                                                         | Estrategias DO (Reorientación)                                                                                                  | Estrategias DA (Supervivencia)                                                                                               |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| D1: Red limitada de cocineros en comparación con la red de restaurantes de competidores como UberEats y Rappi.                       | DO1: Fortalecer la Red de Cocineros Locales                                                                                   | DA1: Optimización de Costos Operativos                                                                                       |
+| D2: Falta de servicios adicionales que puedan mejorar la conveniencia y diversificación de la oferta, como entregas rápidas o kits de ingredientes.                      | Utilizar la expansión en un mercado establecido (O1) como oportunidad para reclutar y formar más cocineros locales (D1), reduciendo así la debilidad de tener una red limitada de cocineros. Esto también permitirá aumentar la variedad de opciones de platos por día (O2).               | Implementar medidas de eficiencia en la operación diaria para reducir costos y así poder ofrecer precios más competitivos (D3). Esto es crucial frente a la competencia que puede ofrecer precios más accesibles (A3).                         |
+| D3: Posibles costos operativos altos que podrían afectar la capacidad de competir en precios con plataformas más financieramente poderosas.                            | DO2: Diversificación de Servicios Adicionales                                                                                 | DA2: Innovación en el Modelo de Negocios                                                                                     |
+|                                                                                                     | Considerar la implementación de servicios adicionales, como entrega en menos de 30 minutos o kits de ingredientes para cocinar en casa, aprovechando la experiencia de usuario amigable (F3) para mejorar la conveniencia y diversificar la oferta (O2).                                     | Frente a la amenaza de plataformas grandes o nuevas (A1, A2), invertir en la innovación del modelo de negocios, como suscripciones premium con beneficios adicionales, para diferenciarse y atraer a un público específico que valora la autenticidad y personalización.                       |
+## 2.2. Entrevistas.
+
+### 2.2.1. Diseño de entrevistas.
+
+Preguntas generales:
+¿Cuál es tu nombre completo?
+ ¿Cuál es tu edad?
+ ¿En qué distrito vives? 
+ ¿A qué te dedicas?
+ ¿Usas algún dispositivo electrónico?
+ ¿Cómo te apoyas en aplicaciones en tu día a día? ¿Utilizas alguna app específica, como de comida, delivery, o alguna otra que te sea útil?
+
+Segmento 1: Estudiantes universitarios y/o profesionales 
+  ¿Con qué frecuencia comes fuera de casa? ¿Qué tipo de comidas suelen ser tus elegidas?
+  ¿Cuál es el principal desafío que enfrentas al momento de seleccionar tus comidas?
+  ¿Te suele ser difícil encontrar comida casera y saludable? 
+  En caso sea difícil, ¿ Qué solución tomas frente a este problema? ¿Cocinar es una opción factible para ti?
+  ¿Estarías dispuesto/a a pagar por comida casera?
+  ¿Crees que una aplicación como esta podría ayudarte a tener acceso a comidas caseras y saludables a un precio que se adapte a tu bolsillo?
 
 
-## Entrevistas
+Segmento 2: Cocineros caseros
+  ¿Con qué frecuencia cocinas en casa?
+  ¿Has pensado en realizar la venta de menús o platos caseros?
+  ¿Qué opinas sobre la idea de ganar dinero vendiendo comida casera a estudiantes, profesionales o personas en general que por distintas razones no pueden acceder a ese tipo de comida?
+  ¿Estarías interesado en vender tus platos a través de una aplicación de venta de comida casera?¿Por qué?
+  ¿Qué recursos te gustaría encontrar en la aplicación que pueda facilitarte el uso de esta y el manejo de tu ventas?
+  ¿Cómo crees que una aplicación como la nuestra podría ayudarte en el ámbito económico? ¿Crees que lograría darte mayor visibilidad?
 
-### 2.2.1. Diseño de entrevistas
 
-### 2.2.2. Registro de entrevistas
+### 2.2.2. Registro de entrevistas.
 
-### 2.2.3. Análisis de entrevistas.
+### Segmento 1: Universitarios y Profesionales Ocupados
+
+**Entrevistado 1**:  
+- **Nombre y Apellido**: Pia Barandiaran  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Pia Barandiaran.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ETavGC5q4nxIhwrjuExv0NYBNt1Zw0AWpBjLssBDm5Gvsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s4zokS)  
+- **Informe de Resumen sobre la entrevista**: Pia Barandiaran, de 22 años, se desempeña como administradora. Durante la entrevista, nos comentó que, debido a su trabajo y la falta de tiempo, suele comer fuera de casa de lunes a viernes. Esto le representa un desafío, ya que le resulta difícil encontrar opciones de comida casera y saludable, además por cuestiones de tiempo, se le es complicado cocinar. Pia expresó que una aplicación como Sabores Cercanos sería un gran beneficio para su día a día.
+
+**Entrevistado 2**:  
+- **Nombre y Apellido**: Anapaula Díaz  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Anapaula Díaz.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/Ef5-UeuqvTJOiZtfVPplw6kB3fpNbUnpq3mF9dDiN6nwTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sYnFgV)  
+- **Informe de Resumen sobre la entrevista**: Anapaula Díaz, de 22 años, es estudiante de publicidad. Nos comentó que suele tener que comer fuera de casa entre 3 y 5 días a la semana, lo cual no le agrada, ya que las opciones disponibles no son de su preferencia. Además, señaló que una aplicación como la nuestra le sería de gran ayuda para cubrir esta necesidad.
+
+**Entrevistado 3**:  
+- **Nombre y Apellido**: Piero Gamio  
+- **Edad**: 22  
+- **URL del video**: [Entrevista-Piero Gamio.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EdzAqflBWOhHj5OhAOppM0sBybnce6iLqQhfUvxYEN2d2g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Du8wd7)  
+- **Informe de Resumen sobre la entrevista**: Piero Gamio, de 22 años, trabaja en la empresa de telecomunicaciones Movistar. Nos comentó que, debido a su trabajo, no tiene mucho tiempo para cocinar, por lo que suele pedir comida a través de diversas aplicaciones. Además, expresó su interés en nuestra aplicación, ya que la considera una excelente iniciativa que le permitiría disfrutar de comida casera y saludable de manera conveniente.
+
+### Segmento 2: Cocineros Caseros
+
+**Entrevistado 1**:  
+- **Nombre y Apellido**: Álvaro Arata  
+- **Edad**: 29  
+- **URL del video**: [Entrevista-Alvaro Arata.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EfHHz_BwWnlJuakQCAB4dKoBKLHNCnm84xxbosHjHcfo8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E8QUpv)  
+- **Informe de Resumen sobre la entrevista**: Álvaro Arata, de 29 años, trabaja en el área de distribución de licores y realiza la mayor parte de su trabajo desde casa. Nos comentó que le gusta cocinar y que lo hace la mayor parte de los días, por este motivo estuvo considerando abrir un negocio en este ámbito, pero decidió no hacerlo debido a posibles dificultades como la falta de visibilidad y los retos de marketing. Álvaro cree que nuestra aplicación podría ayudarle a superar estos obstáculos y, a su vez, representar un apoyo económico.
+
+**Entrevistado 2**:  
+- **Nombre y Apellido**: Cristina Villegas  
+- **Edad**: 27  
+- **URL del video**: [Entrevista-Cristina Villegas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/ER5LQ_sMMMpAlmgxIi90ZagBE4AUIHSYawtTROD3h4HItg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UzJcyo)  
+- **Informe de Resumen sobre la entrevista**: Cristina Villegas, de 27 años, es psicóloga y trabaja desde casa, lo que le permite cocinar regularmente. Nos contó que a menudo le elogian su sazón y que le gustaría aprovechar este talento a través de nuestra plataforma. Recientemente, inició un emprendimiento de postres caseros, pero no ha tenido mucho éxito debido a la falta de visibilidad. Cristina considera que nuestra aplicación es una excelente iniciativa que podría ayudarle a hacer crecer su negocio.
+
+**Entrevistado 3**:  
+- **Nombre y Apellido**: Jean Pierre Alonso Medina Alfaro  
+- **Edad**: 23  
+- **URL del video**: [entrevista_jp.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EdnlxogZ-_JDslWzS6WN5wkBAIDVsEal6qddyApb2oJLuw?e=Vkxhzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+- **Informe de Resumen sobre la entrevista**: Jean Pierre Alonso Medina Alfaro, de 23 años, comentó que le gusta cocinar y que ve la aplicación como una buena oportunidad para ganar dinero extra mientras sigue disfrutando de su pasión por la cocina. También expresó que le atrae la idea de tener visibilidad para llegar a más personas.
+
+## 2.2.3. Análisis de entrevistas
+
+### Segmento 1: Universitarios y Profesionales Ocupados
+
+Para nuestro primer segmento, **universitarios y profesionales ocupados**, realizamos 3 entrevistas que revelaron que el principal interés en *Sabores Cercanos* radica en que ellos comen fuera de casa y no encuentran opciones de comida casera ni saludable. Además, mencionaron que, debido a esta falta de opciones, a menudo recurren a comida rápida, que les resulta repetitiva y poco satisfactoria. Les gustaría poder elegir comida casera y están dispuestos a pagar por ello. Finalmente, consideraron que la iniciativa es muy positiva y beneficiosa tanto para ellos como para los cocineros caseros.
+
+### Segmento 2: Cocineros Caseros
+
+En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas que revelaron que el principal interés en *Sabores Cercanos* proviene del deseo de obtener mayor visibilidad en el sector culinario, con el objetivo de generar ingresos adicionales a través de esta plataforma. Además, los entrevistados mencionaron varias características que les gustaría que nuestra aplicación incluyera para mejorar la administración y gestión de sus pequeños negocios. Por último, expresaron que consideran nuestra aplicación una excelente iniciativa que podría beneficiarles significativamente en el aspecto económico.
 
 
 
@@ -635,27 +726,97 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 ### 2.3.3. User Journey Mapping.
 #### Universitarios y Profesionales Ocupados
-
+![User Journey Mapping del Segmento 1](images/UserJourneyMappingSegmento1.png)
 #### Cocineros Caseros
-
+![User Journey Mapping del Segmento 2](images/UserJourneyMappingSegmento2.png)
 
 
 
 ### 2.3.4. Empathy Mapping
 #### Universitarios y Profesionales Ocupados
-
+![Empathy Mapping del Segmento 1](images/UserJourneyMappingSegmento2.png)
 #### Cocineros Caseros
-
+![Empathy Mapping del Segmento 2](images/UserJourneyMappingSegmento2.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 #### Universitarios y Profesionales Ocupados
+| Phases                       | Buscar Comida                                                                 | Revisar Opciones                                                                 | Personalización de Pedido                                                                 | Realización del Pedido                                                                 | Recepción y Evaluación                                                                |
+|------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Doing                        | Buscar restaurantes o comida casera local en Google, redes sociales o mediante recomendaciones directas. | Abrir varios sitios web o aplicaciones de entrega. Revisar menús y comparar precios. | Llamar directamente al restaurante para solicitar modificaciones o restricciones alimenticias. | Usar una aplicación de terceros o llamar para confirmar el pedido y organizar la entrega o recogida. | Recibir el pedido sin tener un canal fácil para compartir una reseña o quejas sobre el servicio. |
+| Thinking                     | "Encontrar algo que se ajuste a mi dieta y que no sea caro es complicado."     | "Tengo que abrir varias aplicaciones y páginas para encontrar lo que quiero."     | "Espero que el restaurante entienda mis necesidades dietéticas."                         | "Espero que el pedido llegue a tiempo."                                               | "No sé si vale la pena dejar una reseña, no hay un incentivo claro."                   |
+| Feeling                      | Frustración por la falta de opciones organizadas y tiempo perdido.             | Agobio por tener que gestionar demasiada información de diferentes fuentes.       | Ansiedad, ya que algunas veces no se cumplen las restricciones solicitadas.              | Inseguridad respecto a los tiempos de entrega.                                         | Satisfacción o decepción, pero sin poder compartir fácilmente la experiencia.          |
+
 
 #### Cocineros Caseros
+
+| Phases                 | Encontrar Clientes                                                                    | Publicar Menús                                                                         | Recibir Pedidos                                                                      | Entrega y Pago                                                                          | Revisar Reseñas                                                                      |
+|------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Doing                  | Publicar en redes sociales o depender del boca a boca para atraer nuevos clientes.     | Publicar menús en redes sociales, actualizándolos manualmente todos los días.           | Recibir pedidos a través de mensajes directos, llamadas o aplicaciones de terceros.   | Organizar entregas y pagos de manera manual, utilizando aplicaciones o dinero en efectivo. | Revisar reseñas informales en redes sociales o depender de mensajes de clientes para recibir feedback. |
+| Thinking               | "Es difícil encontrar clientes nuevos y hacer crecer mi negocio."                      | "Tarda mucho tiempo actualizar y compartir mis menús todos los días."                   | "Es confuso gestionar tantos pedidos desde diferentes canales."                       | "Espero que los clientes me paguen a tiempo y la entrega sea puntual."                    | "No tengo una forma fácil de gestionar o responder a las reseñas."                     |
+| Feeling                | Frustración por depender de métodos informales y poco confiables.                      | Cansancio por tener que gestionar manualmente las publicaciones.                        | Estrés al intentar organizar pedidos manualmente y asegurarse de cumplirlos.          | Ansiedad sobre pagos y coordinación de entregas.                                         | Desconexión por la falta de control sobre su reputación y visibilidad.                 |
 
 
 ## 2.4. Ubiquitous Language
 
+1. **User (Usuario)**
+   - **Definición**: Persona que utiliza la plataforma para buscar y comprar comida casera o para vender sus servicios de cocina.
 
+2. **Home Cook (Cocinero Casero)**
+   - **Definición**: Usuario que prepara comidas en casa y ofrece sus platos para la venta a través de la plataforma.
+
+3. **Consumer (Consumidor)**
+   - **Definición**: Usuario que busca y compra comidas caseras ofrecidas por cocineros caseros en la plataforma.
+
+4. **Menu (Menú)**
+   - **Definición**: Conjunto de platos disponibles para la venta por parte de un cocinero casero, que incluye descripciones, precios y opciones de personalización.
+
+5. **Recipe (Receta)**
+   - **Definición**: Instrucciones detalladas para preparar un plato específico, que puede ser compartida por los cocineros caseros en la plataforma.
+
+6. **Order (Pedido)**
+   - **Definición**: Solicitud realizada por un consumidor para comprar un menú específico de un cocinero casero.
+
+7. **Delivery Area (Área de Entrega)**
+   - **Definición**: Zona geográfica en la que un cocinero casero está dispuesto a entregar sus comidas.
+
+8. **Payment Method (Método de Pago)**
+   - **Definición**: Forma de pago utilizada por los consumidores para completar las transacciones en la plataforma, como tarjetas de crédito, débito o pagos en línea.
+
+9. **Order Confirmation (Confirmación de Pedido)**
+   - **Definición**: Notificación enviada al consumidor y al cocinero casero para confirmar que el pedido ha sido recibido y está en proceso.
+
+10. **Rating (Calificación)**
+    - **Definición**: Evaluación que los consumidores pueden dejar sobre la calidad de la comida y el servicio del cocinero casero, lo que ayuda a otros usuarios a tomar decisiones.
+
+11. **Favorites (Favoritos)**
+    - **Definición**: Lista de menús o cocineros caseros que un consumidor ha marcado para facilitar su acceso en futuras visitas a la plataforma.
+
+12. **Personalized Menu (Menú Personalizado)**
+    - **Definición**: Menú adaptado a las preferencias y necesidades dietéticas específicas del consumidor.
+
+13. **Recipe Sharing (Compartición de Recetas)**
+    - **Definición**: Funcionalidad que permite a los cocineros caseros compartir sus recetas con la comunidad en la plataforma.
+
+14. **Subscription (Suscripción)**
+    - **Definición**: Servicio ofrecido en la plataforma que permite a los consumidores recibir comidas regularmente según un plan elegido.
+
+15. **Order History (Historial de Pedidos)**
+    - **Definición**: Registro de todos los pedidos realizados por un consumidor, incluyendo detalles de los menús y fechas.
+
+16. **User Profile (Perfil de Usuario)**
+    - **Definición**: Página que contiene la información personal y preferencias de un usuario, ya sea consumidor o cocinero casero.
+
+17. **Notification (Notificación)**
+    - **Definición**: Mensaje enviado a los usuarios para informarles sobre nuevos menús, actualizaciones de pedidos u otros eventos relevantes.
+
+18. **Payment Processing (Procesamiento de Pagos)**
+    - **Definición**: Proceso de gestión y verificación de pagos realizados por los consumidores a través de la plataforma.
+
+19. **Delivery Scheduling (Programación de Entregas)**
+    - **Definición**: Funcionalidad que permite a los consumidores y cocineros caseros coordinar los horarios para la entrega de pedidos.
+
+20. **Community Engagement (Compromiso Comunitario)**
+    - **Definición**: Actividades y funcionalidades diseñadas para fomentar la participación y la interacción entre los usuarios de la plataforma, como compartir recetas y reseñas.
 
 
 
@@ -663,7 +824,19 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 ## 3.1. To-Be Scenario Mapping.
 #### Universitarios y Profesionales Ocupados
 
+| Phases                      | Buscar Comida                                                                          | Revisar Opciones                                                                   | Personalización de Pedido                                                         | Realización del Pedido                                                            | Recepción y Evaluación                                                             |
+|-----------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Doing                       | Usar la app para encontrar rápidamente opciones de comida casera local con filtros avanzados (precio, dieta). | Navegar por menús organizados y leer reseñas de otros usuarios para tomar una decisión informada. | Personalizar el pedido dentro de la app, seleccionando restricciones dietéticas y detalles específicos. | Confirmar el pedido y recibir una estimación precisa del tiempo de entrega.         | Recibir el pedido y dejar una reseña en la app con facilidad, además de recibir incentivos por hacerlo. |
+| Thinking                    | "Esto es justo lo que necesito, rápido y fácil de encontrar."                          | "Me gusta poder ver reseñas y comparar fácilmente las opciones de comida."          | "Me siento seguro de que mis necesidades serán respetadas."                       | "Parece que todo está bajo control, sé cuándo llegará mi comida."                  | "Es fácil dejar mi reseña, y me motiva saber que podría recibir recompensas."      |
+| Feeling                     | Alivio, ya que todo está en un solo lugar y las opciones son claras.                   | Confianza al tomar una decisión con base en las experiencias de otros usuarios.     | Tranquilidad y confianza en la personalización del pedido.                         | Seguridad y satisfacción con los tiempos de entrega claros.                        | Satisfacción por haber tenido una experiencia fluida y ser reconocido por reseñar.  |
+
 #### Cocineros Caseros
+
+| Phases                | Encontrar Clientes                                                                       | Publicar Menús                                                                        | Recibir Pedidos                                                                      | Entrega y Pago                                                                        | Revisar Reseñas                                                                       |
+|-----------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Doing                 | Usar la app para llegar a una base de clientes interesados en comida casera.             | Publicar menús fácilmente a través de la app, con la opción de actualizar automáticamente. | Recibir notificaciones automáticas de nuevos pedidos y gestionarlos desde una sola plataforma. | Usar la app para coordinar entregas y recibir pagos automáticamente.                 | Revisar y responder a reseñas directamente en la app, manteniendo una relación transparente con los clientes. |
+| Thinking              | "Finalmente puedo encontrar clientes de manera constante y más organizada."               | "Es mucho más rápido y fácil actualizar mis menús ahora."                             | "Puedo gestionar todos mis pedidos desde un solo lugar, es más organizado."          | "No tengo que preocuparme por los pagos o las entregas, todo está controlado."        | "Puedo gestionar mi reputación fácilmente y responder rápidamente a las reseñas."     |
+| Feeling               | Motivación por tener acceso a más clientes a través de la app.                            | Alivio por no tener que gestionar manualmente la actualización de los menús.          | Control y menos estrés al gestionar pedidos de forma centralizada.                   | Seguridad y satisfacción por la eficiencia en los pagos y entregas.                   | Satisfacción y control sobre la imagen profesional y la relación con los clientes.     |
 
 
 
