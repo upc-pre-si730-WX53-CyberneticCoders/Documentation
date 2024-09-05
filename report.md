@@ -591,7 +591,13 @@ Los colores de la paleta de estados se utilizarán para los mensajes mostrados e
 Las paletas de colores neutros se usarán para los textos en la aplicación. El color negro se empleará en las páginas de fondo claro, mientras que el blanco sobre los fondos de color llamativo. Los colores grises se emplearán dependiendo del énfasis que se desee dar al contenido.
 <img src="/assets/coloresneutros.png" width="300"/>
 
+**Typography:**
 
+Como fuente para los títulos se utilizará Secular One, la cual es una fuente que destaca por su simpleza. Al ser sans-serif, también tiene un aspecto limpio y es legible aún con un tamaño pequeño.
+<img src="/assets/tipografia.png" width="300"/>
+
+Para el contenido, se utilizará la fuente Arvo que, al contrario de Secular One, es una fuente serif con aspecto más formal. Se caracteriza por su alta legibilidad en distintos pesos y tamaños, por lo que es apropiada para párrafos extensos, como pueden ser  las recetas dentro de la aplicación.
+<img src="/assets/tipografiabody.png" width="300"/>
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
