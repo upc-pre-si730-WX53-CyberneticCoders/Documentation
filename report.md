@@ -637,7 +637,7 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 #### Universitarios y Profesionales Ocupados
 ![User Journey Mapping del Segmento 1](images/UserJourneyMappingSegmento1.png)
 #### Cocineros Caseros
-![User Journey Mapping del Segmento 2](images/UserJourneyMappingSegmento2)
+![User Journey Mapping del Segmento 2](images/UserJourneyMappingSegmento2.png)
 
 
 
