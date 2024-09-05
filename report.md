@@ -283,9 +283,9 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 > [Imagen]
 
 ---
-####  | 
+####  |Nombre: Cuya Villegas, Rafael Alberto | U201913495 
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
+> Soy Rafael Cuya de la carrera de Ingeniería de Software, soy una persona responsable y perseverante, me gusta hacer deporte en especial jugar fútbol.
 >
 > [Imagen]
 
