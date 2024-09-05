@@ -569,11 +569,28 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 # Capitulo IV: Product Design
 
 ## 4.1. Style Guidelines
+
+
+### 4.1.1. General Style Guidelines
 **Branding:**
 
 En la creación del logotipo, se emplearon los colores de la paleta principal, junto con la imagen de una olla que evoca la comida casera. Además, se seleccionó una tipografía que complementa perfectamente la temática.
 <img src="/assets/LogoSC.png" width="300"/>
-### 4.1.1. General Style Guidelines
+**Colors:**
+
+Dado que el proyecto está enfocado en la preparación de comidas, realizamos la elección de una paleta de colores acorde al contexto. Así, pudimos escoger aquellos colores que creemos conveniente para la plataforma web:
+<img src="/assets/brandcolor.png" width="300"/>
+Nuestra paleta de colores principal está compuesta por un color dominante o primario (#E06B43) que es el más resaltante. Se utilizará para hacer énfasis en los textos, botones y en las páginas que contienen información relevante para el usuario. Este tono de naranja se asocia a la vitalidad, creatividad y sociabilidad, las cuales son características del público al que está dirigido la aplicación.
+
+Dentro de los colores secundarios tenemos un tono naranja-amarillo brillante (#FFAC4A), que se utilizará para dar contraste, y el color crema (#FFE9C9) que es más suave y neutro, por lo que se usará para dar una sensación de simplicidad.
+<img src="/assets/colores secundarios.png" width="300"/>
+
+Los colores de la paleta de estados se utilizarán para los mensajes mostrados en la aplicación. El color gris oscuro (#8A8A8A) se utilizará para algunos textos informativos. Los demás colores brillantes (#7EEA91, #EEB056, #FC4E4E) se usarán para mostrar alertas según las acciones realizadas por el usuario.
+<img src="/assets/paletaestados.png" width="300"/>
+
+Las paletas de colores neutros se usarán para los textos en la aplicación. El color negro se empleará en las páginas de fondo claro, mientras que el blanco sobre los fondos de color llamativo. Los colores grises se emplearán dependiendo del énfasis que se desee dar al contenido.
+<img src="/assets/coloresneutros.png" width="300"/>
+
 
 ### 4.1.2. Web Style Guidelines
 
