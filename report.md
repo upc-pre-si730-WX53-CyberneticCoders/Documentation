@@ -1067,6 +1067,8 @@ Link del prototipo:
 
 ### 4.8.1. Database Diagram
 
+![images](https://i.postimg.cc/zB1qf77P/Database.png)
+
 # Capítulo V: Product Implementation, Validation & Deployment.
 
 ## 5.1. Software Configuration Management
