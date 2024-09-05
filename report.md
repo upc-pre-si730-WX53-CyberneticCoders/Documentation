@@ -20,7 +20,7 @@
 * **Rafael Alberto Cuya Villegas \- U201913495**
 * **Miguel Angel Gomez Hurtado \- U202220294**  
 * **Yair Christofer Aru Acevedo  \- U202125984**  
-* **5  \- 5**  
+* **Joaquin Enrique Carranza Tesen  \- U20191B935**  
 
 
 
@@ -293,7 +293,7 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 #### Nombre: JoaquÍn Enrique Carranza Tesén | U20191B935
 > Soy Joaquín Carranza, estudiante de la carrera de ingeniería de software. Me considero una persona responsable y comunicativa. Me gusta hacer deporte así como los videojuegos. Soy proactivo a la hora de proponer soluciones y me gusta trabajar en equipo.
 >
-> [Imagen]
+![Joaquin](https://i.postimg.cc/QCSvj3k5/integrante-Joaquin.png)
 
 
 ---
