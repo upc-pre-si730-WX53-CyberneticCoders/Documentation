@@ -586,7 +586,7 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 ![User Persona del Segmento 1](images/UserPersona_Segmento1.png)
 
 #### Cocineros Caseros
-
+![User Persona del Segmento 2](images/UserPersona_Segmento2.png)
 
 ### 2.3.2. User Task Matrix
 #### Universitarios y Profesionales Ocupados
