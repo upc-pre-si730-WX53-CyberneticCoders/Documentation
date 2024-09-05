@@ -586,5 +586,33 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 | D2: Falta de servicios adicionales que puedan mejorar la conveniencia y diversificación de la oferta, como entregas rápidas o kits de ingredientes.                      | Utilizar la expansión en un mercado establecido (O1) como oportunidad para reclutar y formar más cocineros locales (D1), reduciendo así la debilidad de tener una red limitada de cocineros. Esto también permitirá aumentar la variedad de opciones de platos por día (O2).               | Implementar medidas de eficiencia en la operación diaria para reducir costos y así poder ofrecer precios más competitivos (D3). Esto es crucial frente a la competencia que puede ofrecer precios más accesibles (A3).                         |
 | D3: Posibles costos operativos altos que podrían afectar la capacidad de competir en precios con plataformas más financieramente poderosas.                            | DO2: Diversificación de Servicios Adicionales                                                                                 | DA2: Innovación en el Modelo de Negocios                                                                                     |
 |                                                                                                     | Considerar la implementación de servicios adicionales, como entrega en menos de 30 minutos o kits de ingredientes para cocinar en casa, aprovechando la experiencia de usuario amigable (F3) para mejorar la conveniencia y diversificar la oferta (O2).                                     | Frente a la amenaza de plataformas grandes o nuevas (A1, A2), invertir en la innovación del modelo de negocios, como suscripciones premium con beneficios adicionales, para diferenciarse y atraer a un público específico que valora la autenticidad y personalización.                       |
+## 2.2. Entrevistas.
+
+### 2.2.1. Diseño de entrevistas.
+
+Preguntas generales:
+¿Cuál es tu nombre completo?
+ ¿Cuál es tu edad?
+ ¿En qué distrito vives? 
+ ¿A qué te dedicas?
+ ¿Usas algún dispositivo electrónico?
+ ¿Cómo te apoyas en aplicaciones en tu día a día? ¿Utilizas alguna app específica, como de comida, delivery, o alguna otra que te sea útil?
+
+Segmento 1: Estudiantes universitarios y/o profesionales 
+  ¿Con qué frecuencia comes fuera de casa? ¿Qué tipo de comidas suelen ser tus elegidas?
+  ¿Cuál es el principal desafío que enfrentas al momento de seleccionar tus comidas?
+  ¿Te suele ser difícil encontrar comida casera y saludable? 
+  En caso sea difícil, ¿ Qué solución tomas frente a este problema? ¿Cocinar es una opción factible para ti?
+  ¿Estarías dispuesto/a a pagar por comida casera?
+  ¿Crees que una aplicación como esta podría ayudarte a tener acceso a comidas caseras y saludables a un precio que se adapte a tu bolsillo?
+
+
+Segmento 2: Cocineros caseros
+  ¿Con qué frecuencia cocinas en casa?
+  ¿Has pensado en realizar la venta de menús o platos caseros?
+  ¿Qué opinas sobre la idea de ganar dinero vendiendo comida casera a estudiantes, profesionales o personas en general que por distintas razones no pueden acceder a ese tipo de comida?
+  ¿Estarías interesado en vender tus platos a través de una aplicación de venta de comida casera?¿Por qué?
+  ¿Qué recursos te gustaría encontrar en la aplicación que pueda facilitarte el uso de esta y el manejo de tu ventas?
+  ¿Cómo crees que una aplicación como la nuestra podría ayudarte en el ámbito económico? ¿Crees que lograría darte mayor visibilidad?
 
 
