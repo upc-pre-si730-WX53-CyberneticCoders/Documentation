@@ -1110,6 +1110,10 @@ Para la elaboracion de la landing page, se utilizó los lenguajes de programacio
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
+Link del repositorio del Landing Page: https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage
+
+Link del Landing Page: 
+
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
