@@ -832,6 +832,12 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 
 #### Cocineros Caseros
 
+| Phases                | Encontrar Clientes                                                                       | Publicar Menús                                                                        | Recibir Pedidos                                                                      | Entrega y Pago                                                                        | Revisar Reseñas                                                                       |
+|-----------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Doing                 | Usar la app para llegar a una base de clientes interesados en comida casera.             | Publicar menús fácilmente a través de la app, con la opción de actualizar automáticamente. | Recibir notificaciones automáticas de nuevos pedidos y gestionarlos desde una sola plataforma. | Usar la app para coordinar entregas y recibir pagos automáticamente.                 | Revisar y responder a reseñas directamente en la app, manteniendo una relación transparente con los clientes. |
+| Thinking              | "Finalmente puedo encontrar clientes de manera constante y más organizada."               | "Es mucho más rápido y fácil actualizar mis menús ahora."                             | "Puedo gestionar todos mis pedidos desde un solo lugar, es más organizado."          | "No tengo que preocuparme por los pagos o las entregas, todo está controlado."        | "Puedo gestionar mi reputación fácilmente y responder rápidamente a las reseñas."     |
+| Feeling               | Motivación por tener acceso a más clientes a través de la app.                            | Alivio por no tener que gestionar manualmente la actualización de los menús.          | Control y menos estrés al gestionar pedidos de forma centralizada.                   | Seguridad y satisfacción por la eficiencia en los pagos y entregas.                   | Satisfacción y control sobre la imagen profesional y la relación con los clientes.     |
+
 
 
 ## User Stories
