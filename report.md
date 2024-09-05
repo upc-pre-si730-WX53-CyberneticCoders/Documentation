@@ -566,3 +566,10 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 | **Oportunidades:**      | Crecimiento en mercados locales que valoran la autenticidad y la calidad de la comida casera, expansión a nuevas ciudades y regiones. | Expansión de cantidad de opciones de platos por día. | Expansión de su base de usuarios a través de la diversificación de servicios. | Crecimiento en el mercado de consumidores interesados en salud y gastronomía de alta calidad. |
 | **Amenazas:**           | Competencia de grandes plataformas como UberEats y Rappi, que tienen mayores recursos para publicidad y desarrollo de infraestructura. | Nuevas plataformas que ofrecen comida casera de calidad. | Competencia de plataformas más especializadas en comida casera y saludable. | Competencia de plataformas que ofrecen calidad similar a precios más accesibles. |
 
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+
+
+## 2.2 Entrevistas
+
+### 2.2.1 Diseño de entrevistas
