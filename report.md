@@ -596,7 +596,7 @@ En esta sección, se mostrará el wireframe y mock-up del landing page.
 
 ### 4.3.2. Landing Page Mock-up
 
-
+<img src="/assets/MockUp%20Landing.png" width="800"/>
 
 ## 4.4. Web Applications UX/UI Design
 
