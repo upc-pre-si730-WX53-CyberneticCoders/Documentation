@@ -568,6 +568,8 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+
 ## Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
@@ -575,6 +577,55 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas.
+
+
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+#### Universitarios y Profesionales Ocupados
+
+#### Cocineros Caseros
+
+
+### 2.3.2. User Task Matrix
+#### Universitarios y Profesionales Ocupados
+
+#### Cocineros Caseros
+
+
+### 2.3.3. User Journey Mapping.
+#### Universitarios y Profesionales Ocupados
+
+#### Cocineros Caseros
+
+
+
+
+### 2.3.4. Empathy Mapping
+#### Universitarios y Profesionales Ocupados
+
+#### Cocineros Caseros
+
+
+### 2.3.5. As-is Scenario Mapping.
+#### Universitarios y Profesionales Ocupados
+
+#### Cocineros Caseros
+
+
+## 2.4. Ubiquitous Language
+
+
+
+
+
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping.
+#### Universitarios y Profesionales Ocupados
+
+#### Cocineros Caseros
+
+
 
 ## User Stories
 
