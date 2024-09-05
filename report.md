@@ -338,7 +338,7 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 
 #### Nombre: Gomez Hurtado, Miguel Angel | U202220294
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
+> Tengo 21 años y estoy estudiando la carrera de Ingeniería Informática. Me encuentro en mi segundo ciclo en la UPC Sede San Miguel. Soy una persona académica y siempre estoy abierto al diálogo. Me apasiona mi carrera y siempre estoy dispuesto a aprender sobre este curso para brindar a mis futuros usuarios un buen producto acorde a sus necesidades.
 >
 > [Imagen]
 
