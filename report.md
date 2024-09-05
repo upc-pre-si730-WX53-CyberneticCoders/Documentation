@@ -941,11 +941,11 @@ En esta sección, se mostrará el wireframe y mock-up del landing page.
 
 ### 4.3.1. Landing Page Wireframe
 
-<img src="/assets/Wireframe%20Landing.png" width="800"/>
+![images](images/Wireframe%20Landing.png)
 
 ### 4.3.2. Landing Page Mock-up
 
-<img src="/assets/MockUp%20Landing.png" width="800"/>
+![images](images/MockUp%20Landing.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -953,35 +953,33 @@ En esta sección, se mostrará los wireframes, mock-ups, wireflows y user flow d
 
 ### 4.4.1. Web Applications Wireframes
 
-<img src="/assets/Wireframe%20Account.png" width="800"/>
-<img src="/assets/Wireframe%20Sign%20In.png" width="800"/>
-<img src="/assets/Wireframe%20Sign%20In%20Correct.png" width="800"/>
-<img src="/assets/Wireframe%20Log%20In.png" width="800"/>
+![images](images/Wireframe%20Account.png)
+![images](images/Wireframe%20Sign%20In.png)
+![images](images/Wireframe%20Sign%20In%20Correct.png)
+![images](images/Wireframe%20Log%20In.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 User Goal: Crear una nueva cuenta e iniciar sesión.
 
-<img src="/assets/Wireflow%20Register.png" width="800"/>
+![images](images/Wireflow%20Register.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="/assets/MockUp%20Account.png" width="800"/>
-<img src="/assets/MockUp%20Sign%20In.png" width="800"/>
-<img src="/assets/MockUp%20Sign%20In%20Correct.png" width="800"/>
-<img src="/assets/MockUp%20Log%20In.png" width="800"/>
+![images](images/MockUp%20Account.png)
+![images](images/MockUp%20Sign%20In.png)
+![images](images/MockUp%20Sign%20In%20Correct.png)
+![images](images/MockUp%20Log%20In.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 User Goal: Crear una nueva cuenta e iniciar sesión correctamente.
 
-![User Journey Mapping del Segmento 1](images/Evidence%20Landing%20Page%201.PNG)
-<img src="/assets/User%20flow%20Register.png" width="800"/>
+![images](images/User%20flow%20Register.png)
 
 ## 4.5. Web Applications Prototyping
 
-Link del video:
-Link del prototipo:
+Link del prototipo: https://www.figma.com/proto/kJK1QasPM90JWpF0hjdsgf/App-Web?node-id=20-262&t=kC33m3u1HzJlR4ss-1
 
 ## 4.6. Domain-Driven Software Architecture
 
