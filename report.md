@@ -611,7 +611,9 @@ En esta sección, se mostrará los wireframes, mock-ups, wireflows y user flow d
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+User Goal: Crear una nueva cuenta e iniciar sesión.
 
+<img src="/assets/Wireflow%20Register.png" width="800"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -626,8 +628,8 @@ En esta sección, se mostrará los wireframes, mock-ups, wireflows y user flow d
 
 ## 4.5. Web Applications Prototyping
 
-Link del video:
-Link del prototipo:
+Link del video: 
+Link del prototipo: 
 
 ## 4.6. Domain-Driven Software Architecture
 
