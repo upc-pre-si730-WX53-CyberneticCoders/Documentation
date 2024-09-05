@@ -741,6 +741,14 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 ### 2.3.5. As-is Scenario Mapping.
 #### Universitarios y Profesionales Ocupados
 
+| Fases                        | Doing                                                                 | Thinking                                                                                       | Feeling                          |
+|------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------|
+| Descubrimiento de la App      | Revisando anuncios en redes sociales, leyendo blogs o escuchando recomendaciones. | "¿Realmente necesito esta app? ¿Será fácil de usar?"                                            | Curiosidad, duda.                |
+| Registro                     | Registrándose en la app usando su correo o perfil de redes sociales.   | "Espero que el registro sea rápido. No quiero perder tiempo aquí."                              | Impaciencia, expectativa.        |
+| Búsqueda de Comida            | Usando los filtros avanzados (precio, dieta, tipo de cocina) para encontrar opciones cercanas. | "Quiero algo que se ajuste a mi dieta y presupuesto."                                          | Alivio si los filtros funcionan, frustración si no. |
+| Personalización y Pedido      | Personalizando el pedido según sus necesidades y confirmando la hora de entrega o recogida. | "Espero que la comida llegue a tiempo y sea de buena calidad."                                  | Expectativa, un poco de ansiedad.|
+| Entrega y Valoración          | Recibiendo el pedido y dejando una reseña sobre el servicio y la calidad de la comida. | "¿Debería dejar una reseña? ¿Vale la pena compartir mi experiencia?"                           | Satisfacción si todo salió bien, decepción si no. |
+
 #### Cocineros Caseros
 
 
