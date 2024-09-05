@@ -986,9 +986,15 @@ Link del prototipo:
 
 ### 4.6.1. Software Architecture Context Diagram
 
+![images](https://i.postimg.cc/90FbCtH6/Context-Sabores.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
 
+![images](https://i.postimg.cc/rp7KN5JS/Container-Sabores.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+![images](https://i.postimg.cc/sXS1616b/Components-Sabores.png)
 
 ## 4.7. Software Object-Oriented Design
 
