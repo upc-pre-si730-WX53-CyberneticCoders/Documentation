@@ -746,7 +746,65 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 
 ## 2.4. Ubiquitous Language
 
+1. **User (Usuario)**
+   - **Definición**: Persona que utiliza la plataforma para buscar y comprar comida casera o para vender sus servicios de cocina.
 
+2. **Home Cook (Cocinero Casero)**
+   - **Definición**: Usuario que prepara comidas en casa y ofrece sus platos para la venta a través de la plataforma.
+
+3. **Consumer (Consumidor)**
+   - **Definición**: Usuario que busca y compra comidas caseras ofrecidas por cocineros caseros en la plataforma.
+
+4. **Menu (Menú)**
+   - **Definición**: Conjunto de platos disponibles para la venta por parte de un cocinero casero, que incluye descripciones, precios y opciones de personalización.
+
+5. **Recipe (Receta)**
+   - **Definición**: Instrucciones detalladas para preparar un plato específico, que puede ser compartida por los cocineros caseros en la plataforma.
+
+6. **Order (Pedido)**
+   - **Definición**: Solicitud realizada por un consumidor para comprar un menú específico de un cocinero casero.
+
+7. **Delivery Area (Área de Entrega)**
+   - **Definición**: Zona geográfica en la que un cocinero casero está dispuesto a entregar sus comidas.
+
+8. **Payment Method (Método de Pago)**
+   - **Definición**: Forma de pago utilizada por los consumidores para completar las transacciones en la plataforma, como tarjetas de crédito, débito o pagos en línea.
+
+9. **Order Confirmation (Confirmación de Pedido)**
+   - **Definición**: Notificación enviada al consumidor y al cocinero casero para confirmar que el pedido ha sido recibido y está en proceso.
+
+10. **Rating (Calificación)**
+    - **Definición**: Evaluación que los consumidores pueden dejar sobre la calidad de la comida y el servicio del cocinero casero, lo que ayuda a otros usuarios a tomar decisiones.
+
+11. **Favorites (Favoritos)**
+    - **Definición**: Lista de menús o cocineros caseros que un consumidor ha marcado para facilitar su acceso en futuras visitas a la plataforma.
+
+12. **Personalized Menu (Menú Personalizado)**
+    - **Definición**: Menú adaptado a las preferencias y necesidades dietéticas específicas del consumidor.
+
+13. **Recipe Sharing (Compartición de Recetas)**
+    - **Definición**: Funcionalidad que permite a los cocineros caseros compartir sus recetas con la comunidad en la plataforma.
+
+14. **Subscription (Suscripción)**
+    - **Definición**: Servicio ofrecido en la plataforma que permite a los consumidores recibir comidas regularmente según un plan elegido.
+
+15. **Order History (Historial de Pedidos)**
+    - **Definición**: Registro de todos los pedidos realizados por un consumidor, incluyendo detalles de los menús y fechas.
+
+16. **User Profile (Perfil de Usuario)**
+    - **Definición**: Página que contiene la información personal y preferencias de un usuario, ya sea consumidor o cocinero casero.
+
+17. **Notification (Notificación)**
+    - **Definición**: Mensaje enviado a los usuarios para informarles sobre nuevos menús, actualizaciones de pedidos u otros eventos relevantes.
+
+18. **Payment Processing (Procesamiento de Pagos)**
+    - **Definición**: Proceso de gestión y verificación de pagos realizados por los consumidores a través de la plataforma.
+
+19. **Delivery Scheduling (Programación de Entregas)**
+    - **Definición**: Funcionalidad que permite a los consumidores y cocineros caseros coordinar los horarios para la entrega de pedidos.
+
+20. **Community Engagement (Compromiso Comunitario)**
+    - **Definición**: Actividades y funcionalidades diseñadas para fomentar la participación y la interacción entre los usuarios de la plataforma, como compartir recetas y reseñas.
 
 
 
