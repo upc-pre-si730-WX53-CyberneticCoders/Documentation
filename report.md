@@ -591,6 +591,26 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 ### 2.3.2. User Task Matrix
 #### Universitarios y Profesionales Ocupados
 
+| Task/Historia de Usuario                     | Pia Barandiarán (Frecuencia/Importancia) | Anapaula Díaz (Frecuencia/Importancia) | Piero Gamio (Frecuencia/Importancia) |
+|----------------------------------------------|------------------------------------------|----------------------------------------|-------------------------------------|
+| **US001 - Registro de consumidor**           | Media / Alta                             | Media / Alta                           | Alta / Alta                         |
+| **US002 - Búsqueda de comidas**              | Alta / Alta                              | Alta / Alta                            | Alta / Alta                         |
+| **US003 - Filtros avanzados de búsqueda**    | Media / Media                            | Alta / Alta                            | Alta / Alta                         |
+| **US004 - Selección de menú personalizado**  | Media / Alta                             | Alta / Alta                            | Alta / Alta                         |
+| **US005 - Notificaciones de nuevos menús**   | Baja / Media                             | Baja / Media                           | Media / Media                       |
+| **US006 - Repetición de pedidos**            | Media / Media                            | Alta / Alta                            | Alta / Alta                         |
+| **US007 - Programación de pedidos**          | Alta / Alta                              | Media / Media                          | Media / Media                       |
+| **US008 - Métodos de pago**                  | Alta / Alta                              | Alta / Alta                            | Alta / Alta                         |
+| **US009 - Confirmación de entrega**          | Alta / Alta                              | Media / Media                          | Alta / Alta                         |
+| **US010 - Calificación de servicios**        | Media / Media                            | Baja / Media                           | Alta / Alta                         |
+| **US011 - Gestión de favoritos**             | Baja / Baja                              | Media / Media                          | Alta / Alta                         |
+| **US012 - Historial de pedidos**             | Media / Media                            | Alta / Alta                            | Alta / Alta                         |
+| **US013 - Búsqueda de recetas de cocina**    | Baja / Media                             | Media / Media                          | Baja / Media                        |
+| **US030 - Landing Page Responsive**          | Alta / Alta                              | Alta / Alta                            | Alta / Alta                         |
+| **US031 - Descripción de servicios en el landing page** | Media / Alta                             | Alta / Alta                            | Alta / Alta                         |
+| **US032 - Botones de llamada a la acción en el landing page** | Alta / Alta                              | Alta / Alta                            | Alta / Alta                         |
+
+
 #### Cocineros Caseros
 
 
