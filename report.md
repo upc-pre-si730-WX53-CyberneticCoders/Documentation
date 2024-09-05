@@ -20,7 +20,7 @@
 * **Rafael Alberto Cuya Villegas \- U201913495**
 * **Miguel Angel Gomez Hurtado \- U202220294**  
 * **Yair Christofer Aru Acevedo  \- u202125984**  
-* **5  \- 5**  
+* **Joaquin Enrique Carranza Tesen  \- U20191B935**  
 
 
 
@@ -249,6 +249,66 @@
 
 # STUDENT OUTCOME
 
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td> TB1<br><br>
+         <b>Dalila Victoria Torres Sanchez</b><br>
+<br>        <br><br> 
+         <b>Rafael Alberto Cuya Villegas </b><br>
+<br>         <br><br> 
+         <b>Miguel Angel Gomez Hurtado</b><br>
+<br> 
+         <br><br>
+        <b>Joaquin Enrique Carranza Tesen</b><br>
+<br>            <br><br> 
+        <b>Yair Christofer Aru Acevedo</b>
+<br> 
+           <br><br>
+    <td>TB1<br><br>
+    
+
+<br><br>
+</tr>
+
+
+<br><br>
+
+
+  </tr>
+
+  <tr>
+    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+
+<td> 
+TB1<br><br>
+Dalila Victoria Torres Sanchez
+        <br><br>
+
+<br> 
+         <b>Rafael Alberto Cuya Villegas </b><br>
+<br>         <br><br> 
+<b>Miguel Angel Gomez Hurtado</b><br>
+<br>        <br><br> 
+        <b>Joaquin Enrique Carranza Tesen</b>
+ <br>       <br><br> 
+<br>  <b>Yair Christofer Aru Acevedo</b> 
+<br>  <br>
+
+   </td>
+    <td>TB1<br><br>
+Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.
+
+</tr>
+<br><br>
+
+
+</table>
 
 # Capítulo 1: Introducción
 
@@ -290,10 +350,10 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 > [Imagen]
 
 ---
-#### Nombre:  | 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
+#### Nombre: Joaquin Enrique Carranza Tesen | U20191B935
+> Soy Joaquín Carranza, estudiante de la carrera de ingeniería de software. Me considero una persona responsable y comunicativa. Me gusta hacer deporte así como los videojuegos. Soy proactivo a la hora de proponer soluciones y me gusta trabajar en equipo.
 >
-> [Imagen]
+![Joaquin](https://i.postimg.cc/QCSvj3k5/integrante-Joaquin.png)
 
 
 ---
@@ -1004,6 +1064,8 @@ Link del prototipo: https://www.figma.com/proto/kJK1QasPM90JWpF0hjdsgf/App-Web?n
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+![images](https://i.postimg.cc/zB1qf77P/Database.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 
