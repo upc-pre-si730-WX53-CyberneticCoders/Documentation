@@ -571,73 +571,15 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 
 ## User Stories
 
-### US001 - Registro de consumidor
-**Como** profesional ocupado, **quiero** registrarme en la plataforma **para** acceder a las opciones de comida casera.
-
-- **Escenario 1:** Dado que el usuario ingresa sus datos, cuando todos sean válidos, entonces el sistema debe permitir el registro exitoso.
-- **Escenario 2:** Dado que el usuario intenta registrarse con un correo ya usado, cuando lo haga, entonces el sistema debe mostrar un mensaje de error.
-- **Escenario 3:** Dado que el usuario no completa los datos, cuando lo intente, entonces el sistema debe solicitar los campos obligatorios.
-
-### US002 - Búsqueda de comidas
-**Como** profesional ocupado, **quiero** buscar comidas cercanas a mi ubicación **para** encontrar opciones rápidas.
-
-- **Escenario 1:** Dado que el usuario permite la geolocalización, cuando realice una búsqueda, entonces el sistema debe mostrar opciones cercanas.
-- **Escenario 2:** Dado que el usuario no permite la geolocalización, cuando realice una búsqueda, entonces el sistema debe solicitarle una ubicación manual.
-- **Escenario 3:** Dado que el usuario tiene restricciones dietéticas, cuando realice la búsqueda, entonces el sistema debe mostrar opciones que cumplan con sus preferencias.
-
-### US003 - Filtros avanzados de búsqueda
-**Como** profesional ocupado, **quiero** aplicar filtros avanzados **para** encontrar rápidamente opciones de comida que se ajusten a mis necesidades.
-
-- **Escenario 1:** Dado que el usuario aplica un filtro por precio, cuando lo haga, entonces el sistema debe mostrar opciones dentro de su presupuesto.
-- **Escenario 2:** Dado que el usuario aplica un filtro por distancia, cuando lo haga, entonces el sistema debe mostrar solo las opciones cercanas.
-- **Escenario 3:** Dado que el usuario combina múltiples filtros, cuando lo haga, entonces el sistema debe mostrar solo las opciones que cumplan con todos los criterios.
-
-### US004 - Selección de menú personalizado
-**Como** profesional ocupado, **quiero** personalizar mi pedido **para** ajustar la comida a mis necesidades.
-
-- **Escenario 1:** Dado que el usuario selecciona un menú personalizado, cuando lo confirme, entonces el sistema debe reflejar las modificaciones en el resumen del pedido.
-- **Escenario 2:** Dado que el usuario intenta agregar opciones no disponibles, cuando lo haga, entonces el sistema debe mostrar un mensaje de error.
-- **Escenario 3:** Dado que el pedido es personalizado, cuando el cocinero lo acepte, entonces el sistema debe notificar al usuario con los detalles actualizados.
-
-### US005 - Notificaciones de nuevos menús
-**Como** profesional ocupado, **quiero** recibir notificaciones sobre nuevos menús cerca de mi ubicación **para** aprovechar las ofertas más recientes.
-
-- **Escenario 1:** Dado que el usuario está suscrito a notificaciones, cuando se publique un nuevo menú, entonces el sistema debe enviar una alerta en tiempo real.
-- **Escenario 2:** Dado que el usuario no desea recibir notificaciones, cuando cambie esta opción en su perfil, entonces el sistema debe desactivar las alertas.
-- **Escenario 3:** Dado que el usuario ha configurado alertas específicas, cuando se publiquen ofertas relevantes, entonces el sistema debe enviar una notificación solo para esas categorías.
-
-### US006 - Repetición de pedidos
-**Como** profesional ocupado, **quiero** tener la opción de repetir mis pedidos anteriores **para** ahorrar tiempo al hacer futuras compras.
-
-- **Escenario 1:** Dado que el usuario selecciona "repetir pedido", cuando lo haga, entonces el sistema debe cargar automáticamente los detalles del pedido anterior.
-- **Escenario 2:** Dado que el menú ya no está disponible, cuando el usuario intente repetir el pedido, entonces el sistema debe sugerir una alternativa similar.
-- **Escenario 3:** Dado que el usuario repite el pedido, cuando lo confirme, entonces el sistema debe generar el nuevo pedido con los mismos detalles que el anterior.
-
-### US007 - Programación de pedidos
-**Como** profesional ocupado, **quiero** programar la fecha y hora de entrega de mis pedidos **para** asegurarme de recibir la comida cuando la necesite.
-
-- **Escenario 1:** Dado que el usuario selecciona una fecha futura, cuando confirme el pedido, entonces el sistema debe agendar la entrega para esa fecha.
-- **Escenario 2:** Dado que el cocinero no está disponible para la fecha seleccionada, cuando el usuario intente programar, entonces el sistema debe sugerir una nueva fecha.
-- **Escenario 3:** Dado que el pedido está programado, cuando la fecha de entrega se acerque, entonces el sistema debe enviar una notificación de recordatorio al usuario.
-
-### US008 - Métodos de pago
-**Como** profesional ocupado, **quiero** pagar mi pedido a través de múltiples métodos de pago **para** tener más flexibilidad.
-
-- **Escenario 1:** Dado que el usuario selecciona tarjeta de crédito, cuando confirme el pago, entonces el sistema debe procesarlo de manera segura.
-- **Escenario 2:** Dado que el usuario selecciona PayPal, cuando confirme el pago, entonces el sistema debe redirigirlo a PayPal para completar la transacción.
-- **Escenario 3:** Dado que el usuario selecciona una transferencia bancaria, cuando seleccione esta opción, entonces el sistema debe mostrar las instrucciones de pago correspondientes.
-
-### US009 - Confirmación de entrega
-**Como** profesional ocupado, **quiero** confirmar la recepción de mi pedido **para** asegurarme de que el servicio fue exitoso.
-
-- **Escenario 1:** Dado que el usuario recibe su pedido, cuando lo confirme, entonces el sistema debe marcar el pedido como completado.
-- **Escenario 2:** Dado que el usuario no confirma la entrega, cuando el cocinero notifique la entrega, entonces el sistema debe esperar confirmación del cliente.
-- **Escenario 3:** Dado que el usuario reporta un problema con la entrega, cuando lo haga, entonces el sistema debe abrir una disputa para revisar el caso.
-
-### US010 - Calificaciones de servicios
-**Como** profesional ocupado, **quiero** calificar el servicio del cocinero **para** ayudar a otros usuarios a tomar mejores decisiones.
-
-- **Escenario 1:** Dado que el usuario completa un pedido, cuando lo haga, entonces el sistema debe permitirle dejar una calificación y comentario.
-- **Escenario 2:** Dado que el usuario no completa la calificación, cuando intente cerrarla, entonces el sistema debe recordarle completarla más tarde.
-- **Escenario 3:** Dado que el usuario deja una calificación negativa, cuando lo haga, entonces el sistema debe permitir al cocinero ver y responder al comentario.
-
+| Epic ID | Título                        | Descripción                                                                                                   | Criterios de Aceptación                                                                                                                                                                                    | Relacionado con (Epic ID) |
+|---------|-------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| US001   | Registro de consumidor         | Como profesional ocupado, quiero registrarme en la plataforma para acceder a las opciones de comida casera.     | **Escenario 1:** Dado que el usuario ingresa sus datos, cuando todos sean válidos, entonces el sistema debe permitir el registro exitoso.<br>**Escenario 2:** Dado que el usuario intenta registrarse con un correo ya usado, cuando lo haga, entonces el sistema debe mostrar un mensaje de error.<br>**Escenario 3:** Dado que el usuario no completa los datos, cuando lo intente, entonces el sistema debe solicitar los campos obligatorios. | EP001                     |
+| US002   | Búsqueda de comidas            | Como profesional ocupado, quiero buscar comidas cercanas a mi ubicación para encontrar opciones rápidas.        | **Escenario 1:** Dado que el usuario permite la geolocalización, cuando realice una búsqueda, entonces el sistema debe mostrar opciones cercanas.<br>**Escenario 2:** Dado que el usuario no permite la geolocalización, cuando realice una búsqueda, entonces el sistema debe solicitarle una ubicación manual.<br>**Escenario 3:** Dado que el usuario tiene restricciones dietéticas, cuando realice la búsqueda, entonces el sistema debe mostrar opciones que cumplan con sus preferencias. | EP002                     |
+| US003   | Filtros avanzados de búsqueda  | Como profesional ocupado, quiero aplicar filtros avanzados para encontrar opciones de comida que se ajusten a mis necesidades. | **Escenario 1:** Dado que el usuario aplica un filtro por precio, cuando lo haga, entonces el sistema debe mostrar opciones dentro de su presupuesto.<br>**Escenario 2:** Dado que el usuario aplica un filtro por distancia, cuando lo haga, entonces el sistema debe mostrar solo las opciones cercanas.<br>**Escenario 3:** Dado que el usuario combina múltiples filtros, cuando lo haga, entonces el sistema debe mostrar solo las opciones que cumplan con todos los criterios. | EP002                     |
+| US004   | Selección de menú personalizado | Como profesional ocupado, quiero personalizar mi pedido según mis preferencias para ajustar la comida a mis necesidades. | **Escenario 1:** Dado que el usuario selecciona un menú personalizado, cuando lo confirme, entonces el sistema debe reflejar las modificaciones en el resumen del pedido.<br>**Escenario 2:** Dado que el usuario intenta agregar opciones no disponibles, cuando lo haga, entonces el sistema debe mostrar un mensaje de error.<br>**Escenario 3:** Dado que el pedido es personalizado, cuando el cocinero lo acepte, entonces el sistema debe notificar al usuario con los detalles actualizados. | EP002                     |
+| US005   | Notificaciones de nuevos menús | Como profesional ocupado, quiero recibir notificaciones sobre nuevos menús cerca de mi ubicación.               | **Escenario 1:** Dado que el usuario está suscrito a notificaciones, cuando se publique un nuevo menú, entonces el sistema debe enviar una alerta en tiempo real.<br>**Escenario 2:** Dado que el usuario no desea recibir notificaciones, cuando cambie esta opción en su perfil, entonces el sistema debe desactivar las alertas.<br>**Escenario 3:** Dado que el usuario ha configurado alertas específicas, cuando se publiquen ofertas relevantes, entonces el sistema debe enviar una notificación solo para esas categorías. | EP004                     |
+| US006   | Repetición de pedidos          | Como profesional ocupado, quiero tener la opción de repetir mis pedidos anteriores para ahorrar tiempo.         | **Escenario 1:** Dado que el usuario selecciona "repetir pedido", cuando lo haga, entonces el sistema debe cargar automáticamente los detalles del pedido anterior.<br>**Escenario 2:** Dado que el menú ya no está disponible, cuando el usuario intente repetir el pedido, entonces el sistema debe sugerir una alternativa similar.<br>**Escenario 3:** Dado que el usuario repite el pedido, cuando lo confirme, entonces el sistema debe generar el nuevo pedido con los mismos detalles que el anterior. | EP003                     |
+| US007   | Programación de pedidos        | Como profesional ocupado, quiero programar la fecha y hora de entrega de mis pedidos.                           | **Escenario 1:** Dado que el usuario selecciona una fecha futura, cuando confirme el pedido, entonces el sistema debe agendar la entrega para esa fecha.<br>**Escenario 2:** Dado que el cocinero no está disponible para la fecha seleccionada, cuando el usuario intente programar, entonces el sistema debe sugerir una nueva fecha.<br>**Escenario 3:** Dado que el pedido está programado, cuando la fecha de entrega se acerque, entonces el sistema debe enviar una notificación de recordatorio al usuario. | EP003                     |
+| US008   | Métodos de pago                | Como profesional ocupado, quiero pagar mi pedido a través de múltiples métodos de pago.                         | **Escenario 1:** Dado que el usuario selecciona tarjeta de crédito, cuando confirme el pago, entonces el sistema debe procesarlo de manera segura.<br>**Escenario 2:** Dado que el usuario selecciona PayPal, cuando confirme el pago, entonces el sistema debe redirigirlo a PayPal para completar la transacción.<br>**Escenario 3:** Dado que el usuario selecciona una transferencia bancaria, cuando seleccione esta opción, entonces el sistema debe mostrar las instrucciones de pago correspondientes. | EP003                     |
+| US009   | Confirmación de entrega        | Como profesional ocupado, quiero confirmar la recepción de mi pedido.                                           | **Escenario 1:** Dado que el usuario recibe su pedido, cuando lo confirme, entonces el sistema debe marcar el pedido como completado.<br>**Escenario 2:** Dado que el usuario no confirma la entrega, cuando el cocinero notifique la entrega, entonces el sistema debe esperar confirmación del cliente.<br>**Escenario 3:** Dado que el usuario reporta un problema con la entrega, cuando lo haga, entonces el sistema debe abrir una disputa para revisar el caso. | EP003                     |
+| US010   | Calificaciones de servicios    | Como profesional ocupado, quiero calificar el servicio del cocinero para ayudar a otros usuarios.                | **Escenario 1:** Dado que el usuario completa un pedido, cuando lo haga, entonces el sistema debe permitirle dejar una calificación y comentario.<br>**Escenario 2:** Dado que el usuario no completa la calificación, cuando intente cerrarla, entonces el sistema debe recordarle completarla más tarde.<br>**Escenario 3:** Dado que el usuario deja una calificación negativa, cuando lo haga, entonces el sistema debe permitir al cocinero ver y responder al comentario. | EP005                     |
