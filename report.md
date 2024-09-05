@@ -657,3 +657,13 @@ Segmento 2: Cocineros caseros
 - **Edad**: 23  
 - **URL del video**: [entrevista_jp.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EdnlxogZ-_JDslWzS6WN5wkBAIDVsEal6qddyApb2oJLuw?e=Vkxhzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 - **Informe de Resumen sobre la entrevista**: Jean Pierre Alonso Medina Alfaro, de 23 años, comentó que le gusta cocinar y que ve la aplicación como una buena oportunidad para ganar dinero extra mientras sigue disfrutando de su pasión por la cocina. También expresó que le atrae la idea de tener visibilidad para llegar a más personas.
+
+## 2.2.3. Análisis de entrevistas
+
+### Segmento 1: Universitarios y Profesionales Ocupados
+
+Para nuestro primer segmento, **universitarios y profesionales ocupados**, realizamos 3 entrevistas que revelaron que el principal interés en *Sabores Cercanos* radica en que ellos comen fuera de casa y no encuentran opciones de comida casera ni saludable. Además, mencionaron que, debido a esta falta de opciones, a menudo recurren a comida rápida, que les resulta repetitiva y poco satisfactoria. Les gustaría poder elegir comida casera y están dispuestos a pagar por ello. Finalmente, consideraron que la iniciativa es muy positiva y beneficiosa tanto para ellos como para los cocineros caseros.
+
+### Segmento 2: Cocineros Caseros
+
+En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas que revelaron que el principal interés en *Sabores Cercanos* proviene del deseo de obtener mayor visibilidad en el sector culinario, con el objetivo de generar ingresos adicionales a través de esta plataforma. Además, los entrevistados mencionaron varias características que les gustaría que nuestra aplicación incluyera para mejorar la administración y gestión de sus pequeños negocios. Por último, expresaron que consideran nuestra aplicación una excelente iniciativa que podría beneficiarles significativamente en el aspecto económico.
