@@ -283,7 +283,7 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 > [Imagen]
 
 ---
-####  Nombre: Yair Christofer Aru Acevedo | U202125984 
+####  Nombre: 
 
 > Soy Rafael Cuya de la carrera de Ingeniería de Software, soy una persona responsable y perseverante, me gusta hacer deporte en especial jugar fútbol.
 >
@@ -297,7 +297,7 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 
 
 ---
-#### Nombre:  | 
+#### Nombre: Yair Christofer Aru Acevedo | U202125984
 > Descripción, carrera, habilidades técnicas, habilidades blandas.
 >
 > [Imagen]
