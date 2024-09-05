@@ -267,7 +267,7 @@
          <br><br>
         <b>Joaquin Enrique Carranza Tesen</b><br>
 <br>            <br><br> 
-        <b>Yair Christofer Aru Acevedo</b>
+        <b>Yair Christofer Aru Acevedo: Se reunio con los demas integrantes del equipo para la organizacion y realizacion del proyecto asignando puntos a realizar y completándolo.</b>
 <br> 
            <br><br>
     <td>TB1<br><br>
@@ -297,7 +297,7 @@ Dalila Victoria Torres Sanchez
 <br>        <br><br> 
         <b>Joaquin Enrique Carranza Tesen</b>
  <br>       <br><br> 
-<br>  <b>Yair Christofer Aru Acevedo</b> 
+<br>  <b>Yair Christofer Aru Acevedo: Utilizando markdown elaboro los puntos del proyecto al añadir informacion en cada uno de ellas, además manejo la herramienta de Figma para la creacion de los wireframes y mock-ups de la landing page y la app web.</b> 
 <br>  <br>
 
    </td>
