@@ -583,6 +583,7 @@ Realizaremos un análisis competitivo porque es muy importante identificar oport
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 #### Universitarios y Profesionales Ocupados
+![User Persona del Segmento 1](images/UserPersona_Segmento1.png)
 
 #### Cocineros Caseros
 
