@@ -592,7 +592,7 @@ En esta sección, se mostrará el wireframe y mock-up del landing page.
 
 ### 4.3.1. Landing Page Wireframe
 
-
+<img src="/assets/Wireframe%20Landing.png" width="800"/>
 
 ### 4.3.2. Landing Page Mock-up
 
