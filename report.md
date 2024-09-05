@@ -290,8 +290,8 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 > [Imagen]
 
 ---
-#### Nombre:  | 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
+#### Nombre: JoaquÍn Enrique Carranza Tesén | U20191B935
+> Soy Joaquín Carranza, estudiante de la carrera de ingeniería de software. Me considero una persona responsable y comunicativa. Me gusta hacer deporte así como los videojuegos. Soy proactivo a la hora de proponer soluciones y me gusta trabajar en equipo.
 >
 > [Imagen]
 
