@@ -290,7 +290,7 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 > [Imagen]
 
 ---
-#### Nombre:  | 
+#### Nombre:  | Cuya Villegas, Rafael Alberto | U201913495
 > Descripción, carrera, habilidades técnicas, habilidades blandas.
 >
 > [Imagen]
