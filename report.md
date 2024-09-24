@@ -1145,6 +1145,16 @@ En cada repositorio se crearán las siguientes ramas clave:
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+## Convenciones de Programación
+
+Para el desarrollo de nuestra propuesta de solución, el equipo seguirá las convenciones estándar para cada lenguaje a lo largo de todo el ciclo de vida del proyecto y en todos los repositorios. A continuación, se detallan las referencias para la nomenclatura de los elementos en cada lenguaje, con un enfoque en utilizar nombres en inglés y seguir las mejores prácticas de programación.
+
+| **Lenguaje**  | **Referencias y Convenciones** |
+|---------------|--------------------------------|
+| **HTML**      | - Utilizar la estructura estándar de HTML, incluyendo el "DOCTYPE html". <br> - Cerrar siempre las etiquetas de autocierre con />. <br> - Usar minúsculas ("lowercase") para nombres de etiquetas y atributos. <br> - Incluir atributos ALT en las imágenes para describir su contenido. <br> - Mantener una indentación uniforme en el código. |
+| **CSS**       | - Evitar incluir CSS directamente en las etiquetas HTML. <br> - Usar unidades relativas para definir el tamaño de las imágenes. <br> - Separar palabras con guiones en lugar de espacios o subrayados. <br> - Preferir propiedades abreviadas siempre que sea posible. <br> - Usar nombres descriptivos para clases e identificadores. |
+| **JavaScript**| - Documentar el código de manera clara y descriptiva. <br> - Utilizar nombres claros para variables y funciones. <br> - Organizar el código en módulos y componentes. |
+
 ### 5.1.4. Software Deployment Configuration
 
 Para la elaboracion de la landing page, se utilizó los lenguajes de programacion: HTML5, CSS y JavaScript.
