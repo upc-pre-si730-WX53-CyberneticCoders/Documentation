@@ -798,16 +798,17 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 
 ### 2.3.3. User Journey Mapping.
 #### Universitarios y Profesionales Ocupados
-![User Journey Mapping del Segmento 1](images/UserJourneyMappingSegmento1.png)
+![User Journey Mapping del Segmento 1](https://i.postimg.cc/KjG6s4Bp/image.png)
 #### Cocineros Caseros
-![User Journey Mapping del Segmento 2](images/UserJourneyMappingSegmento2.png)
-
-
+![User Journey Mapping del Segmento 2](https://i.postimg.cc/J4nwND1G/image.png)
 
 ### 2.3.4. Empathy Mapping
 #### Universitarios y Profesionales Ocupados
+
 ![Empathy Mapping del Segmento 1](images/UserJourneyMappingSegmento2.png)
+
 #### Cocineros Caseros
+
 ![Empathy Mapping del Segmento 2](images/UserJourneyMappingSegmento2.png)
 
 ### 2.3.5. As-is Scenario Mapping.
