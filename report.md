@@ -68,7 +68,6 @@
 
 # CONTENIDO
 
-
 ## **TABLA DE CONTENIDOS**
 
 **Carátula**
@@ -747,10 +746,10 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 #### Universitarios y Profesionales Ocupados
-![User Persona del Segmento 1](images/UserPersona_Segmento1.png)
+![User Persona del Segmento 1](https://i.postimg.cc/0yXyG1Rq/image.png)
 
 #### Cocineros Caseros
-![User Persona del Segmento 2](images/UserPersona_Segmento2.png)
+![User Persona del Segmento 2](https://i.postimg.cc/85MkVFF1/image.png)
 
 ### 2.3.2. User Task Matrix
 #### Universitarios y Profesionales Ocupados
