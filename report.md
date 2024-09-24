@@ -52,6 +52,11 @@
 
 #### 3. Capturas de Imagen de los Analíticos de Colaboración y Commits en GitHub
 
+| Métrica                         | Descripción                                                                                          |
+|---------------------------------|------------------------------------------------------------------------------------------------------|
+| Número de commits por autor     | ![commits-por-autor.png](https://i.postimg.cc/Twzx7TQZ/image.png) |
+| Historial de cambios            | ![historial-de-activos.png](https://i.postimg.cc/L6BSDKPb/image.png) |
+| Distribución de trabajo         | ![Asignar nuestros trabajos]() |
 
 
 #### 4. Participación de Todos los Miembros del Equipo
