@@ -958,40 +958,42 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 
 ## 4.1. Style Guidelines
 
-
 ### 4.1.1. General Style Guidelines
 **Branding:**
 
 En la creación del logotipo, se emplearon los colores de la paleta principal, junto con la imagen de una olla que evoca la comida casera. Además, se seleccionó una tipografía que complementa perfectamente la temática.
-![images](images/LogoSC.png)
+
+[![imagen-2024-09-23-203445974.png](https://i.postimg.cc/wBKT4cvW/imagen-2024-09-23-203445974.png)](https://postimg.cc/rDJkK45W)
+
 **Colors:**
 
 Dado que el proyecto está enfocado en la preparación de comidas, realizamos la elección de una paleta de colores acorde al contexto. Así, pudimos escoger aquellos colores que creemos conveniente para la plataforma web:
 
-![images](images/brandcolor.png)
+[![brandcolor.png](https://i.postimg.cc/25FmHsg6/brandcolor.png)](https://postimg.cc/NyMWFzsq)
+
 Nuestra paleta de colores principal está compuesta por un color dominante o primario (#E06B43) que es el más resaltante. Se utilizará para hacer énfasis en los textos, botones y en las páginas que contienen información relevante para el usuario. Este tono de naranja se asocia a la vitalidad, creatividad y sociabilidad, las cuales son características del público al que está dirigido la aplicación.
 
 Dentro de los colores secundarios tenemos un tono naranja-amarillo brillante (#FFAC4A), que se utilizará para dar contraste, y el color crema (#FFE9C9) que es más suave y neutro, por lo que se usará para dar una sensación de simplicidad.
 
-![images](images/colores secundarios.png)
+[![colores-secundarios.png](https://i.postimg.cc/QtfDDp8Z/colores-secundarios.png)](https://postimg.cc/CBnXHnnc)
 
 Los colores de la paleta de estados se utilizarán para los mensajes mostrados en la aplicación. El color gris oscuro (#8A8A8A) se utilizará para algunos textos informativos. Los demás colores brillantes (#7EEA91, #EEB056, #FC4E4E) se usarán para mostrar alertas según las acciones realizadas por el usuario.
 
-![images](images/paletaestados.png)
+[![paletaestados.png](https://i.postimg.cc/MH48Mqfs/paletaestados.png)](https://postimg.cc/64dPFs0R)
 
 Las paletas de colores neutros se usarán para los textos en la aplicación. El color negro se empleará en las páginas de fondo claro, mientras que el blanco sobre los fondos de color llamativo. Los colores grises se emplearán dependiendo del énfasis que se desee dar al contenido.
 
-![images](images/coloresneutros.png)
+[![coloresneutros.png](https://i.postimg.cc/02MvgMhh/coloresneutros.png)](https://postimg.cc/7fkd06HN)
 
 **Typography:**
 
 Como fuente para los títulos se utilizará Secular One, la cual es una fuente que destaca por su simpleza. Al ser sans-serif, también tiene un aspecto limpio y es legible aún con un tamaño pequeño.
 
-![images](images/tipografia.png)
+[![tipografia.png](https://i.postimg.cc/KYNS7ng3/tipografia.png)](https://postimg.cc/SXJvkYdm)
 
 Para el contenido, se utilizará la fuente Arvo que, al contrario de Secular One, es una fuente serif con aspecto más formal. Se caracteriza por su alta legibilidad en distintos pesos y tamaños, por lo que es apropiada para párrafos extensos, como pueden ser  las recetas dentro de la aplicación.
 
-![images](images/tipografiabody.png)
+[![tipografiabody.png](https://i.postimg.cc/vmGCmcSY/tipografiabody.png)](https://postimg.cc/ZWDw7KS2)
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1003,15 +1005,18 @@ Para el contenido, se utilizará la fuente Arvo que, al contrario de Secular One
 Navegación y menús:
 
 Se consideraron las siguientes etiquetas y categorías para la barra de navegación:
-![images](images/navegacionmenus.png)
+
+[![navegacionmenus.png](https://i.postimg.cc/0QQ3phsh/navegacionmenus.png)](https://postimg.cc/zLs0Nt3k)
 
 Contenido y Datos:
 
 Se pueden observar etiquetas e iconos para los campos de entrada de datos:
-![images](images/etiquetas.png)
+
+[![etiquetas.png](https://i.postimg.cc/Y9sP8820/etiquetas.png)](https://postimg.cc/2bnTSQZN)
 
 También, se incluyen etiquetas sobre las acciones que realizan los botones:
-![images](images/botones.png)
+
+[![Botones.png](https://i.postimg.cc/CdyQp1qV/Botones.png)](https://postimg.cc/30BBg31L)
 
 
 ### 4.2.3. SEO Tags and Meta Tags
