@@ -1199,74 +1199,95 @@ Link del Landing Page:
 
 ### 5.2.1. Sprint 1
 
+## Sprint #1
+
 #### 5.2.1.1. Sprint Planning 1
 
-<table>
-	<tbody>
-		<tr>
-			<td>  Sprint #  </td>
-			<td>Sprint 1</td>
-		</tr>
-		<tr>
-			<td colspan="2">Sprint Planning Background</td>
-		</tr>
-		<tr>
-			<td>Date</td>
-			<td>2 de septiembre</td>
-		</tr>
-		<tr>
-			<td>Time</td>
-			<td>1 hora</td>
-		</tr>
-		<tr>
-			<td>Location</td>
-			<td>En la plataforma de meet google</td>
-		</tr>
-		<tr>
-			<td>Prepared By</td>
-			<td>Rafael Alberto Cuya Villegas</td>
-		</tr>
-		<tr>
-        <td>Attendees (to planning meeting)</td>
-            <td>
-                <ul>
-                    <li>Rafael Alberto Cuya Villegas</li>
-                    <li>Dalila Victoria Torres Sanchez</li>
-                    <li>Joaquin Enrique Carranza Tesen</li>
-                    <li>Yair Christofer Aru Acevedo</li>
-                    <li>Miguel Angel Gomez Hurtado</li>
-                </ul>
-            </td>
-        </tr>
-		<tr>
-			<td>Sprint n-1 Review Summary</td>
-			<td>Organization about Landing Page</td>
-		</tr>
-		<tr>
-			<td>Sprint n-1 Retrospective Summary</td>
-			<td>Organizacion de informacion y diseño del Landing Page</td>
-		</tr>
-		<tr>
-			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
-		</tr>
-		<tr>
-			<td>Sprint 1 Goal</td>
-			<td>
-                Construir una landing page con la informacion necesario para que el usuario pueda entender de que va nuestra startup y como acceder a ellas.
-            </td>
-		</tr>
-		<tr>
-			<td>Sprint 1 Velocity</td>
-			<td>1 semana</td>
-		</tr>
-		<tr>
-			<td>Sum of Story Points</td>
-			<td>11</td>
-		</tr>
-	</tbody>
-</table>
+Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
+
+| **Aspecto**                      | **Detalles**                                                                                                           |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                        |
+| **Date**                         | 02/09/2024                                                                                                             |
+| **Time**                         | 3:00 pm                                                                                                                |
+| **Location**                     | La reunión se realizó de forma virtual por la plataforma Discord                                                        |
+| **Prepared By**                  |  Rafael Alberto Cuya Villegas                                                                                                             |
+| **Attendees (to planning meeting)** | Rafael Alberto Cuya Villegas / Dalila Victoria Torres Sanchez / Joaquin Enrique Carranza Tesen / Gomez Hurtado, Miguel Angel / Yair Christofer Aru Acevedo |
+| **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 0), se lograron avances significativos en la creación de la estructura de la Landing Page, incluyendo la definición de los elementos visuales clave y la arquitectura del sitio. Se identificaron mejoras que serán implementadas en futuros sprints.                            |
+| **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de mantener una comunicación clara y efectiva. Se resaltó el buen flujo de trabajo, pero se sugirió dedicar más tiempo a la revisión de cada módulo antes de integrarlo para evitar posibles problemas en la fase de desarrollo posterior. |
+| **Sprint Goal & User Stories**   |         **Our focus is on** *completar el desarrollo de la Landing Page.* **We believe it delivers** *un impacto significativo en la presentación inicial del producto*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la página esté completamente funcional y recibamos retroalimentación positiva de los usuarios durante las primeras pruebas de usabilidad.*                                                             |
+| **Sprint 1 Goal**                | Terminar de desarrollar la Landing Page                                                                              |
+| **Sprint 1 Velocity**            | Velocidad estimada de 11 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                |
+| **Sum of Story Points**          | Se asignaron 11 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado sobre la Landing Page.|
 
 #### 5.2.1.2. Sprint Backlog 1
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+          <!-- Fila de separación para User Story 1 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US001</td>
+        </tr>
+        <tr>
+            <td> US030 </td>
+          	<td> Landing Page Responsive </td>
+          	<td> 01 </td>
+          	<td> Inicio del desarrollo responsive </td>
+            <td> Esta tarea se centra realizar el apartado responsive de nuestra landing page para los diferentes dispositivos. </td>
+            <td> 04 </td>
+            <td> Rafael Alberto Cuya </td>
+            <td> Done  </td>
+        </tr>
+          <!-- Fila de separación para User Story 2 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US002</td>
+        </tr>
+        <tr>
+            <td> US031 </td>
+          	<td> Descripción de servicios en el landing page </td>
+          	<td> 02 </td>
+          	<td> Desarrollo de sección de los servicios</td>
+            <td> Esta tarea se centra en el desarrollo de la sección interna "Servicios" de nuestra Landing Page, donde se proporcionan caracteristicas sobre el proyecto </td>
+            <td> 04 </td>
+            <td> Rafael Alberto Cuya </td>
+            <td> Done </td>
+        </tr>
+          <!-- Fila de separación para User Story 3 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US003</td>
+        </tr>
+        <tr>
+            <td> US032 </td>
+          	<td> Botones de llamada a la acción en el landing page</td>
+          	<td> 03 </td>
+          	<td> Desarrollo de los botones en el header </td>
+            <td> Esta tarea se enfoca en el desarrollo de los botones que seran usados por los usuarios par ala navegación en la página. </td>
+            <td> 04 </td>
+            <td> Rafael Alberto Cuya </td>
+            <td> Done </td>
+        </tr>
+    </tbody>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
