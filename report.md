@@ -1031,11 +1031,11 @@ En esta sección, se mostrará el wireframe y mock-up del landing page.
 
 ### 4.3.1. Landing Page Wireframe
 
-![images](images/Wireframe%20Landing.png)
+[![Wireframe-Landing.png](https://i.postimg.cc/gjyTdpqX/Wireframe-Landing.png)](https://postimg.cc/N2M47WnB)
 
 ### 4.3.2. Landing Page Mock-up
 
-![images](images/MockUp%20Landing.png)
+[![Mock-Up-Landing.png](https://i.postimg.cc/mZ6cN9Qn/Mock-Up-Landing.png)](https://postimg.cc/8sMPTjXd)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1043,29 +1043,35 @@ En esta sección, se mostrará los wireframes, mock-ups, wireflows y user flow d
 
 ### 4.4.1. Web Applications Wireframes
 
-![images](images/Wireframe%20Account.png)
-![images](images/Wireframe%20Sign%20In.png)
-![images](images/Wireframe%20Sign%20In%20Correct.png)
-![images](images/Wireframe%20Log%20In.png)
+[![Wireframe-Account.png](https://i.postimg.cc/NM80hyV1/Wireframe-Account.png)](https://postimg.cc/Vr6wnNz6)
+
+[![Wireframe-Sign-In.png](https://i.postimg.cc/ZnT5JbtX/Wireframe-Sign-In.png)](https://postimg.cc/bDBhTjvR)
+
+[![Wireframe-Sign-In-Correct.png](https://i.postimg.cc/L5N6Xcm5/Wireframe-Sign-In-Correct.png)](https://postimg.cc/D44KpYJ3)
+
+[![Wireframe-Log-In.png](https://i.postimg.cc/T3yYdNF2/Wireframe-Log-In.png)](https://postimg.cc/CRgVJ7w9)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 User Goal: Crear una nueva cuenta e iniciar sesión.
 
-![images](images/Wireflow%20Register.png)
+[![Wireflow-Register.png](https://i.postimg.cc/yd1Mdkxh/Wireflow-Register.png)](https://postimg.cc/cKz9k1Q6)
 
 ### 4.4.3. Web Applications Mock-ups
 
-![images](images/MockUp%20Account.png)
-![images](images/MockUp%20Sign%20In.png)
-![images](images/MockUp%20Sign%20In%20Correct.png)
-![images](images/MockUp%20Log%20In.png)
+[![Mock-Up-Account.png](https://i.postimg.cc/wTCnNW3j/Mock-Up-Account.png)](https://postimg.cc/D8cCkPq9)
+
+[![Mock-Up-Sign-In.png](https://i.postimg.cc/XY6DqpDZ/Mock-Up-Sign-In.png)](https://postimg.cc/7fXNQY4D)
+
+[![Mock-Up-Sign-In-Correct.png](https://i.postimg.cc/4d0Wgd9x/Mock-Up-Sign-In-Correct.png)](https://postimg.cc/Q9pQgjm2)
+
+[![Mock-Up-Log-In.png](https://i.postimg.cc/Vsr8b044/Mock-Up-Log-In.png)](https://postimg.cc/xq27wCwb)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 User Goal: Crear una nueva cuenta e iniciar sesión correctamente.
 
-![images](images/User%20flow%20Register.png)
+[![User-flow-Register.png](https://i.postimg.cc/7PFy1PW4/User-flow-Register.png)](https://postimg.cc/RqL84mmp)
 
 ## 4.5. Web Applications Prototyping
 
@@ -1215,6 +1221,8 @@ Link del Landing Page:
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-![images](images/Evidence%20Landing%20Page%201.PNG)
-![images](images/Evidence%20Landing%20Page%202.PNG)
-![images](images/Evidence%20Landing%20Page%203.PNG)
+[![Evidence-Landing-Page-1.png](https://i.postimg.cc/NfRvdh3H/Evidence-Landing-Page-1.png)](https://postimg.cc/MvZLGLK6)
+
+[![Evidence-Landing-Page-2.png](https://i.postimg.cc/6pzSPBYy/Evidence-Landing-Page-2.png)](https://postimg.cc/XrGQG6Mb)
+
+[![Evidence-Landing-Page-3.png](https://i.postimg.cc/CxMrkWSY/Evidence-Landing-Page-3.png)](https://postimg.cc/3d6ZHfkb)
