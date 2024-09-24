@@ -1157,7 +1157,39 @@ Para el desarrollo de nuestra propuesta de solución, el equipo seguirá las con
 
 ### 5.1.4. Software Deployment Configuration
 
-Para la elaboracion de la landing page, se utilizó los lenguajes de programacion: HTML5, CSS y JavaScript.
+## Configuración para el Despliegue de Productos Digitales
+
+A continuación, se describe la configuración necesaria para realizar el despliegue exitoso de cada producto digital desarrollado. Este documento incluye los pasos necesarios para llevar a cabo la publicación, partiendo de los repositorios de código fuente en nuestra organización.
+
+### Landing Page
+
+**Requisitos para el despliegue:**
+
+- Repositorio en GitHub
+- Permisos necesarios para modificar el repositorio
+- Archivos con el código fuente de la Landing Page
+
+**Pasos para publicar la Landing Page:**
+
+1. Subir los archivos que contienen el código fuente de la Landing Page al repositorio en GitHub.
+
+
+
+2. Acceder a la página de configuración del repositorio que contiene el código fuente.
+
+
+
+3. En la página de configuración, seleccionar la opción `Pages` en el menú de opciones. Esto mostrará todas las configuraciones disponibles para GitHub Pages.
+
+
+
+4. En la sección de GitHub Pages, configurar la opción `Branch` eligiendo la rama que contiene el código que se desea publicar. Luego, hacer clic en el botón `Save`.
+
+[![4.png](https://i.postimg.cc/25bXyTZf/4.png)](https://postimg.cc/gwpKBVsM)
+
+Una vez completados estos pasos y realizada la configuración, y tras un breve período de espera, la Landing Page estará publicada y accesible a través de la URL mostrada en la parte superior de la página.
+
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
