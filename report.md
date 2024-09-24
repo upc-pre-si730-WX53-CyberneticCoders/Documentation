@@ -258,70 +258,10 @@
 
 # STUDENT OUTCOME
 
-<table>
-  <tr>
-    <td><b>Criterio específico</b></td>
-    <td><b>Acciones realizadas</b></td>
-    <td><b>Conclusiones</b></td>
-  </tr>
-  <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-    <td> TB1<br><br>
-         <b>Dalila Victoria Torres Sanchez</b><br>
-<br>        <br>
-                El trabajo realizado en el proceso Lean UX me ayudó a participar en equipos multidisciplinarios de manera eficaz y objetiva, específicamente al colaborar en la creación de User Personas, User Stories y la User Journey Mapping. Estas herramientas permitieron una comprensión más profunda de las necesidades del usuario y facilitaron la comunicación efectiva dentro del equipo, contribuyendo a tomar decisiones basadas en datos y perspectivas diversas. Este enfoque colaborativo aumentó la eficiencia del equipo al implementar soluciones que realmente respondían a los problemas y desafíos detectados.
-            <br> 
-         <b>Rafael Alberto Cuya Villegas </b><br>
-<br>         <br><br> 
-         <b>Miguel Angel Gomez Hurtado</b><br>
-<br> 
-         <br><br>
-        <b>Joaquin Enrique Carranza Tesen</b><br>
-<br>       El proyecto ha resuelto la estructura del documento con el Impact Mapping, que clarifica los objetivos y acciones estratégicas para los segmentos de estudiantes y trabajadores, y cocineros. Las entrevistas han permitido ajustar y entender mejor las necesidades de los usuarios y proveedores. Se ha elaborado un perfil de la startup para definir claramente su propuesta de valor y metas, y se ha realizado un análisis de competidores para identificar el panorama actual del mercado y sus oportunidades.     <br><br> 
-        <b>Yair Christofer Aru Acevedo: Se reunio con los demas integrantes del equipo para la organizacion y realizacion del proyecto asignando puntos a realizar y completándolo.</b>
-<br> 
-           <br><br>
-    <td>TB1<br><br>
-    
-
-<br><br>
-</tr>
-
-
-<br><br>
-
-
-  </tr>
-
-  <tr>
-    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-
-<td> 
-TB1<br><br>
-Dalila Victoria Torres Sanchez
-        <br>
-        El análisis competitivo y la identificación de segmentos objetivo durante el proyecto me ayudaron a profundizar en el conocimiento del sector empresarial al cual estaba dirigido nuestro producto. Utilizando herramientas como el User Task Matrix y el Empathy Mapping, pude identificar los puntos de dolor y oportunidades en el dominio de la experiencia de usuario, lo cual mejoró mi comprensión de cómo aplicar soluciones de software en el contexto específico de este sector. Esto resultó en la elaboración de Lean UX Problem Statements y la creación de hipótesis más acertadas para el desarrollo de un producto que satisfaga las necesidades del mercado.
-        <br>
-
-<br> 
-         <b>Rafael Alberto Cuya Villegas </b><br>
-<br>         <br><br> 
-<b>Miguel Angel Gomez Hurtado</b><br>
-<br>        <br><br> 
-        <b>Joaquin Enrique Carranza Tesen</b>
- <br>       <br><br> 
-<br>  <b>Yair Christofer Aru Acevedo: Utilizando markdown elaboro los puntos del proyecto al añadir informacion en cada uno de ellas, además manejo la herramienta de Figma para la creacion de los wireframes y mock-ups de la landing page y la app web.</b> 
-<br>  <br>
-
-   </td>
-    <td>TB1<br><br>
-Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.
-
-</tr>
-<br><br>
-
-
-</table>
+| Criterio específico                                                                                           | Acciones realizadas   | Conclusiones |
+|--------------------------------------------------------------------------------------------------------------|------------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Dalila Victoria Torres Sanchez**<br><a class="italic">TB1</a><br> Comunicó de manera oral los avances en el diseño de la landing page y el web application. <br><br>**Rafael Alberto Cuya Villegas**<br><a class="italic">TB1</a><br> Empleó de forma exitosa la entrevista y se encuentra preparado para la exposición del desarrollo del review del sprint 1 <br><br> **Joaquin Enrique Carranza Tesen**<br><a class="italic">TB1</a><br> Comunicó de manera rápida los criterios de aceptación para tener un mejor proceso de abstracción.  <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> He coordinado las reuniones del grupo de trabajo y hemos presentado de manera constante pequeños avances en reuniones presenciales despues de clases y reuniones virtuales durante la semana. <br><br> **Yair Christofer Aru Acevedo**<br><a class="italic">TB1</a><br> Durante el desarrollo del entregable, me aseguré de comunicarme de manera efectiva con diferentes rangos de audiencia. En las entrevistas, adapté mi lenguaje según el perfil de cada entrevistado, asegurándome de que comprendieran claramente las preguntas y confirmando los puntos clave al finalizar. Al elaborar el trabajo, presenté la información de forma accesible para diferentes audiencias, profundizando en aspectos técnicos con el equipo especializado y enfocándome en resultados claros. Además, coordiné reuniones en las que utilicé formatos visuales y fomenté la interacción para asegurar que todos los involucrados comprendieran los avances y objetivos. <br><br>  |<br>El equipo ha mejorado la capacidad de adaptar el lenguaje según la audiencia, usando un vocabulario accesible para no técnicos y técnico en discusiones especializadas.<br><br>Hemos logrado comunicar ideas técnicas complejas de forma clara y estructurada, asegurando que los puntos principales sean comprendidos.<br><br>El uso de herramientas visuales como diagramas y presentaciones ha facilitado la comprensión y mejorado la comunicación con diferentes audiencias.<br>|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Dalila Victoria Torres Sanchez**<br><a class="italic">TB1</a><br> Comunicó y registró por escrito las entrevistas de usuario de manera efectiva. <br><br>**Rafael Alberto Cuya Villegas**<br><a class="italic">TB1</a><br> Siguiendo lo enseñado en cursos anteriores y consiguió que de desarrolle de manera exitosa sus responsabilidades establecidas para el Sprint número 1 . <br><br> **Joaquin Enrique Carranza Tesen**<br><a class="italic">TB1</a><br> Solicitó a cada entrevistador que compartiera las necesidades identificadas para avanzar con los User Stories, destacando la importancia de considerar a nuestros competidores en el análisis para mejorar nuestra estrategia. Estableció revisar las respuestas en conjunto para obtener aprobación y avanzar en el proyecto, manteniendo un tono profesional y accesible. <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> Entrege mis partes del trabajo, como los diagramas de C4, el impact mapping, ubiquitous languague, empathy mapping. <br><br> **Yair Christofer Aru Acevedo**<br><a class="italic">TB1</a><br>Me comuniqué con algunos entrevistados a través de WhatsApp, donde coordiné de manera clara y efectiva la fecha y hora de las entrevistas, ajustando el tono y detalle de los mensajes según el perfil del entrevistado. Para la gestión de algunas tareas, utilicé el chat grupal en WhatsApp, donde dejaba por escrito las asignaciones, asegurándome de que todos los miembros del equipo entendieran sus responsabilidades. Además, mantuve un seguimiento activo, informando por escrito cuando las tareas estaban completadas y listas para su revisión, garantizando una comunicación fluida y efectiva entre los diferentes integrantes del grupo. <br><br>  |<br>El equipo ha mejorado en la redacción de informes técnicos detallados para audiencias especializadas y resúmenes ejecutivos simplificados para stakeholders no técnicos.<br><br>Hemos aprendido a estructurar documentos de manera clara y concisa, lo que facilita la comprensión de ideas complejas por parte de diferentes tipos de lectores.<br><br>La revisión colaborativa de los textos ha permitido asegurar la coherencia y efectividad en la comunicación escrita, ajustando el nivel de detalle según la audiencia destinataria.<br>|
 
 # Capítulo 1: Introducción
 
