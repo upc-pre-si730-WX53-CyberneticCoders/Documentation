@@ -1,5 +1,7 @@
 **Universidad Peruana de Ciencias Aplicadas**
 
+![UPC](https://i.postimg.cc/Znmt6mr2/10273809-640x640.avif)
+
 **Ingeniería de Software \- Grupo 5 (WX53)**
 
 **Aplicaciones Web** 
