@@ -24,11 +24,12 @@
 * **Yair Christofer Aru Acevedo  \- u202125984**  
 * **Joaquin Enrique Carranza Tesen  \- U20191B935**  
 
-
-
-
 ## REGISTRO DE VERSIONES DEL INFORME
 
+| Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
+|---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 1.0       | 22/08/2024 | Dalila Victoria Torres Sanchez <br><br> Rafael Alberto Cuya Villegas <br><br> Miguel Angel Gomez Hurtado <br><br> Yair Christofer Aru Acevedo <br><br> Joaquin Enrique Carranza Tesen | Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br><br> Se completó la sección de Competidores (Incluyendo un análisis competitivo y tácticas frente a competidores). <br><br> Se realizó el diseño de entrevistas, el to-be scenario mapping y el impact mapping. <br><br> Se realizó el Needfinding para obtener las user personas, los user task matrix y el user journey mapping. <br><br> Se completó el Needfinding para obtener el emphaty mapping, el as-is scenario mapping y el lenguaje ubicuo. |
+| 1.0       | 22/08/2024 | Dalila Victoria Torres Sanchez <br><br> Rafael Alberto Cuya Villegas <br><br> Miguel Angel Gomez Hurtado <br><br> Yair Christofer Aru Acevedo <br><br> Joaquin Enrique Carranza Tesen | Se concretó con el Requirements Specification,  Product Design y Product Implementation, Validation & Deployment |
 
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
