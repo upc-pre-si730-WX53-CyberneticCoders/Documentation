@@ -1113,7 +1113,19 @@ Para el manejo del proyecto se usará las siguientes herramientas que son clave 
 
 ### 5.1.2. Source Code Management
 
-Organización del GitHub: https://github.com/upc-pre-si730-WX53-CyberneticCoders
+Para desarrollar y documentar nuestra solución, usamos GitHub como plataforma para almacenar tanto la documentación como el código del proyecto. Esta herramienta nos permite monitorear los cambios en cada componente del producto que estamos creando y la utilizaremos también para el control de versiones. Con el fin de garantizar que todo el equipo tenga acceso a la plataforma y que los repositorios para las distintas partes de nuestra solución sean accesibles desde una misma ubicación, hemos establecido una organización en GitHub con el nombre de nuestro producto.
+
+|Organización|URL|
+|-----|---|
+|SI730-2402-WX53-Grupo 5 - Cybernetic Coders|https://github.com/upc-pre-si730-WX53-CyberneticCoders|
+
+Dentro de nuestra organización en GitHub, se encuentran los repositorios correspondientes a cada uno de los productos que desarrollaremos.
+
+|Producto|URL del Repositorio|
+|-----|---|
+|Landing Page|https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage |
+|Web Services|https://github.com/orgs/upc-pre-si730-WX53-CyberneticCoders/repositories |
+|Frontend Web Applications|https://github.com/orgs/upc-pre-si730-WX53-CyberneticCoders/repositories |
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
