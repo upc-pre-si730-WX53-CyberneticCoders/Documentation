@@ -1049,27 +1049,66 @@ Link del prototipo: https://www.figma.com/proto/kJK1QasPM90JWpF0hjdsgf/App-Web?n
 
 En esta sección, se explica las herramientas utilizadas para la elaboracion del proyecto.
 
-### 5.1.1. Software Development Environment Configuration
+### 5.1.1. Software Development Environment Configuration. 
 
-**Requirements Management:**
+En esta sección se especificarán las herramientas de software que se usará para el desarrollo del producto digital para las siguientes tareas:
 
-El proyecto se dividio en diferentes capitulos y se le asigna a cada integrantes los puntos a realizar para la documentacion.
+**Project Management**
 
-**Product UX/UI:**
+Para el manejo del proyecto se usará las siguientes herramientas que son clave para la distribución de responsabilidades y reuniones virtuales.
 
-- Figma: Es una aplicacion web de creacion de plantillas o diseños. Esta plataforma se ha utilizado para la creacion de los Mock-ups y Wireframes de la aplicacion web.
+| Nombre del Producto | Propósito                                                                                   | Ruta de referencia o de descarga    |
+|---------------------|---------------------------------------------------------------------------------------------|-------------------------------------|
+| Trello              | Para la asignación de tareas y actividades para cada integrante del grupo en base a nuestras User Stories. | [https://www.trello.com/](https://www.trello.com/) |
+| Discord             | Plataforma virtual para realizar reuniones del grupo para coordinar y asignar actividades.   | [https://discord.com/](https://discord.com/) |
 
+## Requirements Management
 
-- Lucidchart: Es una aplicacion de diagramas que se utilizo para la creacion de los wireflows y user flows de la aplicacion web que son los pasos que sigue un proceso.
+| Nombre del Producto | Propósito                                                                                     | Ruta de referencia o de descarga                                           |
+|---------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| UXPressia           | Elaboración de User Personas, Empathy Maps, Jurney Maps e Impact Maps.                         | [https://uxpressia.com/](https://uxpressia.com/)                          |
+| Miro                | Elaboración de As-Is y To-Be Scenario Maps                                                    | [https://miro.com/es/](https://miro.com/es/)                              |
+| Microsoft Stream    | Publicación del video que contiene todas las entrevistas realizadas                            | [https://www.microsoft.com/es-es/microsoft-365/microsoft-stream](https://www.microsoft.com/es-es/microsoft-365/microsoft-stream) |
 
-**Software Development:**
+## Requirements Management
 
-- HTML5: Lenguaje de programación para sitios web que se utilizo para la creacion del landing page.
+| Nombre del Producto | Propósito                                                                                     | Ruta de referencia o de descarga                                           |
+|---------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| UXPressia           | Elaboración de User Personas, Empathy Maps, Jurney Maps e Impact Maps.                         | [https://uxpressia.com/](https://uxpressia.com/)                          |
+| Miro                | Elaboración de As-Is y To-Be Scenario Maps                                                    | [https://miro.com/es/](https://miro.com/es/)                              |
+| Microsoft Stream    | Publicación del video que contiene todas las entrevistas realizadas y vídeos del producto y equipo                           | [https://www.microsoft.com/es-es/microsoft-365/microsoft-stream](https://www.microsoft.com/es-es/microsoft-365/microsoft-stream) |
 
+## Product UX/UI Design
 
-**Software Documentation:**
+| Nombre del Producto | Propósito                                                                   | Ruta de referencia o de descarga                                         |
+|---------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Structurizr         | Modelado y documentación de arquitectura de software utilizando diagramas   | [https://structurizr.com/](https://structurizr.com/)                    |
+| LucidChart          | Creación de diagramas de flujo, mapas conceptuales y diagramas UML           | [https://www.lucidchart.com/](https://www.lucidchart.com/)              |
+| Vertabelo           | Modelado de bases de datos a nivel lógico y físico                          | [https://vertabelo.com/](https://vertabelo.com/)                        |
+| Figma               | Elaboración de Wireframes, Mock-ups y Prototypes                            | [https://www.figma.com](https://www.figma.com)                          |
 
-- Markdown: Se utilizó para la documentación de todo el proyecto.
+## Software Development
+
+| Nombre del Producto | Propósito                                                                                           | Ruta de referencia o de descarga                                             |
+|---------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| CSS                 | Cascade Styles Sheet maneja el diseño de nuestra Landing Page.                                       | [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp) |
+| HTML                | El lenguaje base de etiquetado que usaremos en varias partes del desarrollo de nuestro proyecto.      | [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp) |
+| JavaScript          | Lenguaje de programación utilizado en algunas características de nuestra Landing Page y en otras partes del proyecto. | [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) |
+| Webstorm       | Entorno de desarrollo integrado (IDE) para la codificación de nuestro proyecto.                      | [https://www.jetbrains.com/es-es/webstorm/](https://www.jetbrains.com/es-es/webstorm/)          |
+
+## Software Deployment
+
+| Nombre del Producto | Propósito                                                 | Ruta de referencia o de descarga                                |
+|---------------------|-----------------------------------------------------------|-----------------------------------------------------------------|
+| GitHub Pages        | Para realizar el despliegue de nuestra Landing Page.       | [https://pages.github.com/](https://pages.github.com/)           |
+| Firebase            | Plataforma para el despliegue y hosting de aplicaciones web y móviles. | [https://firebase.google.com/](https://firebase.google.com/)     |
+
+## Software Documentation
+
+| Nombre del Producto | Propósito                                                                | Ruta de referencia o de descarga                                  |
+|---------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Markdown            | Lenguaje de marcado ligero utilizado para documentar todo el desarrollo del producto. | [https://markdown.es/](https://markdown.es/)                      |
+| HackMD              | Herramienta colaborativa para la creación y edición de documentación en Markdown. | [https://hackmd.io/](https://hackmd.io/)                          |
 
 
 ### 5.1.2. Source Code Management
