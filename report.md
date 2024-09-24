@@ -1254,8 +1254,8 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
 | **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de mantener una comunicación clara y efectiva. Se resaltó el buen flujo de trabajo, pero se sugirió dedicar más tiempo a la revisión de cada módulo antes de integrarlo para evitar posibles problemas en la fase de desarrollo posterior. |
 | **Sprint Goal & User Stories**   |         **Our focus is on** *completar el desarrollo de la Landing Page.* **We believe it delivers** *un impacto significativo en la presentación inicial del producto*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la página esté completamente funcional y recibamos retroalimentación positiva de los usuarios durante las primeras pruebas de usabilidad.*                                                             |
 | **Sprint 1 Goal**                | Terminar de desarrollar la Landing Page                                                                              |
-| **Sprint 1 Velocity**            | Velocidad estimada de 11 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                |
-| **Sum of Story Points**          | Se asignaron 11 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado sobre la Landing Page.|
+| **Sprint 1 Velocity**            | Velocidad estimada de 9 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                |
+| **Sum of Story Points**          | Se asignaron 9 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado sobre la Landing Page.|
 
 #### 5.2.1.2. Sprint Backlog 1
 
@@ -1333,3 +1333,77 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
 [![Evidence-Landing-Page-2.png](https://i.postimg.cc/6pzSPBYy/Evidence-Landing-Page-2.png)](https://postimg.cc/XrGQG6Mb)
 
 [![Evidence-Landing-Page-3.png](https://i.postimg.cc/CxMrkWSY/Evidence-Landing-Page-3.png)](https://postimg.cc/3d6ZHfkb)
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review. 
+
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review. 
+
+Hasta el momento, no se ha realizado ningún avance en la implementación de endpoints, por lo que no se incluye ningún detalle de documentación.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review. 
+
+Durante el sprint, se llevaron a cabo las actividades necesarias para el despliegue de los productos. A continuación, se describen las acciones realizadas para cada uno de ellos:
+
+## Landing Page
+
+Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las configuraciones requeridas en GitHub, como se detalla a continuación:
+
+1. Todos los integrantes del equipo necesitaron acceso a GitHub mediante sus cuentas personales.
+
+2. Un miembro fue responsable de crear una organización en GitHub, facilitando la colaboración en un entorno centralizado.
+
+3. Los demás miembros se unieron a la organización a través de una invitación por correo.
+
+4. Dentro de la organización, se creó el repositorio "Documentation", donde se documentó el proyecto inicialmente utilizando Markdown.
+
+5. Posteriormente, se generó un repositorio específico para el desarrollo de la Landing Page.
+
+6. Un integrante del equipo subió los archivos iniciales necesarios para comenzar el desarrollo en dicho repositorio, y verificó que tenía los permisos de edición adecuados.
+
+7. Todos los miembros colaboraron tanto en el desarrollo como en la documentación de los repositorios, siguiendo las convenciones acordadas.
+
+8. Una vez que el desarrollo alcanzó un nivel avanzado, un miembro del equipo procedió con el despliegue de la Landing Page, siguiendo los pasos previamente definidos en el punto 5.1.4
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración ella durante el sprint en diferentes repositorios de la organización.
+	
+## Landing Page
+
+- **Evidencias de participación en el repositorio de la Landing Page**
+
+[![image.png](https://i.postimg.cc/HxNCBQ3B/image.png)](https://postimg.cc/ftYFbSG9)
+
+Para la colaboración en este repositorio se optó por que uno se encargará desde el comienzo sobre la Landing Page y los demás ofrecieran su apoyo con ideas y a cerrar problemas creativos.
+
+- **Evidencias de participación en el repositorio "Documentation"**
+
+[![image.png](https://i.postimg.cc/sD7vGXDt/image.png)](https://postimg.cc/MvZWhzBD)
+
+Para la colaboración en la documentación se optó por repartir diferente responsabilidades y que cada una de las misma se de acorde a la carga que tenga los compañeros con otros repositorios de la organización.
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+- TB1: Para concluir este trabajo se tuvo en cuenta el ddd y el enfoque de trabajo ágil en cual se hizo un enfasís en revisar diariamente el avance de cada uno en reuniones por discord. A su vez, se planea una retroalimentación de lo evaluado para la semana 5.
+
+# Bibliografía
+
+# Anexos
+
+## Trello Board:
+
+Link:
+
+## Repositories
+
+* [Cybernetic Coders - Organization](https://github.com/upc-pre-si730-WX53-CyberneticCoders)
+* [Cybernetic Coders - Landing Page](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage)
+* [Cybernetic Coders - Documentation](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Documentation)
