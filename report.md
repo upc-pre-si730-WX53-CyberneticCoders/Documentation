@@ -1127,6 +1127,22 @@ Dentro de nuestra organización en GitHub, se encuentran los repositorios corres
 |Web Services|https://github.com/orgs/upc-pre-si730-WX53-CyberneticCoders/repositories |
 |Frontend Web Applications|https://github.com/orgs/upc-pre-si730-WX53-CyberneticCoders/repositories |
 
+### Implementación de GitFlow
+
+Hemos adoptado el modelo de desarrollo **GitFlow**, propuesto por Vincent Driessen en *"A Successful Git Branching Model"*. Este flujo se aplicará a todos los repositorios y servirá como base para la gestión eficiente de ramas y versiones. Además, hemos decidido seguir las recomendaciones de **Conventional Commits** para estandarizar los mensajes de commit en todas las ramas del repositorio, facilitando la trazabilidad y la coherencia.
+
+#### Ramas en GitFlow
+
+En cada repositorio se crearán las siguientes ramas clave:
+
+| **Rama**   | **Descripción** |
+|------------|-----------------|
+| **main**   | Contiene el código estable y definitivo del proyecto. Solo se actualizará con versiones completamente validadas y revisadas por todo el equipo. |
+| **develop**| Almacena el código en desarrollo. Es la rama base para la integración de nuevas características y futuras versiones. Las ramas "feature" y "release" se fusionan en "develop". |
+| **feature/xxx** | Ramas dedicadas a la implementación de nuevas características. Se crean desde "develop" y se nombran de forma descriptiva (ejemplo: `feature/nueva-funcionalidad`). Se fusionan de nuevo a "develop" una vez completado el desarrollo. |
+| **release/xxx** | Utilizada para preparar una nueva versión del código. Se crean desde "develop" y, tras revisión, se fusionan tanto en "main" como en "develop". Las ramas de release se nombrarán siguiendo el formato `release/vX.X.X` (ejemplo: `release/v1.0.0`). |
+| **hotfix/xxx**| Se usan para corregir errores críticos encontrados en "main". Las correcciones se fusionan de vuelta tanto a "main" como a "develop". Las ramas de hotfix seguirán el formato `hotfix/corrección` (ejemplo: `hotfix/correccion-login`). |
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration
