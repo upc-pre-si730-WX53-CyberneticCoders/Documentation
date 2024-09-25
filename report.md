@@ -763,11 +763,11 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 ### 2.3.4. Empathy Mapping
 #### Universitarios y Profesionales Ocupados
 
-![Empathy Mapping del Segmento 1]()
+![Empathy Mapping del Segmento 1](images/EmpathyMapSegmento1.png)
 
 #### Cocineros Caseros
 
-![Empathy Mapping del Segmento 2]()
+![Empathy Mapping del Segmento 2](images/EmpathyMapSegmento2.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 #### Universitarios y Profesionales Ocupados
