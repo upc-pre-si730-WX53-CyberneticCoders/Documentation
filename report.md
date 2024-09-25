@@ -1283,7 +1283,7 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
         </tr>
           <!-- Fila de separación para User Story 1 -->
         <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US001</td>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US030</td>
         </tr>
         <tr>
             <td> US030 </td>
@@ -1297,7 +1297,7 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
         </tr>
           <!-- Fila de separación para User Story 2 -->
         <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US002</td>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US031</td>
         </tr>
         <tr>
             <td> US031 </td>
@@ -1311,7 +1311,7 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
         </tr>
           <!-- Fila de separación para User Story 3 -->
         <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US003</td>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US032</td>
         </tr>
         <tr>
             <td> US032 </td>
@@ -1328,19 +1328,28 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+En estos commits se puede observar los últimos updates y merge a la rama main que se hizo en el repositorio de la Landing Page.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage | main | 13d6051 | Update SaboresCercanos.html | Actualización de elementos del body del Landing| 04/09/2024 |
+| https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage | main | a396a2f | Update styles.css | Actualización a los estilos de la landig page | 04/09/2024 |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+En está sección se puede apreciar que en el commit en cuestión se subió la información de las 3 historias de usuario para este sprint 1.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing | feature | bb40311 | docs: Update US032.feature | - | 24/09/24 |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review. 
+
 [![Evidence-Landing-Page-1.png](https://i.postimg.cc/NfRvdh3H/Evidence-Landing-Page-1.png)](https://postimg.cc/MvZLGLK6)
 
 [![Evidence-Landing-Page-2.png](https://i.postimg.cc/6pzSPBYy/Evidence-Landing-Page-2.png)](https://postimg.cc/XrGQG6Mb)
 
 [![Evidence-Landing-Page-3.png](https://i.postimg.cc/CxMrkWSY/Evidence-Landing-Page-3.png)](https://postimg.cc/3d6ZHfkb)
-
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
-
-
-
-#### 5.2.1.5. Execution Evidence for Sprint Review. 
-
-
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review. 
 
