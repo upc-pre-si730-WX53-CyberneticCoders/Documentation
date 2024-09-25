@@ -1407,7 +1407,7 @@ En esta sección se evidencia la colaboración ella durante el sprint en diferen
 
 [![image.png](https://i.postimg.cc/HxNCBQ3B/image.png)](https://postimg.cc/ftYFbSG9)
 
-Para la colaboración en este repositorio se optó por que uno se encargará desde el comienzo sobre la Landing Page y los demás ofrecieran su apoyo con ideas y a cerrar problemas creativos.
+Para la colaboración en este repositorio se optó por qué uno se encargará desde el comienzo sobre la Landing Page y los demás ofrecieran su apoyo con ideas y a cerrar problemas creativos.
 
 - **Evidencias de participación en el repositorio "Documentation"**
 
@@ -1420,6 +1420,25 @@ Para la colaboración en la documentación se optó por repartir diferente respo
 ## Sprint #2
 
 #### 5.2.2.1. Sprint Planning 2. 
+
+Para el desarrollo de este sprint se planificó de la siguiente manera.
+a
+
+| **Aspecto**                      | **Detalles**                                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Date**                         | 18/09/2024                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Time**                         | 10:00 pm                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Location**                     | La reunión se realizó de forma virtual por la plataforma Meet                                                                                                                                                                                                                                                                                                                                  |
+| **Prepared By**                  | Rafael Alberto Cuya Villegas                                                                                                                                                                                                                                                                                                                                                                   |
+| **Attendees (to planning meeting)** | Rafael Alberto Cuya Villegas / Dalila Victoria Torres Sanchez / Gomez Hurtado, Miguel Angel / Yair Christofer Aru Acevedo                                                                                                                                                                                                                                                                      |
+| **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 1), se logro documentar la información sobre el startup, nuestros segmentos objetivos, entrevistados, historias de usuario y la creación de la landing page con la informacion principal sobre nuestra aplicacion web.                                                                                                                                      |
+| **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo completaron de manera exitosa las tareas asignadas teniendo listo la informacion a usar para la elaboracion del front-end de la aplicacion web.                                                                                                                                                                                                 |
+| **Sprint Goal & User Stories**   | **Our focus is on** *desarrollar el front-end de la aplicacion web.* **We believe it delivers** *la presentacion y utilizacion de la aplicacion para conectar*  **to**  *los segmentos objetivos en una aplicacion que busque satisfacer sus necesidades.* **This will be confirmed when** *la aplicacion es funcional para los usuarios permitiendo buscar las comidas que desean solicitar.* |
+| **Sprint 1 Goal**                | Desarrollar el front-end de la aplicacion web.                                                                                                                                                                                                                                                                                                                                                 |
+| **Sprint 1 Velocity**            | Velocidad estimada de 9 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                                                                                                                                                                            |
+| **Sum of Story Points**          | Se asignaron 9 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado sobre la aplicación web.                                                                                                                                                                                                                                                                       |
+
 
 #### 5.2.2.2. Sprint Backlog 2. 
 
