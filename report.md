@@ -128,70 +128,24 @@ Para la elaboracion de la landing page, se utilizó los lenguajes de programacio
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.1. Sprint Planning 2.
 
-<table>
-	<tbody>
-		<tr>
-			<td>  Sprint #  </td>
-			<td>Sprint 2</td>
-		</tr>
-		<tr>
-			<td colspan="2">Sprint Planning Background</td>
-		</tr>
-		<tr>
-			<td>Date</td>
-			<td>28 de septiembre</td>
-		</tr>
-		<tr>
-			<td>Time</td>
-			<td>10 hora</td>
-		</tr>
-		<tr>
-			<td>Location</td>
-			<td>En la plataforma de Google Meet</td>
-		</tr>
-		<tr>
-			<td>Prepared By</td>
-			<td>Yair Christofer Aru Acevedo</td>
-		</tr>
-		<tr>
-        <td>Attendees (to planning meeting)</td>
-            <td>
-                <ul>
-                    <li>Rafael Alberto Cuya Villegas</li>
-                    <li>Dalila Victoria Torres Sanchez</li>
-                    <li>Yair Christofer Aru Acevedo</li>
-                </ul>
-            </td>
-        </tr>
-		<tr>
-			<td>Sprint n-2 Review Summary</td>
-			<td>Organization about Web Application</td>
-		</tr>
-		<tr>
-			<td>Sprint n-2 Retrospective Summary</td>
-			<td>Organizacion del diseño y la estructura de pestañas de la aplicación</td>
-		</tr>
-		<tr>
-			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
-		</tr>
-		<tr>
-			<td>Sprint 2 Goal</td>
-			<td>
-                Programar la aplicacion web del startup con las pestañas necesarias para lograr cubrir las necesidades de los usuarios.
-            </td>
-		</tr>
-		<tr>
-			<td>Sprint 2 Velocity</td>
-			<td>2 semana</td>
-		</tr>
-		<tr>
-			<td>Sum of Story Points</td>
-			<td></td>
-		</tr>
-	</tbody>
-</table>
+Para el desarrollo de este sprint se planificó de la siguiente manera.
+
+| **Aspecto**                      | **Detalles**                                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Date**                         | 18/09/2024                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Time**                         | 10:00 pm                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Location**                     | La reunión se realizó de forma virtual por la plataforma Meet                                                                                                                                                                                                                                                                                                                                  |
+| **Prepared By**                  | Rafael Alberto Cuya Villegas                                                                                                                                                                                                                                                                                                                                                                   |
+| **Attendees (to planning meeting)** | Rafael Alberto Cuya Villegas / Dalila Victoria Torres Sanchez / Gomez Hurtado, Miguel Angel / Yair Christofer Aru Acevedo                                                                                                                                                                                                                                                                      |
+| **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 1), se logro documentar la información sobre el startup, nuestros segmentos objetivos, entrevistados, historias de usuario y la creación de la landing page con la informacion principal sobre nuestra aplicacion web.                                                                                                                                      |
+| **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo completaron de manera exitosa las tareas asignadas teniendo listo la informacion a usar para la elaboracion del front-end de la aplicacion web.                                                                                                                                                                                                 |
+| **Sprint Goal & User Stories**   | **Our focus is on** *desarrollar el front-end de la aplicacion web.* **We believe it delivers** *la presentacion y utilizacion de la aplicacion para conectar*  **to**  *los segmentos objetivos en una aplicacion que busque satisfacer sus necesidades.* **This will be confirmed when** *la aplicacion es funcional para los usuarios permitiendo buscar las comidas que desean solicitar.* |
+| **Sprint 1 Goal**                | Desarrollar el front-end de la aplicacion web.                                                                                                                                                                                                                                                                                                                                                 |
+| **Sprint 1 Velocity**            | Velocidad estimada de 9 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                                                                                                                                                                            |
+| **Sum of Story Points**          | Se asignaron 9 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado sobre la aplicación web.                                                                                                                                                                                                                                                                       |
 
 #### 5.2.2.2.Sprint Backlog 2.
 
