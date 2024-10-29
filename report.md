@@ -130,6 +130,69 @@ Para la elaboracion de la landing page, se utilizó los lenguajes de programacio
 
 #### 5.2.2.1.Sprint Planning 2.
 
+<table>
+	<tbody>
+		<tr>
+			<td>  Sprint #  </td>
+			<td>Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>28 de septiembre</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>10 hora</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>En la plataforma de Google Meet</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Yair Christofer Aru Acevedo</td>
+		</tr>
+		<tr>
+        <td>Attendees (to planning meeting)</td>
+            <td>
+                <ul>
+                    <li>Rafael Alberto Cuya Villegas</li>
+                    <li>Dalila Victoria Torres Sanchez</li>
+                    <li>Yair Christofer Aru Acevedo</li>
+                </ul>
+            </td>
+        </tr>
+		<tr>
+			<td>Sprint n-2 Review Summary</td>
+			<td>Organization about Web Application</td>
+		</tr>
+		<tr>
+			<td>Sprint n-2 Retrospective Summary</td>
+			<td>Organizacion del diseño y la estructura de pestañas de la aplicación</td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Goal</td>
+			<td>
+                Programar la aplicacion web del startup con las pestañas necesarias para lograr cubrir las necesidades de los usuarios.
+            </td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Velocity</td>
+			<td>2 semana</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 #### 5.2.2.2.Sprint Backlog 2.
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
@@ -147,6 +210,68 @@ Para la elaboracion de la landing page, se utilizó los lenguajes de programacio
 ### 5.2.3. Sprint 3
 
 #### 5.2.3.1.Spring Planning 3.
+
+<table>
+	<tbody>
+		<tr>
+			<td>  Sprint #  </td>
+			<td>Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>29 de octubre</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>2 horas</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>En la plataforma de Google Meet</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Yair Christofer Aru Acevedo</td>
+		</tr>
+		<tr>
+        <td>Attendees (to planning meeting)</td>
+            <td>
+                <ul>
+                    <li>Yair Christofer Aru Acevedo</li>
+                </ul>
+            </td>
+        </tr>
+		<tr>
+			<td>Sprint n-3 Review Summary</td>
+			<td>Organization about Landing Page, Web Application and Web Services</td>
+		</tr>
+		<tr>
+			<td>Sprint n-3 Retrospective Summary</td>
+			<td>Finalizacion de detalles de la Landing Page y Web Application y la creacion del Web Services</td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Goal</td>
+			<td>
+                Corregir los ultimos errores del Landing Page y Web Application.
+                Crear el Web Services.
+            </td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Velocity</td>
+			<td>1 semana</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.3.2.Sprint Backlog 3.
 
