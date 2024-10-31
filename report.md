@@ -121,6 +121,8 @@ Link del prototipo:
 
 ### 4.7.1. Class Diagrams
 
+<img src="/assets/ClassDiagram.jpg" width="800"/>
+
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
