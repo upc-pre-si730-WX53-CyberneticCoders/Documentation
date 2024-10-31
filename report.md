@@ -130,6 +130,8 @@ Link del prototipo:
 
 ### 4.8.1. Database Diagram
 
+<img src="/assets/Database.png" width="800"/>
+
 ### 4.8.2. Database Dictionary
 
 #### User
