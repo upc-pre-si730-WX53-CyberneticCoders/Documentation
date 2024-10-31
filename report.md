@@ -115,6 +115,8 @@ Link del prototipo:
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+<img src="/assets/Component.jpeg" width="800"/>
+
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
