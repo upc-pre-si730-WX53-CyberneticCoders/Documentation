@@ -111,6 +111,8 @@ Link del prototipo:
 
 ### 4.6.2. Software Architecture Container Diagrams
 
+<img src="/assets/Container.jpeg" width="800"/>
+
 ### 4.6.3. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
