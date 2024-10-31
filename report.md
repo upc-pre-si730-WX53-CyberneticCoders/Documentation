@@ -107,6 +107,8 @@ Link del prototipo:
 
 ### 4.6.1. Software Architecture Context Diagram
 
+<img src="/assets/Contextdiagram.jpeg" width="800"/>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
 ### 4.6.3. Software Architecture Components Diagrams
