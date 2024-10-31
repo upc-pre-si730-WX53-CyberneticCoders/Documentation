@@ -20,15 +20,14 @@
 
 * **Dalila Victoria Torres Sanchez \- U20221F734**  
 * **Rafael Alberto Cuya Villegas \- U201913495**
-* **Miguel Angel Gomez Hurtado \- U202220294**  
 * **Yair Christofer Aru Acevedo  \- u202125984**  
-* **Joaquin Enrique Carranza Tesen  \- U20191B935**  
+
 
 ## REGISTRO DE VERSIONES DEL INFORME
 
 | Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| 1.0       | 22/08/2024 | Dalila Victoria Torres Sanchez <br><br> Rafael Alberto Cuya Villegas <br><br> Miguel Angel Gomez Hurtado <br><br> Yair Christofer Aru Acevedo <br><br> Joaquin Enrique Carranza Tesen | Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br><br> Se completó la sección de Competidores (Incluyendo un análisis competitivo y tácticas frente a competidores). <br><br> Se realizó el diseño de entrevistas, el to-be scenario mapping y el impact mapping. <br><br> Se realizó el Needfinding para obtener las user personas, los user task matrix y el user journey mapping. <br><br> Se completó el Needfinding para obtener el emphaty mapping, el as-is scenario mapping y el lenguaje ubicuo. |
+| 1.0       | 22/08/2024 | Dalila Victoria Torres Sanchez <br><br> Rafael Alberto Cuya Villegas <br><br> Yair Christofer Aru Acevedo <br> | Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br><br> Se completó la sección de Competidores (Incluyendo un análisis competitivo y tácticas frente a competidores). <br><br> Se realizó el diseño de entrevistas, el to-be scenario mapping y el impact mapping. <br><br> Se realizó el Needfinding para obtener las user personas, los user task matrix y el user journey mapping. <br><br> Se completó el Needfinding para obtener el emphaty mapping, el as-is scenario mapping y el lenguaje ubicuo. |
 | 1.0       | 22/08/2024 | Dalila Victoria Torres Sanchez <br><br> Rafael Alberto Cuya Villegas <br><br> Miguel Angel Gomez Hurtado <br><br> Yair Christofer Aru Acevedo <br><br> Joaquin Enrique Carranza Tesen | Se concretó con el Requirements Specification,  Product Design y Product Implementation, Validation & Deployment |
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
@@ -307,25 +306,12 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 
 ### 1.1.2. Perfiles De Integrantes Del Equipo
 
-#### Nombre: Gomez Hurtado, Miguel Angel | U202220294
-
-> Tengo 21 años y estoy estudiando la carrera de Ingeniería Informática. Me encuentro en mi segundo ciclo en la UPC Sede San Miguel. Soy una persona académica y siempre estoy abierto al diálogo. Me apasiona mi carrera y siempre estoy dispuesto a aprender sobre este curso para brindar a mis futuros usuarios un buen producto acorde a sus necesidades.
->
-> ![Joaquin](https://i.postimg.cc/pdJ6DBxS/MiFoto.jpg)
-
 ---
 #### Nombre: Yair Christofer Aru Acevedo | U202125984
 
 > Estudiante de 6to ciclo de la carrera de Ingenieria de Software. Conocimientos en los lenguajes de programacon: java, javascript, c++, c#, python.
 >
 > [Imagen]
-
----
-#### Nombre: Joaquin Enrique Carranza Tesen | U20191B935
-> Soy Joaquín Carranza, estudiante de la carrera de ingeniería de software. Me considero una persona responsable y comunicativa. Me gusta hacer deporte así como los videojuegos. Soy proactivo a la hora de proponer soluciones y me gusta trabajar en equipo.
->
-![Joaquin](https://i.postimg.cc/QCSvj3k5/integrante-Joaquin.png)
-
 
 ---
 #### Nombre:  | Dalila Victoria Torres Sanchez
@@ -387,7 +373,6 @@ Los principales puntos del funcionamiento son:
 * Pagos y Gestión de Pedidos: La plataforma procesa pagos y gestiona el estado de los pedidos, asegurando un servicio eficiente.  
 * Entrega o Recogida: Dependiendo del acuerdo, los cocineros entregan la comida o los consumidores la recogen, con opciones de rastreo en tiempo real.  
 * Sistema de Revisión y Feedback: Consumidores y cocineros pueden dejar reseñas y calificaciones para mejorar la calidad del servicio.  
-* Recetas de Cocina y Comunidad: Los cocineros pueden compartir recetas, creando una comunidad culinaria activa que enriquece la experiencia del usuario.
 
 **How much?**
 
@@ -1087,8 +1072,10 @@ Link del prototipo: https://www.figma.com/proto/kJK1QasPM90JWpF0hjdsgf/App-Web?n
 ![images](https://i.postimg.cc/sXS1616b/Components-Sabores.png)
 
 ## 4.7. Software Object-Oriented Design
+![images](https://i.postimg.cc/sXS1616b/Components-Sabores.png)
 
 ### 4.7.1. Class Diagrams
+[![class-diagram.png](https://i.postimg.cc/FzNNDdV9/class-diagram.png)](https://postimg.cc/1nCkzzdT)
 
 ### 4.7.2. Class Dictionary
 
@@ -1474,3 +1461,5 @@ Link:
 * [Cybernetic Coders - Organization](https://github.com/upc-pre-si730-WX53-CyberneticCoders)
 * [Cybernetic Coders - Landing Page](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage)
 * [Cybernetic Coders - Documentation](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Documentation)
+* [Cybernetic Coders - Frontend](https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic)
+* [Cybernetic Coders - Backend](https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic)
