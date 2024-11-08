@@ -194,7 +194,9 @@ Para el desarrollo de este sprint se planificó de la siguiente manera.
         <td>Attendees (to planning meeting)</td>
             <td>
                 <ul>
-                    <li>Yair Christofer Aru Acevedo</li>
+                    	<li>Yair Christofer Aru Acevedo</li>
+			<li>Dalila Victoria Torres Sanchez</li>
+			<li>Rafael Alberto Cuya Villegas</li>
                 </ul>
             </td>
         </tr>
@@ -228,8 +230,27 @@ Para el desarrollo de este sprint se planificó de la siguiente manera.
 </table>
 
 #### 5.2.3.2.Sprint Backlog 3.
+| Sprint # | Sprint 3 |
+| -------- | -------- |
+| User Story | Work-Item / Task | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| --------- | ---------------- | -- | ----- | ----------- | ------------------- | ----------- | -------------------------------------------- |
+| US031 | Descripción de servicios en el landing page | 2 | Crear contenido descriptivo | Redactar el contenido que describa los servicios ofrecidos en la landing page. | 2 | Rafael | Done |
+| US001 | Registro de consumidor | 4 | Crear endpoint de registro | Implementar un endpoint que permita registrar a los consumidores en la base de datos. | 8 | Dalila | To-do |
+| US014 | Registro de cocineros | 17 | Crear endpoint de registro | Implementar un endpoint que permita registrar a los cocineros en la base de datos. | 8 | Yair | To-do |
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
+| ---------- | ------ | --------- | -------------- | ------------------- | ----------------- |
+| Landingpage | main | 8783bb274606c26ef6693e4893df2cf787411290 | Update index.html | - | 31/10/2024 |
+| Landingpage | main | 368b5aa57eb246e6f8c68c331273818b7641fac0 | Update styles.css | - | 31/10/2024 |
+| Landingpage | main | a5640f4360c5ed1fc560bdab20630135e7fc59c9 | Add files via upload | - | 31/10/2024 |
+| Landingpage | main | 299c7692867e3b0991ee915bdaa45853d24c3e8c | Update index.html | - | 31/10/2024 |
+| Landingpage | main | a11aff23f4c5fbd20fa20de0fae70152758da218 | Update index.html | - | 31/10/2024 |
+| Landingpage | main | 5831b95f74ba10eecdf0ee193fe3e133f732b6f9 | Update styles.css | - | 31/10/2024 |
+| Landingpage | main | 22339cd0e7df58f9e735bb044421962a149dfb3b | Add files via upload | - | 31/10/2024 |
+| Landingpage | main | 3ef01a1dad11a060b5ecdb91f7f6ea1f24b79462 | Update index.html | - | 31/10/2024 |
+| Landingpage | main | c7ccd62973ccec9c0f60c291c65714458b49be31 | Add files via upload | - | 31/10/2024 |
+| Landingpage | main | 3342d88f02087082f75e84a1dc0bd7625d575a14 | Update styles.css | - | 31/10/2024 |
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
