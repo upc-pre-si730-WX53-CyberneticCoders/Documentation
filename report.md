@@ -270,6 +270,10 @@ Testing suite de los user stories avanzados - en Gerkhin:
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+[Captura-de-pantalla-2024-11-08-173941.png](https://postimg.cc/0zyTYQb9)
+[Captura-de-pantalla-2024-11-08-174024.png](https://postimg.cc/cvkVXSnw)
+[Captura-de-pantalla-2024-11-08-174103.png](https://postimg.cc/p9g3MJkd)
+[Captura-de-pantalla-2024-11-08-174127.png](https://postimg.cc/tZWwqnmN)
 
 ## 5.3. Validation Interviews.
 
