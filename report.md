@@ -284,3 +284,11 @@ Testing suite de los user stories avanzados - en Gerkhin:
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
+
+## Anexos
+- **Landing Page:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage)
+- **Landing Page desplegado:** [https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/](https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/)
+- **Frontend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic](https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic)
+- **Frontend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend)
+- **Backend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic](https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic)
+- **Gerkhin:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing)
