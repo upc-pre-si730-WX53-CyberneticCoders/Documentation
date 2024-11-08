@@ -284,7 +284,7 @@ Testing suite de los user stories avanzados - en Gerkhin:
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
-
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f734_upc_edu_pe/EVW4DiFn-ztPuoL4y3_WawUBZDh2a8av0q8D44XcCmYwSg?e=7zZYcw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f734_upc_edu_pe/EVW4DiFn-ztPuoL4y3_WawUBZDh2a8av0q8D44XcCmYwSg?e=7zZYcw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ## Anexos
 - **Landing Page:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage)
 - **Landing Page desplegado:** [https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/](https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/)
