@@ -253,8 +253,17 @@ Para el desarrollo de este sprint se planificó de la siguiente manera.
 | Landingpage | main | 3342d88f02087082f75e84a1dc0bd7625d575a14 | Update styles.css | - | 31/10/2024 |
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+Testing suite de los user stories avanzados - en Gerkhin:  
+[https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing.git](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing.git)
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+[Captura-de-pantalla-2024-11-03-143512.png](https://postimg.cc/wRHwF0fn)
+
+[Captura-de-pantalla-2024-11-03-143521.png](https://postimg.cc/0Kfc4Dhj)
+
+[Captura-de-pantalla-2024-11-03-143535.png](https://postimg.cc/pp0thFyP)
+
+[Captura-de-pantalla-2024-11-03-143543.png](https://postimg.cc/68gJzxdS)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
