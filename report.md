@@ -294,6 +294,17 @@ Microsoft Stream
 Youtube
 [https://youtu.be/EhlZ2m8nsjM](https://youtu.be/EhlZ2m8nsjM)
 
+## Video About-the-Team.
+
+Imagen
+[about-the-team-Dalila-Torres-00-00-00-00-Imagen-fija001.png](https://postimg.cc/0KgTq0kf)
+
+Microsoft Stream
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f734_upc_edu_pe/ET05hJm2PvdKnPAn8xL8h6EBwjBCdQes2dChDsixnoGbzw?e=3iu5R8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f734_upc_edu_pe/ET05hJm2PvdKnPAn8xL8h6EBwjBCdQes2dChDsixnoGbzw?e=3iu5R8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Youtube
+[https://youtu.be/PyDN7IEkdmw](https://youtu.be/PyDN7IEkdmw)
+
 ## Anexos
 - **Landing Page:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage)
 - **Landing Page desplegado:** [https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/](https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/)
