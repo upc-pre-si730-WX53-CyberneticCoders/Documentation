@@ -230,13 +230,13 @@ Para el desarrollo de este sprint se planificó de la siguiente manera.
 </table>
 
 #### 5.2.3.2.Sprint Backlog 3.
-| Sprint # | Sprint 3 |
-| -------- | -------- |
-| User Story | Work-Item / Task | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
-| --------- | ---------------- | -- | ----- | ----------- | ------------------- | ----------- | -------------------------------------------- |
-| US031 | Descripción de servicios en el landing page | 2 | Crear contenido descriptivo | Redactar el contenido que describa los servicios ofrecidos en la landing page. | 2 | Rafael | Done |
-| US001 | Registro de consumidor | 4 | Crear endpoint de registro | Implementar un endpoint que permita registrar a los consumidores en la base de datos. | 8 | Dalila | To-do |
-| US014 | Registro de cocineros | 17 | Crear endpoint de registro | Implementar un endpoint que permita registrar a los cocineros en la base de datos. | 8 | Yair | To-do |
+| Sprint # | Sprint 3                                                                                            |
+|----------|-----------------------------------------------------------------------------------------------------|
+| **User Story** | **Title**                       | **Id** | **Title**                | **Description**                                                                              | **Estimation (Hours)** | **Assigned To** | **Status (To-do / InProcess / ToReview / Done)** |
+| ---------- | ---------------------------------- | ------ | ------------------------ | -------------------------------------------------------------------------------------------- | ----------------------- | ----------------| ------------------------------------------------- |
+| US031      | Descripción de servicios en el landing page | 2      | Crear contenido descriptivo | Redactar el contenido que describa los servicios ofrecidos en la landing page.               | 2                       | Rafael          | Done                                            |
+| US001      | Registro de consumidor              | 4      | Crear endpoint de registro | Implementar un endpoint que permita registrar a los consumidores en la base de datos.       | 8                       | Dalila          | To-do                                           |
+| US014      | Registro de cocineros               | 17     | Crear endpoint de registro | Implementar un endpoint que permita registrar a los cocineros en la base de datos.          | 8                       | Max             | To-do                                           |
 
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
