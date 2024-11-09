@@ -1061,29 +1061,122 @@ Link del prototipo: https://www.figma.com/proto/kJK1QasPM90JWpF0hjdsgf/App-Web?n
 
 ### 4.6.1. Software Architecture Context Diagram
 
-![images](https://i.postimg.cc/90FbCtH6/Context-Sabores.png)
+<img src="/assets/Contextdiagram.jpeg" width="800"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-![images](https://i.postimg.cc/rp7KN5JS/Container-Sabores.png)
+<img src="/assets/Container.jpeg" width="800"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-![images](https://i.postimg.cc/sXS1616b/Components-Sabores.png)
+<img src="/assets/Component.jpeg" width="800"/>
 
 ## 4.7. Software Object-Oriented Design
-![images](https://i.postimg.cc/sXS1616b/Components-Sabores.png)
 
 ### 4.7.1. Class Diagrams
-[![class-diagram.png](https://i.postimg.cc/FzNNDdV9/class-diagram.png)](https://postimg.cc/1nCkzzdT)
+
+<img src="/assets/ClassDiagram.jpg" width="800"/>
 
 ### 4.7.2. Class Dictionary
+
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-![images](https://i.postimg.cc/zB1qf77P/Database.png)
+<img src="/assets/Database.png" width="800"/>
+
+### 4.8.2. Database Dictionary
+
+#### User
+
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| Usuario_ID | int | Identificador del usuario. |
+| First_name | TEXT | Primer nombre del usuario. |
+| Last_name | TEXT | Apellido del usuario. |
+| address | TEXT | Dirección del usuario. |
+| password | VARCHAR | Contraseña del usuario. |
+| email | VARCHAR | Correo electrónico del usuario. |
+
+#### Chef
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| Chef_ID | int | Identificador del cocinero. |
+| First_name | TEXT | Primer nombre del cocinero. |
+| Last_name | TEXT | Apellido del cocinero. |
+| address | TEXT | Dirección del cocinero. |
+| password | VARCHAR | Contraseña del cocinero. |
+| email | VARCHAR | Correo electrónico del cocinero. |
+
+#### Menu
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| Chef_ID | int | Llave Foranea - Identificador del chef al que le pertenece el menú. |
+| menu_id | INT | Identificador del Menú. |
+| menu_name | VARCHAR | Nombre del Menú. |
+| Menu_description | TEXT | Descripción del Menú. |
+
+#### Order
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| id_ order | int | Identificador de la orden. |
+| Customer_ID | int | Llave Foranea - Identificador del cliente que realizó la orden. |
+| Chef_ID | int | Llave Foranea - Identificador del cocinero que recibió la orden. |
+| total-orders_id | INT | Llave Foranea - Identificador del voucher al que pertenece la orden. |
+| item_name | VARCHAR | Nombre del item que se ordenó. |
+| price | DECIMAL | Precio de la orden. |
+| address | TEXT | Dirección a la que va dirigida la orden. |
+
+#### Order-Details
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| id_order | int | Llave Foranea - Identificador de la orden a la que pertenecen los detalles. |
+| order_detail_id | INT | Identificador de los detalles de orden. |
+| shipping_time | TIME | Hora programada por el cliente para la realización del pedido. |
+| UnitPrice | DECIMAL | Precio unitario. |
+| Quantity | INT | Cantidad |
+
+#### Dish
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| dish_id | int | Identificador del platillo. |
+| dish_name | TEXT | Nombre del platillo. |
+| Category_ID | int | Llave Foranea - Identificador de la categoría del platillo. | 
+| Cod_inform_nutri_ID | INT | Llave Foranea - Identificador de la información nutricional. |
+
+#### Publication
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| public_ID | INT | Identificador de la publicación. |
+| Chef_ID | INT | Llave Foranea - Identificador del cocinero que hizo la publicación. |
+| public_date | DATE | Fecha en la que se realizó la publicación. |
+| title_public | TEXT | Título de la publicación. |
+| descripcion | TEXT | Descripción de la publicación. |
+
+#### Reviews
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| review_id | INT | Identificador de la reseña. |
+| Customer_ID | INT | Llave Foranea - Identificador del cliente que realizó la reseña. |
+| Chef_ID | INT | Llave Foranea - Identificador del Cocinero que recibe la reseña. |
+| review_day | DATE | Día de la reseña. |
+| Comments | TEXT | Comentarios de la reseña. |
+| Points | INT(5) | Puntos de la reseña. |
+
+#### Category
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| menu_id | INT | Llave Foranea - Identificador del menú. |
+| Category_ID | INT | Identificador de la categoría. |
+| Category_name | VARCHAR | Nombre de la categoría. |
+
+#### Plans-Type
+| Campo | Tipo de Dato | Descripción |
+|-|-|-|
+| plan_id | INT | Identificador del plan. |
+| plan_name | TEXT | Nombre del plan. |
+| price | DECIMAL | Precio del plan. |
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 
