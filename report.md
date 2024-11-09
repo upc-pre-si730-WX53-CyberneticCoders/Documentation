@@ -1650,6 +1650,13 @@ Testing suite de los user stories avanzados - en Gerkhin:
 [Captura-de-pantalla-2024-11-08-174103.png](https://postimg.cc/p9g3MJkd)
 [Captura-de-pantalla-2024-11-08-174127.png](https://postimg.cc/tZWwqnmN)
 
+Link Trello:
+
+[https://trello.com/invite/b/672ebba7eebe39b315d4eb86/ATTI31cc9c9ebc69fbdcf74da6caeafff498A2BAE749/cybernetic-coders](https://trello.com/invite/b/672ebba7eebe39b315d4eb86/ATTI31cc9c9ebc69fbdcf74da6caeafff498A2BAE749/cybernetic-coders)
+
+Imagen Trello:
+[Imagen Trello](https://postimg.cc/75G7c3Rh)
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -1680,15 +1687,6 @@ Microsoft Stream
 Youtube
 [https://youtu.be/PyDN7IEkdmw](https://youtu.be/PyDN7IEkdmw)
 
-## Anexos
-- **Landing Page:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage)
-- **Landing Page desplegado:** [https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/](https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/)
-- **Frontend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic](https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic)
-- **Frontend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend)
-- **Backend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic](https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic)
-- **Gerkhin:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing)
-
-
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -1698,10 +1696,16 @@ Youtube
 # Bibliografía
 
 # Anexos
+- **Landing Page:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage)
+- **Landing Page desplegado:** [https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/](https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/)
+- **Frontend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic](https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic)
+- **Frontend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend)
+- **Backend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic](https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic)
+- **Gerkhin:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing)
 
 ## Trello Board:
 
-Link:
+Link: [https://trello.com/invite/b/672ebba7eebe39b315d4eb86/ATTI31cc9c9ebc69fbdcf74da6caeafff498A2BAE749/cybernetic-coders](https://trello.com/invite/b/672ebba7eebe39b315d4eb86/ATTI31cc9c9ebc69fbdcf74da6caeafff498A2BAE749/cybernetic-coders)
 
 ## Repositories
 
