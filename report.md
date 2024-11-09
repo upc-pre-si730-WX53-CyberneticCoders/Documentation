@@ -1535,6 +1535,160 @@ https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend.git
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1.Spring Planning 3.
+
+<table>
+	<tbody>
+		<tr>
+			<td>  Sprint #  </td>
+			<td>Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>29 de octubre</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>2 horas</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>En la plataforma de Google Meet</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Yair Christofer Aru Acevedo</td>
+		</tr>
+		<tr>
+        <td>Attendees (to planning meeting)</td>
+            <td>
+                <ul>
+                    	<li>Yair Christofer Aru Acevedo</li>
+			<li>Dalila Victoria Torres Sanchez</li>
+			<li>Rafael Alberto Cuya Villegas</li>
+                </ul>
+            </td>
+        </tr>
+		<tr>
+			<td>Sprint n-3 Review Summary</td>
+			<td>Organization about Landing Page, Web Application and Web Services</td>
+		</tr>
+		<tr>
+			<td>Sprint n-3 Retrospective Summary</td>
+			<td>Finalizacion de detalles de la Landing Page y Web Application y la creacion del Web Services</td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Goal</td>
+			<td>
+                Corregir los ultimos errores del Landing Page y Web Application.
+                Crear el Web Services.
+            </td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Velocity</td>
+			<td>1 semana</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+#### 5.2.3.2.Sprint Backlog 3.
+| Sprint # | Sprint 3                                                                                            |
+|----------|-----------------------------------------------------------------------------------------------------|
+| **User Story** | **Title**                       | **Id** | **Title**                | **Description**                                                                              | **Estimation (Hours)** | **Assigned To** | **Status (To-do / InProcess / ToReview / Done)** |
+| ---------- | ---------------------------------- | ------ | ------------------------ | -------------------------------------------------------------------------------------------- | ----------------------- | ----------------| ------------------------------------------------- |
+| US031      | Descripción de servicios en el landing page | 2      | Crear contenido descriptivo | Redactar el contenido que describa los servicios ofrecidos en la landing page.               | 2                       | Rafael          | Done                                            |
+| US001      | Registro de consumidor              | 4      | Crear endpoint de registro | Implementar un endpoint que permita registrar a los consumidores en la base de datos.       | 8                       | Dalila          | To-do                                           |
+| US014      | Registro de cocineros               | 17     | Crear endpoint de registro | Implementar un endpoint que permita registrar a los cocineros en la base de datos.          | 8                       | Max             | To-do                                           |
+
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
+| ---------- | ------ | --------- | -------------- | ------------------- | ----------------- |
+| Landingpage | main | 8783bb274606c26ef6693e4893df2cf787411290 | Update index.html | - | 31/10/2024 |
+| Landingpage | main | 368b5aa57eb246e6f8c68c331273818b7641fac0 | Update styles.css | - | 31/10/2024 |
+| Landingpage | main | a5640f4360c5ed1fc560bdab20630135e7fc59c9 | Add files via upload | - | 31/10/2024 |
+| Landingpage | main | 299c7692867e3b0991ee915bdaa45853d24c3e8c | Update index.html | - | 31/10/2024 |
+| Landingpage | main | a11aff23f4c5fbd20fa20de0fae70152758da218 | Update index.html | - | 31/10/2024 |
+| Landingpage | main | 5831b95f74ba10eecdf0ee193fe3e133f732b6f9 | Update styles.css | - | 31/10/2024 |
+| Landingpage | main | 22339cd0e7df58f9e735bb044421962a149dfb3b | Add files via upload | - | 31/10/2024 |
+| Landingpage | main | 3ef01a1dad11a060b5ecdb91f7f6ea1f24b79462 | Update index.html | - | 31/10/2024 |
+| Landingpage | main | c7ccd62973ccec9c0f60c291c65714458b49be31 | Add files via upload | - | 31/10/2024 |
+| Landingpage | main | 3342d88f02087082f75e84a1dc0bd7625d575a14 | Update styles.css | - | 31/10/2024 |
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+Testing suite de los user stories avanzados - en Gerkhin:  
+[https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing.git](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing.git)
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+[Captura-de-pantalla-2024-11-03-143512.png](https://postimg.cc/wRHwF0fn)
+
+[Captura-de-pantalla-2024-11-03-143521.png](https://postimg.cc/0Kfc4Dhj)
+
+[Captura-de-pantalla-2024-11-03-143535.png](https://postimg.cc/pp0thFyP)
+
+[Captura-de-pantalla-2024-11-03-143543.png](https://postimg.cc/68gJzxdS)
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+[Captura-de-pantalla-2024-11-08-173941.png](https://postimg.cc/0zyTYQb9)
+[Captura-de-pantalla-2024-11-08-174024.png](https://postimg.cc/cvkVXSnw)
+[Captura-de-pantalla-2024-11-08-174103.png](https://postimg.cc/p9g3MJkd)
+[Captura-de-pantalla-2024-11-08-174127.png](https://postimg.cc/tZWwqnmN)
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+
+Imagen
+[20241108-183305-00-00-00-00-Imagen-fija001.png](https://postimg.cc/rK4pWfR8)
+
+Microsoft Stream
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f734_upc_edu_pe/EVW4DiFn-ztPuoL4y3_WawUBZDh2a8av0q8D44XcCmYwSg?e=7zZYcw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f734_upc_edu_pe/EVW4DiFn-ztPuoL4y3_WawUBZDh2a8av0q8D44XcCmYwSg?e=7zZYcw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Youtube
+[https://youtu.be/EhlZ2m8nsjM](https://youtu.be/EhlZ2m8nsjM)
+
+## Video About-the-Team.
+
+Imagen
+[about-the-team-Dalila-Torres-00-00-00-00-Imagen-fija001.png](https://postimg.cc/0KgTq0kf)
+
+Microsoft Stream
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f734_upc_edu_pe/ET05hJm2PvdKnPAn8xL8h6EBwjBCdQes2dChDsixnoGbzw?e=3iu5R8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f734_upc_edu_pe/ET05hJm2PvdKnPAn8xL8h6EBwjBCdQes2dChDsixnoGbzw?e=3iu5R8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Youtube
+[https://youtu.be/PyDN7IEkdmw](https://youtu.be/PyDN7IEkdmw)
+
+## Anexos
+- **Landing Page:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Landingpage)
+- **Landing Page desplegado:** [https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/](https://upc-pre-si730-wx53-cyberneticcoders.github.io/Landingpage/)
+- **Frontend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic](https://github.com/upc-pre-si730-WX53-CyberneticCoders/front-end-cybernetic)
+- **Frontend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Frontend)
+- **Backend:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic](https://github.com/upc-pre-si730-WX53-CyberneticCoders/back-end-cybernetic)
+- **Gerkhin:** [https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing](https://github.com/upc-pre-si730-WX53-CyberneticCoders/Testing)
+
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
