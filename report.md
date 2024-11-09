@@ -238,6 +238,7 @@ Para el desarrollo de este sprint se planificó de la siguiente manera.
 | US001 | Registro de consumidor | 4 | Crear endpoint de registro | Implementar un endpoint que permita registrar a los consumidores en la base de datos. | 8 | Dalila | To-do |
 | US014 | Registro de cocineros | 17 | Crear endpoint de registro | Implementar un endpoint que permita registrar a los cocineros en la base de datos. | 8 | Yair | To-do |
 
+
 #### 5.2.3.3.Development Evidence for Sprint Review.
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
 | ---------- | ------ | --------- | -------------- | ------------------- | ----------------- |
